@@ -1,0 +1,130 @@
+.indexButtons
+  background: white
+
+.example-button-container
+  max-height: 600px
+  overflow: scroll
+  overflow-x: hidden
+  
+
+.question-container
+  margin-left: 15px
+  font-size: 17pt
+  
+table 
+  width: 100%
+  position: relative
+  text-decoration: none
+  text-transform: uppercase
+  letter-spacing: 2px
+  font-size: 20px
+  transition: 0.5s
+  font-family: 'Lobster', cursive
+
+.quiz
+    overflow: hidden
+  
+.mat-card,thead
+  background: linear-gradient(#1c135c, #1cb5e0)
+  box-shadow: 0px .5em 1.5em #aaa
+  border-radius: 10px
+  color: white
+  opacity: 0.85
+  font-family: 'Lobster', cursive
+  //font-family: 'Orbitron', sans-serif
+
+.option-button
+  background: linear-gradient(#000046, #1cb5e0)
+  opacity: 0.7
+  position: relative
+  padding: 10px 30px
+  color: white
+  text-decoration: none
+  text-transform: uppercase
+  letter-spacing: 2px
+  font-size: 20px
+  transition: 0.5s
+  font-family: 'Lobster', cursive
+
+  &:hover
+    background: #21ebff
+    color: #050801
+    box-shadow: 0 0 5px #03e9f4, 0 0 25px #03e9f4, 0 0 50px #03e9f4, 0 0 200px #03e9f4
+    -webkit-box-reflect: below 1px linear-gradient(transparent, #0005)
+
+  &:before
+    content: ''
+    position: absolute
+    top: 0
+    left: 0
+    width: 10px
+    height: 10px
+    border-top: 2px solid #21ebff
+    border-left: 2px solid #21ebff
+    transition: 0.5s
+    transition-delay: 0.5s
+
+  &:hover:before
+    width: 100%
+    height: 100%
+    transition-delay: 0s
+
+  &:after
+    content: ''
+    position: absolute
+    bottom: 0
+    right: 0
+    width: 10px
+    height: 10px
+    border-bottom: 2px solid #21ebff
+    border-right: 2px solid #21ebff
+    transition: 0.5s
+    transition-delay: 0.5s
+
+  &:hover:after
+    width: 100%
+    height: 100%
+    transition-delay: 0s
+.wrong-option
+  background: #ff8e25
+  color: #050801
+  box-shadow: 0 0 5px #ff8e25, 0 0 25px #ff8e25, 0 0 50px #ff8e25, 0 0 200px #ff8e25
+  -webkit-box-reflect: below 1px linear-gradient(transparent, #0005)
+  &:hover
+    background: #faa340
+    color: #050801
+    box-shadow: 0 0 5px #ff8e25, 0 0 25px #ff8e25, 0 0 50px #ff8e25, 0 0 200px #ff8e25
+    -webkit-box-reflect: below 1px linear-gradient(transparent, #0005)
+
+.correct-option
+  background: #5162fa
+  color: #050801
+  box-shadow: 0 0 5px #5162fa, 0 0 25px #5162fa, 0 0 50px #5162fa, 0 0 200px #5162fa
+  -webkit-box-reflect: below 1px linear-gradient(transparent, #0005)
+  &:hover
+    background: #5162fa
+    color: #111
+    box-shadow: 0 0 5px #5162fa, 0 0 25px #5162fa, 0 0 50px #5162fa, 0 0 200px #5162fa
+    -webkit-box-reflect: below 1px linear-gradient(transparent, #5162fa)
+
+progress
+  width: 100%
+  border-radius: 14px
+  box-shadow: inset 0px 1px 1px rgba(221, 98, 98, 0.5), 0px 1px 0px rgba(223, 13, 13, 0.2)
+progress::-webkit-progress-bar
+  background-color: #21ebff
+  opacity: 0.8
+  border-radius: 7px
+progress::-webkit-progress-value
+  background-image: -webkit-linear-gradient(-45deg, transparent 33%, rgba(0, 0, 0, 0.1) 33%, rgba(0, 0, 0, 0.1) 66%, transparent 66%), -webkit-linear-gradient(top, rgba(255, 255, 255, 0.25), rgba(0, 0, 0, 0.25)), -webkit-linear-gradient(left, #09c, #f44)
+  border-radius: 2px
+  background-size: 35px 20px, 100% 100%, 100% 100%
+
+// .particles-button
+//   place-content: stretch space-around
+//   align-items: stretch
+//   flex-direction: row
+//   box-sizing: border-box
+//   display: flex
+//   max-height: 100%
+//   width: 50%

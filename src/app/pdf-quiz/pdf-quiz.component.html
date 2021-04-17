@@ -1,0 +1,90 @@
+<div fxLayout="row wrap" class="quiz" fxLayoutAlign="space-around center" padding="10px" fxFill *ngIf = "!completed">
+
+    <mat-card fxFlex="25">
+      <div class="example-button-container" padding="10px">
+        <button *ngFor="let q of answersList; index as i; trackBy: trackByFn" mat-mini-fab class="indexButtons"
+          (click)="index = i ; answer=answersList[i];timeLeft= 60;timeTaken=0;"
+          [ngStyle]="{'background-color': answersList[i].colourCode}">
+          {{i+1}}
+        </button>
+      </div>
+    </mat-card>
+  
+    <div fxFlex="70" fxLayout="column wrap" fxLayoutAlign="space-around center" class="answer-container">
+    <mat-card fxLayoutAlign="space-around stretch">{{ time | date: 'hh:mm:ss a' }}</mat-card> <br>
+      <div class="particles-button"
+      [pSize]="6"
+      libParticleEffectButton
+      (pComplete)="hidden1= false;"
+      pType="triangle"
+      pEasing="easeOutQuart"
+      pParticlesAmountCoefficient="4"
+      pOscillationCoefficient="2"
+      pColor="#fff"
+      pDuration="500"
+      [pHidden]="hidden1"
+      (click)="hiding()" >
+        <div fxLayout="column wrap" >
+  
+          <mat-card fxLayoutAlign="space-around stretch">
+            <p>Seconds Left...{{timeLeft}}......Seconds spent..{{timeTaken}}..</p>
+          </mat-card> <br>
+          <div class="container" fxLayout="row wrap" padding="10px" fxLayoutAlign="space-around stretch">
+            <mat-card>Answer to the question number {{answer.QuestionNumber}} is</mat-card>
+          </div>
+          <br>
+          <div class="container" fxLayoutGap.xs="0" fxLayout="row wrap" padding="30px"
+            fxLayoutAlign="space-around stretch">
+            <button mat-button class="option-button"
+              [ngClass]="{'wrong-option':selectedOptionNumber == 1 && selectedOptionNumber!= answer.CorrectOption,'correct-option':answer.CorrectOption == 1 && selectedOptionNumber!= 0}"
+              (click)="selectedOption(1)"><span>Option 1</span></button>
+            <button mat-button class="option-button"
+              [ngClass]="{'wrong-option':selectedOptionNumber == 2 && selectedOptionNumber!= answer.CorrectOption,'correct-option':answer.CorrectOption == 2 && selectedOptionNumber!= 0}"
+              (click)="selectedOption(2)"><span>Option 2</span></button>
+          </div>
+          <br>
+          <div class="container" fxLayoutGap.xs="0" fxLayout="row wrap" padding="10px"
+            fxLayoutAlign="space-around center">
+            <button mat-button class="option-button"
+              [ngClass]="{'wrong-option':selectedOptionNumber == 3 && selectedOptionNumber!= answer.CorrectOption,'correct-option':answer.CorrectOption == 3 && selectedOptionNumber!= 0}"
+              (click)="selectedOption(3)"><span>Option 3</span></button>
+            <button mat-button class="option-button"
+              [ngClass]="{'wrong-option':selectedOptionNumber == 4 && selectedOptionNumber!= answer.CorrectOption,'correct-option':answer.CorrectOption == 4 && selectedOptionNumber!= 0}"
+              (click)="selectedOption(4)"><span>Option 4</span></button>
+          </div>
+          <br>
+  
+        </div>
+        <progress value={{progress}} max="100"></progress>
+      </div>
+    </div>
+  </div>
+  <table mat-table [dataSource]="answersList" class="mat-elevation-z8" *ngIf="completed">
+
+
+    <ng-container matColumnDef="QuestionNumber">
+      <th mat-header-cell *matHeaderCellDef> No. </th>
+      <td mat-cell *matCellDef="let element"> {{element.QuestionNumber}} </td>
+    </ng-container>
+  
+    <!-- Name Column -->
+    <ng-container matColumnDef="CorrectOption">
+      <th mat-header-cell *matHeaderCellDef> Correct Option </th>
+      <td mat-cell *matCellDef="let element"> {{element.CorrectOption}} </td>
+    </ng-container>
+    
+    <!-- Symbol Column -->
+    <ng-container matColumnDef="colourCode">
+        <th mat-header-cell *matHeaderCellDef> Result </th>
+        <td mat-cell *matCellDef="let element"> {{element.result}} </td>
+      </ng-container>
+
+    <!-- Weight Column -->
+    <ng-container matColumnDef="timeTaken">
+      <th mat-header-cell *matHeaderCellDef> Time Taken </th>
+      <td mat-cell *matCellDef="let element"> {{element.timeTaken}} </td>
+    </ng-container>
+  
+    <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+    <tr mat-row *matRowDef="let row; columns: displayedColumns;"></tr>
+  </table>
