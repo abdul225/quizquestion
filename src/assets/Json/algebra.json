@@ -1,104 +1,274 @@
 Que.1 If a3 - b3 = 56 and ab = 8, then what is the value of a - b?
-I. 7
-2. 6
-3. 1
-4. 2
-Que. 2 If 5x./2 - (4/3) x (9x./2 - 6) = -x./2, then what is the value of x?
-I. -8/3
-2. 3/8
-3. 8/3
-4. -3/8
-Que. 3 If a3 + b3 = 28 and ab= 3, then what is the value of a+ b?
-I. 2
-2. 4
-3. 9
-4. 3
-Que. 4 If 5x / 6 - (4 / 3)(2 - 3x / 2) = 1 / 3, then what is the value of x?
-I. 17/18
-2. -18 / 17
-3. 18 /17
-4. -17 / 18
-Que. 5 If a3 + b3 = 208 and ab= -12, then what is the value of a+ b?
-I. 8
-2. 12
-3. 11
-4. 4
-Que. 6 If (3x)/5 - (4/5)(10/3 -x./2) = -2/3, then what is the value ofx?
-I. - 2
-2. 10 / 3
-3. 2
-4. -10 / 3
+",
+        "option1": "7
+",
+        "option2": "6
+",
+        "option3": "1
+",
+        "option4": "2
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 2 If 5x./2 - (4/3) x (9x./2 - 6) = -x./2, then what is the value of x?
+",
+        "option1": "-8/3
+",
+        "option2": "3/8
+",
+        "option3": "8/3
+",
+        "option4": "-3/8
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 3 If a3 + b3 = 28 and ab= 3, then what is the value of a+ b?
+",
+        "option1": "2
+",
+        "option2": "4
+",
+        "option3": "9
+",
+        "option4": "3
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 4 If 5x / 6 - (4 / 3)(2 - 3x / 2) = 1 / 3, then what is the value of x?
+",
+        "option1": "17/18
+",
+        "option2": "-18 / 17
+",
+        "option3": "18 /17
+",
+        "option4": "-17 / 18
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 5 If a3 + b3 = 208 and ab= -12, then what is the value of a+ b?
+",
+        "option1": "8
+",
+        "option2": "12
+",
+        "option3": "11
+",
+        "option4": "4
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 6 If (3x)/5 - (4/5)(10/3 -x./2) = -2/3, then what is the value ofx?
+",
+        "option1": "- 2
+",
+        "option2": "10 / 3
+",
+        "option3": "2
+",
+        "option4": "-10 / 3
 (2)
-Que. 7
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 7
 I.
 Thrice of a number is 24 more than one-third of it. The number is
 15
-2. 9
-3. 8
-4. 12
-Que. 8 The value of 515 x 485 is:
-I. 20825
-2. 250225
-3. 200825
-4. 249775
-Que. 9 If p + q = 7, pq = 5, then the value of p3 + q3 is:
-I. 448
-2. 64
-3. 238
-4. 34
-Que. 10 Ifx + 3y + 2 = 0 then value ofx3 + 27y3 + 8 - 18xy is:
+",
+        "option2": "9
+",
+        "option3": "8
+",
+        "option4": "12
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 8 The value of 515 x 485 is:
+",
+        "option1": "20825
+",
+        "option2": "250225
+",
+        "option3": "200825
+",
+        "option4": "249775
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 9 If p + q = 7, pq = 5, then the value of p3 + q3 is:
+",
+        "option1": "448
+",
+        "option2": "64
+",
+        "option3": "238
+",
+        "option4": "34
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 10 Ifx + 3y + 2 = 0 then value ofx3 + 27y3 + 8 - 18xy is:
 J. 1
-2. -2
-3. 0
-4. 2
+",
+        "option2": "-2
+",
+        "option3": "0
+",
+        "option4": "2
 Que.11
 J. 1
-2. 0
-3. -2
-4. 2
+",
+        "option2": "0
+",
+        "option3": "-2
+",
+        "option4": "2
 2 2 2 2(a6+b6-c6) If a + b - c = 0, then the value of---- 1s:
 3a2 b2 c2
-Que. 12 Ifx, y, z are three numbers such that x + y = 13, y + z = 15 and z + x = 16, then the value of xy+xz is:
-I. 36/5
-2. 5/18
-3. 18/5
-4. 5/36
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 12 Ifx, y, z are three numbers such that x + y = 13, y + z = 15 and z + x = 16, then the value of xy+xz is:
+",
+        "option1": "36/5
+",
+        "option2": "5/18
+",
+        "option3": "18/5
+",
+        "option4": "5/36
 (3)
-Que. 13 If a ✓ 2 b2 2 = 2b = 8c and a+ b + c = 13 then the value of a+ +c 1s:
-I. -5/6
-2. 9/2
-3. -9/2
-4. 5/6
-Que. 14 (3a - 4b)3 is equal to:
-I. 9a2
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 13 If a ✓ 2 b2 2 = 2b = 8c and a+ b + c = 13 then the value of a+ +c 1s:
+",
+        "option1": "-5/6
+",
+        "option2": "9/2
+",
+        "option3": "-9/2
+",
+        "option4": "5/6
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 14 (3a - 4b)3 is equal to:
+",
+        "option1": "9a2
 - 16b2
-2. 27a3
+",
+        "option2": "27a3
 - 64b3
-3. 27a3
+",
+        "option3": "27a3
 - 64b3
 - 108a2b + 144ab2
-4. 9a2 - 24ab + 16b2
-Que. 15 Expand: (4a + 3b + 2c)2
-I. 16a2 + 9b2 + 4c2 + 24ab + 12bc + 16ca
-2. 16a2 + 9b2 + 4c2
+",
+        "option4": "9a2 - 24ab + 16b2
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 15 Expand: (4a + 3b + 2c)2
+",
+        "option1": "16a2 + 9b2 + 4c2 + 24ab + 12bc + 16ca
+",
+        "option2": "16a2 + 9b2 + 4c2
 - 24ab - 12bc - 16ca
-3. 4a2 + 3b + 2c2 + 24ab + 12bc + 16ca
-4. 16a2
+",
+        "option3": "4a2 + 3b + 2c2 + 24ab + 12bc + 16ca
+",
+        "option4": "16a2
 - 9b2 + 4c2
 - 24ab + 12bc - 16ca
 2c
 Que.16 If A+ B = 12 and AB = 17, what is the value of A3 + B3 ?
-I. 1116
-2. 1166
-3. 1106
-4. 1213
-Que. 17 If a2 + b2 + c2 = 300 and ab +be+ ca = 50 then what is the value of a+ b + c ? (Given that a, b and c are
-I. 15
-2. 22
-3. 20
-4. 25
+",
+        "option1": "1116
+",
+        "option2": "1166
+",
+        "option3": "1106
+",
+        "option4": "1213
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 17 If a2 + b2 + c2 = 300 and ab +be+ ca = 50 then what is the value of a+ b + c ? (Given that a, b and c are
+",
+        "option1": "15
+",
+        "option2": "22
+",
+        "option3": "20
+",
+        "option4": "25
 all positive)
-Que. 18 If a4 + 1/a4
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 18 If a4 + 1/a4
 = 50, a> 0 ,then find the value of a3 + 1/a3
 .
 I.
@@ -108,19 +278,49 @@ I.
 ✓ 2(1 + ✓ 13 ) - (-1 -2✓ TI)
 ✓ 2(1 + ✓ 13 ) (-1 +2✓ TI)
 (4)
-4. ✓ 2(1- ✓ 13 )(-1 +2✓ 13 )
-Que. 19 25a2 -9 is factored as:
-I. (5a-3)2
-2. (5a + 3) (5a-3)
-3. (25a + 1) (a-9)
-4. (5a + 1) (5a-9)
-Que. 20 Ifx + y + z = 10 and xy + yz + zx = 15, then find the value ofx3 + y3 + z3
+",
+        "option4": "✓ 2(1- ✓ 13 )(-1 +2✓ 13 )
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 19 25a2 -9 is factored as:
+",
+        "option1": "(5a-3)2
+",
+        "option2": "(5a + 3) (5a-3)
+",
+        "option3": "(25a + 1) (a-9)
+",
+        "option4": "(5a + 1) (5a-9)
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 20 Ifx + y + z = 10 and xy + yz + zx = 15, then find the value ofx3 + y3 + z3
 - 3xyz.
-I. 550
-2. 525
-3. 575
-4. 660
-Que. 21 Expand ( 􀁍 + 1)
+",
+        "option1": "550
+",
+        "option2": "525
+",
+        "option3": "575
+",
+        "option4": "660
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 21 Expand ( 􀁍 + 1)
 3
 3 5
 I.
@@ -137,102 +337,277 @@ x3 xy xy2 y3
 21
 +
 TI + Ts + 12s
-Que. 22 Find the product of (a+ b + 2c) (a2 + b2 + 4c2- ab-2bc-2ca).
-I. a3 + b3 + 8c3-abc
-2. a3 + b3 + 8c3
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 22 Find the product of (a+ b + 2c) (a2 + b2 + 4c2- ab-2bc-2ca).
+",
+        "option1": "a3 + b3 + 8c3-abc
+",
+        "option2": "a3 + b3 + 8c3
 - 6abc
-3. a3 + b3 + 8c3
+",
+        "option3": "a3 + b3 + 8c3
 - 2abc
-4. a3 + b3 + 6c3
+",
+        "option4": "a3 + b3 + 6c3
 - 6abc
-Que. 23 The sum and the difference of the two numbers are 27 and 3 respectively. What is the ratio of the two
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 23 The sum and the difference of the two numbers are 27 and 3 respectively. What is the ratio of the two
 numbers?
-I. 4:7
-2. 2: 1
-3. 5:3
-4. 5:4
-Que. 24 30 dozen of nuts were bought for Rs. 14400 and another 32 packets of nuts (20 nuts in each packet) were
+",
+        "option1": "4:7
+",
+        "option2": "2: 1
+",
+        "option3": "5:3
+",
+        "option4": "5:4
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 24 30 dozen of nuts were bought for Rs. 14400 and another 32 packets of nuts (20 nuts in each packet) were
 bought for Rs. 57600. If the nuts are mixed and then sold in a packet of five for Rs. 432, then how much is
 (5)
 the profit percentage?
-I. 25%
-2. 15%
-3. 20%
-4. 30%
-Que. 25 A number is divided into three palis such that thrice the first part, six times the second paii and eight times
+",
+        "option1": "25%
+",
+        "option2": "15%
+",
+        "option3": "20%
+",
+        "option4": "30%
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 25 A number is divided into three palis such that thrice the first part, six times the second paii and eight times
 the third paii ai·e equal. If the first pa1i is Rs. 1600, what is the third pa1i?
-I. Rs. 900
-2. Rs. 750
-3. Rs. 450
-4. Rs. 600
-Que. 26 The coefficient of y in the expansion of (2y - 5)3, is:
-I. -150
-2. 50
-3. 150
-4. -30
-Que. 27 The value of 1512 - 1492 is:
-I. 400
-2. 600
-3. 300
-4. 2
+",
+        "option1": "Rs. 900
+",
+        "option2": "Rs. 750
+",
+        "option3": "Rs. 450
+",
+        "option4": "Rs. 600
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 26 The coefficient of y in the expansion of (2y - 5)3, is:
+",
+        "option1": "-150
+",
+        "option2": "50
+",
+        "option3": "150
+",
+        "option4": "-30
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 27 The value of 1512 - 1492 is:
+",
+        "option1": "400
+",
+        "option2": "600
+",
+        "option3": "300
+",
+        "option4": "2
 z
-Que. 28 If 1 - 64x3
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 28 If 1 - 64x3
 - 12x + px2 = (1 - 4x)3 then the value of p is:
-I. -48
-2. 16
-3. 48
-4. -12
-Que. 29 If a+ 1/a = -2 then the value of a1000 + a-lOOO is
-I. 2
-2. 0
-3. 1
-4. 1/2
-Que. 30 If a3 = 117 + b3 and a = 3 + b, then the value of a+ b is:
+",
+        "option1": "-48
+",
+        "option2": "16
+",
+        "option3": "48
+",
+        "option4": "-12
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 29 If a+ 1/a = -2 then the value of a1000 + a-lOOO is
+",
+        "option1": "2
+",
+        "option2": "0
+",
+        "option3": "1
+",
+        "option4": "1/2
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 30 If a3 = 117 + b3 and a = 3 + b, then the value of a+ b is:
 (6)
-I. 7
-2. 49
-3. 13
-4. 0
-Que. 3l The value of x which satisfies the equation x +a 2+22 + x+b2+2a2 + x+c2+2ti2 = 0 1s b+c c+a a+b
+",
+        "option1": "7
+",
+        "option2": "49
+",
+        "option3": "13
+",
+        "option4": "0
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 3l The value of x which satisfies the equation x +a 2+22 + x+b2+2a2 + x+c2+2ti2 = 0 1s b+c c+a a+b
 J. ( a2 + b2 + c2)
-2. _ (a2 + b2 + c2)
-3. (a2 + 2b2 + c2)
-4. - (a2 + b2 +2c2)
-Que. 32 If a2 + b2 + c2 = 16 x2 + y2 + z2 = 25 and ax + by + cz = 20 then the value of a+b+c , , x+y+z
-I. 3/5
-2. 5/3
-3. 4/5
-4. 5/4
-Que. 33 If x4 + 2x3 + ax2 + bx + 9 is a perfect square, where a and b are positive real numbers, then the value of a
+",
+        "option2": "_ (a2 + b2 + c2)
+",
+        "option3": "(a2 + 2b2 + c2)
+",
+        "option4": "- (a2 + b2 +2c2)
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 32 If a2 + b2 + c2 = 16 x2 + y2 + z2 = 25 and ax + by + cz = 20 then the value of a+b+c , , x+y+z
+",
+        "option1": "3/5
+",
+        "option2": "5/3
+",
+        "option3": "4/5
+",
+        "option4": "5/4
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 33 If x4 + 2x3 + ax2 + bx + 9 is a perfect square, where a and b are positive real numbers, then the value of a
 and b are
-I. a = 5, b = 6
-2. a = 6, b = 7
-3. a = 7,b = 6
-4. a = 7,b = 8
-Que. 34 If (x - llx)2 = 3, then the value of x6 + 1/x6 equals
-I. 90
-2. 100
-3. 110
-4. 120
-Que. 35 If x = ✓􀁏+1 and y = ✓􀁏-1
+",
+        "option1": "a = 5, b = 6
+",
+        "option2": "a = 6, b = 7
+",
+        "option3": "a = 7,b = 6
+",
+        "option4": "a = 7,b = 8
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 34 If (x - llx)2 = 3, then the value of x6 + 1/x6 equals
+",
+        "option1": "90
+",
+        "option2": "100
+",
+        "option3": "110
+",
+        "option4": "120
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 35 If x = ✓􀁏+1 and y = ✓􀁏-1
 ✓ s-1 ✓ S+l
-I. 3/4
-2. 4/3
-3. 3/5
-4. 5/3
-Que. 36 2 2
+",
+        "option1": "3/4
+",
+        "option2": "4/3
+",
+        "option3": "3/5
+",
+        "option4": "5/3
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 36 2 2
 the value of x2+xy+y2 1 s ' x2 -xy+y2
 31 35
 (7)
-I. -1
-2. 0
-3. l
-4. 2
-Que. 37
-I. 0
-2. l
-3. 3
-4. 2
+",
+        "option1": "-1
+",
+        "option2": "0
+",
+        "option3": "l
+",
+        "option4": "2
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 37
+",
+        "option1": "0
+",
+        "option2": "l
+",
+        "option3": "3
+",
+        "option4": "2
 Ifx + y + 2x + 1 = 0, then the value ofx + y 1s
 If a + b + c = 0 then the value of 1
 (a+b)(b+c)
@@ -240,197 +615,546 @@ If a + b + c = 0 then the value of 1
 (b+c)(c+a)
 + 1
 (c+a)(a+b)
-Que. 38 The simplified value of (1 -...lE.) + ( 􀀿 -3xy) 1s
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 38 The simplified value of (1 -...lE.) + ( 􀀿 -3xy) 1s
 x2+y2 x-y
-I. _1_
+",
+        "option1": "_1_
 x2-y2
-2. _l_
+",
+        "option2": "_l_
 x2+y2
-3. 1
+",
+        "option3": "1
 x-y
-4. _l
+",
+        "option4": "_l
 x+y
-Que. 39 If 2r = h + ✓ r2 + h2 then the ratio r: h (rt 0) is:
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 39 If 2r = h + ✓ r2 + h2 then the ratio r: h (rt 0) is:
 J. 1: 2
-2. 2: 3
-3. 4: 3
-4. 3: 5
-Que. 40 Ifx = 1 + ✓2 + ✓3, then the value of 2x4
+",
+        "option2": "2: 3
+",
+        "option3": "4: 3
+",
+        "option4": "3: 5
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 40 Ifx = 1 + ✓2 + ✓3, then the value of 2x4
 - 8x3
 - 5x2 + 26x-28 is:
-I. 2✓2
-2. 3✓3
-3. s✓s
-4. 6✓6
-Que. 41 If x + 1/x = ✓3 the value of x18 + x12 + x6 + 1 is:
-I. 0
-2. l
-3. 2
-4. 3
+",
+        "option1": "2✓2
+",
+        "option2": "3✓3
+",
+        "option3": "s✓s
+",
+        "option4": "6✓6
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 41 If x + 1/x = ✓3 the value of x18 + x12 + x6 + 1 is:
+",
+        "option1": "0
+",
+        "option2": "l
+",
+        "option3": "2
+",
+        "option4": "3
 (8)
-Que. 42 If a = 299, b = 298, c = 297 then the value of 2a3 + 2b3 + 2c3
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 42 If a = 299, b = 298, c = 297 then the value of 2a3 + 2b3 + 2c3
 - 6abc is:
-1. 5154
-2. 5267
-3. 5364
-4. 5456
-Que. 43 Ifx2 + y2 + 6x+ 5 = 4(x-y) then x-y is:
-1. 1
-2. -1
-3. 0
-4. 4
-Que. 44 If a+ b = 1, then a4 + b4
+",
+        "option1": "5154
+",
+        "option2": "5267
+",
+        "option3": "5364
+",
+        "option4": "5456
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 43 Ifx2 + y2 + 6x+ 5 = 4(x-y) then x-y is:
+",
+        "option1": "1
+",
+        "option2": "-1
+",
+        "option3": "0
+",
+        "option4": "4
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 44 If a+ b = 1, then a4 + b4
 - a3
 - b3 -2a2b2 + ab is equal to:
-1. 1
-2. 2
-3. 4
-4. 0
-Que. 45 A complete factorisation of x4 + 64 is:
-1. (x2 + 8)2
-2. (x2 + 8)(x2-8)
-3. (x2- 4x+ 8)(x2 - 4x - 8)
-4. (x2 + 4x+ 8)(x2- 4x+ 8)
-Que. 46 If the sum of squares of two real numbers is 41 and their sum is 9. Then the sum of cubes of these two
-1. 169
-2. 209
-3. 189
-4. 198
+",
+        "option1": "1
+",
+        "option2": "2
+",
+        "option3": "4
+",
+        "option4": "0
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 45 A complete factorisation of x4 + 64 is:
+",
+        "option1": "(x2 + 8)2
+",
+        "option2": "(x2 + 8)(x2-8)
+",
+        "option3": "(x2- 4x+ 8)(x2 - 4x - 8)
+",
+        "option4": "(x2 + 4x+ 8)(x2- 4x+ 8)
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 46 If the sum of squares of two real numbers is 41 and their sum is 9. Then the sum of cubes of these two
+",
+        "option1": "169
+",
+        "option2": "209
+",
+        "option3": "189
+",
+        "option4": "198
 numbers is:
-Que. 47 Ifx + 1/x= c+ 1/c then the value of xis:
-1. c, 1/c
-2. C C
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 47 Ifx + 1/x= c+ 1/c then the value of xis:
+",
+        "option1": "c, 1/c
+",
+        "option2": "C C
 2
 ,
-3. c,2c
-4. 0, 1
+",
+        "option3": "c,2c
+",
+        "option4": "0, 1
 (9)
-Que. 48 If P = 99, then the value of P(P2 + 3P + 3) is:
-I. 9999
-2. 999999
-3. 99999
-4. 9999999
-Que. 49 The sum of squares of three positive integers is 323. If the sum of squares of two numbers is twice the
-I. 255
-2. 260
-3. 265
-4. 270
-Que. 50
-I. 41
-2. 21
-3. 42
-4. 84
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 48 If P = 99, then the value of P(P2 + 3P + 3) is:
+",
+        "option1": "9999
+",
+        "option2": "999999
+",
+        "option3": "99999
+",
+        "option4": "9999999
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 49 The sum of squares of three positive integers is 32",
+        "option3": "If the sum of squares of two numbers is twice the
+",
+        "option1": "255
+",
+        "option2": "260
+",
+        "option3": "265
+",
+        "option4": "270
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 50
+",
+        "option1": "41
+",
+        "option2": "21
+",
+        "option3": "42
+",
+        "option4": "84
 third, their product is
-The sum of three numbers is 252. If the first number is thrice the second and third number is two-third of
+The sum of three numbers is 25",
+        "option2": "If the first number is thrice the second and third number is two-third of
 the first, then the second number is
-Que. 51 Solve the following
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 51 Solve the following
 113 X 87 =?
-I. 10169
-2. 9831
-3. 10000
-4. 10026
-Que. 52 If a+ 1/a = 5 then a3 + 1/a3 is
-I. 10
-2. 140
-3. 110
-4. 80
-Que. 53 The coefficient of x in (x - 3y)3 is:
-I. 3y2
-2. 27y2
-3. -3y2
-4. -27y2
+",
+        "option1": "10169
+",
+        "option2": "9831
+",
+        "option3": "10000
+",
+        "option4": "10026
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 52 If a+ 1/a = 5 then a3 + 1/a3 is
+",
+        "option1": "10
+",
+        "option2": "140
+",
+        "option3": "110
+",
+        "option4": "80
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 53 The coefficient of x in (x - 3y)3 is:
+",
+        "option1": "3y2
+",
+        "option2": "27y2
+",
+        "option3": "-3y2
+",
+        "option4": "-27y2
 (10)
-Que. 54 The sum of three positive numbers is 18 and their product is 162. If the sum of two numbers is equal to the
-I. 120
-2. 126
-3. 132
-4. 138
-Que. 55
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 54 The sum of three positive numbers is 18 and their product is 16",
+        "option2": "If the sum of two numbers is equal to the
+",
+        "option1": "120
+",
+        "option2": "126
+",
+        "option3": "132
+",
+        "option4": "138
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 55
 I.
-2. 75
-3. 90
-4. 100
+",
+        "option2": "75
+",
+        "option3": "90
+",
+        "option4": "100
 third then the sum of squares of the numbers is:
 The greater of the two numbers whose product is 900 and the sum exceeds their difference by 30 is:
 60
 Que.56 Ifb+c = ax c+a = by a+b = cz then the value of.l[-1-+-1-
 ' ' ' + 1 ] 1s: 9 x + 1 y+l z + 1
 J. 1
-2. 1/3
-3. 0
-4. 1/9
-Que. 57 If x2 - 4x + 4 = 0, then the value of 16(x4 - 1/x4) is:
-I. 127
-2. 255/16
-3. 255
-4. 127/16
-Que. 58 If a3 + 1/a3 = 52, then the value of 2 (a+ 1/a) is:
-I. 4
-2. 6
-3. 8
-4. 2
-Que. 59 If the value of (a+ b - 2)2 + (b + c - 5)2 + (c + a- 5)2 = 0, then the value of✓ (b + c) a+ (c + a) b - 1 1s:
+",
+        "option2": "1/3
+",
+        "option3": "0
+",
+        "option4": "1/9
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 57 If x2 - 4x + 4 = 0, then the value of 16(x4 - 1/x4) is:
+",
+        "option1": "127
+",
+        "option2": "255/16
+",
+        "option3": "255
+",
+        "option4": "127/16
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 58 If a3 + 1/a3 = 52, then the value of 2 (a+ 1/a) is:
+",
+        "option1": "4
+",
+        "option2": "6
+",
+        "option3": "8
+",
+        "option4": "2
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 59 If the value of (a+ b - 2)2 + (b + c - 5)2 + (c + a- 5)2 = 0, then the value of✓ (b + c) a+ (c + a) b - 1 1s:
 J. 1
-2. 0
-3. 3
-4. 2
+",
+        "option2": "0
+",
+        "option3": "3
+",
+        "option4": "2
 (11)
-Que. 60 If a+ b + c = 9 and ab +be+ ca = - 22, then the value of a3 + b3 + c3
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 60 If a+ b + c = 9 and ab +be+ ca = - 22, then the value of a3 + b3 + c3
 - 3abc is:
-I. 783
-2. 487
-3. 1323
-4. 1571
-Que. 61 If 3a = 27b = 81 c and abc = 144 ' then the value of 12 (.!a +.l. + .l.) IS: 2b 5c
-I. 17/120
-2. 18/10
-3. 33/10
-4. 18/120
-Que. 62 ( a + b + c - d)2 - ( a - b - c + d)2= ?
-I. 4a (b + c - d)
-2. 2a(b+c+d)
-3. 2a (b - c + d)
-4. 2a (b + c - d)
-Que. 63 The coefficient of x2 in (2x + y)3 is:
-I. 12y2
-2. 12
-3. 12y
-4. 8
-Que. 64 If x - 1/x = 11, then x3 - 1/x3 is:
-I. 1188
-2. 1474
-3. 1364
-4. 1298
-Que. 65 If x, y, z are the three factors of a3- 7a- 6, then value of x + y + z will be
-I. 3a
-2. 3
-3. 6
-4. a
-Que. 66 If ax+ by = 1 and bx+ ay = 􀁈 then (x2 + y2)(a2 + b2) is equal to
+",
+        "option1": "783
+",
+        "option2": "487
+",
+        "option3": "1323
+",
+        "option4": "1571
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 61 If 3a = 27b = 81 c and abc = 144 ' then the value of 12 (.!a +.l. + .l.) IS: 2b 5c
+",
+        "option1": "17/120
+",
+        "option2": "18/10
+",
+        "option3": "33/10
+",
+        "option4": "18/120
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 62 ( a + b + c - d)2 - ( a - b - c + d)2= ?
+",
+        "option1": "4a (b + c - d)
+",
+        "option2": "2a(b+c+d)
+",
+        "option3": "2a (b - c + d)
+",
+        "option4": "2a (b + c - d)
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 63 The coefficient of x2 in (2x + y)3 is:
+",
+        "option1": "12y2
+",
+        "option2": "12
+",
+        "option3": "12y
+",
+        "option4": "8
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 64 If x - 1/x = 11, then x3 - 1/x3 is:
+",
+        "option1": "1188
+",
+        "option2": "1474
+",
+        "option3": "1364
+",
+        "option4": "1298
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 65 If x, y, z are the three factors of a3- 7a- 6, then value of x + y + z will be
+",
+        "option1": "3a
+",
+        "option2": "3
+",
+        "option3": "6
+",
+        "option4": "a
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 66 If ax+ by = 1 and bx+ ay = 􀁈 then (x2 + y2)(a2 + b2) is equal to
 (12)
 J. 1
-2. 2
-3. 0.5
-4. 0
-Que. 67 If a+ lib= b + 1/c = c + 1/a (whereat b t c), then abc is equal to
-I. + 1
-2. -1
-3. + 1 &-1
-4. None of the options
-Que. 68 If a= _i (a> 0), then the value of a+ 1/a is
+",
+        "option2": "2
+",
+        "option3": "0.5
+",
+        "option4": "0
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 67 If a+ lib= b + 1/c = c + 1/a (whereat b t c), then abc is equal to
+",
+        "option1": "+ 1
+",
+        "option2": "-1
+",
+        "option3": "+ 1 &-1
+",
+        "option4": "None of the options
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 68 If a= _i (a> 0), then the value of a+ 1/a is
 a-S
-I. ✓29
-2. ✓28
-3. - ✓29
-4. ✓21
-Que. 69 If x = 11, the value of x5
+",
+        "option1": "✓29
+",
+        "option2": "✓28
+",
+        "option3": "- ✓29
+",
+        "option4": "✓21
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 69 If x = 11, the value of x5
 - 12x4 + 12x3
 - 12x2 + 12x - 1 is
 J. 11
-2. 10
-3. 12
-4. -10
-Que. 70 If a + b + c + d = 4 then the value of
+",
+        "option2": "10
+",
+        "option3": "12
+",
+        "option4": "-10
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 70 If a + b + c + d = 4 then the value of
 I.
 2.
 3.
@@ -443,163 +1167,388 @@ l
 1 + abed
 + ___l _ _
 (1-b)(l-c)(l-d)
-Que. 71 Ifx = y + z then x3
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 71 Ifx = y + z then x3
 - y3
 - z3 is:
-I. 0
-2. 3xyz
-3. -3xyz
-4. 1
+",
+        "option1": "0
+",
+        "option2": "3xyz
+",
+        "option3": "-3xyz
+",
+        "option4": "1
 + __ .....,l_ _
 (1-c)(l-d)(l-a)
 +
 (1-d)(l-a)(l-b)
-Que. 72 If a+ lib = 1 and b + 1/c = 1, then the value of c + 1/a is
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 72 If a+ lib = 1 and b + 1/c = 1, then the value of c + 1/a is
 1S
 (13)
-I. 0
-2. 2
-3. 1
-4. 3
-Que. 73 If x2 + 1/x2 = 98 (x>0), then the value of x3 + 1/x3 is
-I. 970
-2. 1030
-3. -970
-4. - 1030
-Que. 74 Ifx4 + x2y2 + y4
+",
+        "option1": "0
+",
+        "option2": "2
+",
+        "option3": "1
+",
+        "option4": "3
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 73 If x2 + 1/x2 = 98 (x>0), then the value of x3 + 1/x3 is
+",
+        "option1": "970
+",
+        "option2": "1030
+",
+        "option3": "-970
+",
+        "option4": "- 1030
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 74 Ifx4 + x2y2 + y4
 = 273 and x2 -xy + y2
 = 13, then the value ofxy is:
-I. 6
-2. 8
-3. 10
-4. 4
-Que. 75 If20 x2
+",
+        "option1": "6
+",
+        "option2": "8
+",
+        "option3": "10
+",
+        "option4": "4
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 75 If20 x2
 - 30x + 1 = 0, then what is the value of25x2 + -1-?
 16x2
-I. 581
+",
+        "option1": "581
 4
-2. 581
+",
+        "option2": "581
 2
-3. 531
+",
+        "option3": "531
 4
-4. 531
+",
+        "option4": "531
 2
-Que. 76
-I. x--4
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 76
+",
+        "option1": "x--4
 x+4
-2. x+4
+",
+        "option2": "x+4
 x(4-x)
-3. x+4
+",
+        "option3": "x+4
 x(x--4)
-4. x+4
+",
+        "option4": "x+4
 x--4
 3
 +
 (x2--4x)
 (x + 4) 2
-Que. 77 If x2
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 77 If x2
 - 2✓ "5x + 1 = 0,
-I. 406✓5
-2. 610✓5
-3. 408✓5
-4. 612✓5
+",
+        "option1": "406✓5
+",
+        "option2": "610✓5
+",
+        "option3": "408✓5
+",
+        "option4": "612✓5
 X 64--,c3
 I6--,c2
 is equal to
 then what is the value of x 5 + ..l. ?
 x5
 (14)
-Que. 78 If P x3
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 78 If P x3
 +y
 3
 Q = (x+y) L3xy
 (x-y) 2+3xy ' x3-y
 3
-1. 2 (x2 + y2)
-2. x2 + y2
-3. 2xy
-4. 4xy
+",
+        "option1": "2 (x2 + y2)
+",
+        "option2": "x2 + y2
+",
+        "option3": "2xy
+",
+        "option4": "4xy
 and R = (x+y)
 2+<x-y)
 2
 , then what is the value of(P + Q) x R?
 x2-y2
-Que. 79 If 16a4 + 36a2b2 + 81b4
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 79 If 16a4 + 36a2b2 + 81b4
 = 91 and 4a2 + 9b2 - 6ab = 13, then what is the value of 3ab?
-1. 5
-2. -3
-3. 3/2
-4. -3/2
-Que. 80 If 30x2 - 15x + 1 = 0, then what is the value of25x2 + (36x2)-1 ?
-1. 65/12
-2. 6.1
+",
+        "option1": "5
+",
+        "option2": "-3
+",
+        "option3": "3/2
+",
+        "option4": "-3/2
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 80 If 30x2 - 15x + 1 = 0, then what is the value of25x2 + (36x2)-1 ?
+",
+        "option1": "65/12
+",
+        "option2": "6.1
 4
-3. 9/2
-4. 55/12
-Que. 81 If a+ b + c = 7 and ab+ be+ ca = -6, then the value of a3 + b3 + c3
+",
+        "option3": "9/2
+",
+        "option4": "55/12
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 81 If a+ b + c = 7 and ab+ be+ ca = -6, then the value of a3 + b3 + c3
 - 3abc is:
-1. 469
-2. 472
-3. 463
-4. 479
-Que. 82 If p = x4-Sx Q = x2 +2x+I and R = 2x2
+",
+        "option1": "469
+",
+        "option2": "472
+",
+        "option3": "463
+",
+        "option4": "479
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 82 If p = x4-Sx Q = x2 +2x+I and R = 2x2
 :􀀃t8 , then (P x Q) + R is equal to: x3-x2-2x ' x2 -4x-S
-1. 1
-2. 4
-3. 1/2
-4. 2
-Que. 83 Two baskets together have 640 oranges. If (115ih of the oranges in the first basket be taken to the second
-1. 800
-2. 600
-3. 400
-4. 300
+",
+        "option1": "1
+",
+        "option2": "4
+",
+        "option3": "1/2
+",
+        "option4": "2
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 83 Two baskets together have 640 oranges. If (115ih of the oranges in the first basket be taken to the second
+",
+        "option1": "800
+",
+        "option2": "600
+",
+        "option3": "400
+",
+        "option4": "300
 basket, then the oranges becomes equal in both basket. The number of oranges in the first basket is
 (15)
-Que. 84 If 2x2 + y2 +8z2- 2✓2xy + 4✓2yz - 8zx = (Ax+ y + Bz)2 , then the value of (A 2 + B2- AB)is:
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 84 If 2x2 + y2 +8z2- 2✓2xy + 4✓2yz - 8zx = (Ax+ y + Bz)2 , then the value of (A 2 + B2- AB)is:
 J. 18
-2. 16
-3. 6
-4. 14
-Que. 85
+",
+        "option2": "16
+",
+        "option3": "6
+",
+        "option4": "14
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 85
 Ifx + y + z = 3, and x2 + y2 + z2 = 101, then what is the value of✓ x3 + y3 + z3 - 3xyz ?
-I. 24
-2. 21
-3. 19
-4. 28
-Que. 86 Natu and Buchku each have a ce1iain number of oranges. Natu says to Buchku,"Ifyou give me 10 of your
+",
+        "option1": "24
+",
+        "option2": "21
+",
+        "option3": "19
+",
+        "option4": "28
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 86 Natu and Buchku each have a ce1iain number of oranges. Natu says to Buchku,"Ifyou give me 10 of your
 oranges,I will have twice the number ofo ranges left with you". Buchku replies," If you give me 10 of your
 oranges, I will have the same number of oranges as left with you". What is the number of oranges with Natu and
 Buchku, respectively?
-I. 50, 20
-2. 70,50
-3. 20,50
-4. 50, 70
-Que. 87 If 12x2 -21x + 1 = 0, then what is the value of 9x2 + (16x2)-1?
-I. 429/8
-2. 417/16
-3. 453/8
-4. 465/16
-Que. 88
+",
+        "option1": "50, 20
+",
+        "option2": "70,50
+",
+        "option3": "20,50
+",
+        "option4": "50, 70
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 87 If 12x2 -21x + 1 = 0, then what is the value of 9x2 + (16x2)-1?
+",
+        "option1": "429/8
+",
+        "option2": "417/16
+",
+        "option3": "453/8
+",
+        "option4": "465/16
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 88
 I.
 Twenty-one times of a positive number is less than its square by 100. The value of the positive number is
 25
-2. 26
-3. 42
-4. 41
-Que. 89 If 5x + 1/3x = 4, then what is the value of 9x2 + -1
+",
+        "option2": "26
+",
+        "option3": "42
+",
+        "option4": "41
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 89 If 5x + 1/3x = 4, then what is the value of 9x2 + -1
 - ?
 25x2
-I. 144/125
-2. 119/25
-3. 174/125
-4. 114/25
+",
+        "option1": "144/125
+",
+        "option2": "119/25
+",
+        "option3": "174/125
+",
+        "option4": "114/25
 (16)
-Que. 90 If a+ b + c = 11, ab+ be+ ca = 3 and abc = -135, then what is the value of a3 + b3 + c3?
-I. 929
-2. 925
-3. 827
-4. 823
-Que. 91
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 90 If a+ b + c = 11, ab+ be+ ca = 3 and abc = -135, then what is the value of a3 + b3 + c3?
+",
+        "option1": "929
+",
+        "option2": "925
+",
+        "option3": "827
+",
+        "option4": "823
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 91
 On simplification, x3
 7
 3
@@ -607,1249 +1556,3478 @@ On simplification, x3
 y((x-y) 2+Jxy] x (x+y) 2--<x-y) 2
 x[(x+y) 2-Jxy] x is equal to: 3 +y3 x2-y2
 J. 1
-2. 4
-3. 1/4
-4. 1/2
-Que. 92 ( a + b -c + d)2 -( a -b + c -d)2 = ?
-I. 2a ( a + b - c)
-2. 4a (b + d-c)
-3. 2a (b + c -d)
-4. 4a (b-d + c)
-Que. 93 The value of 27a3
+",
+        "option2": "4
+",
+        "option3": "1/4
+",
+        "option4": "1/2
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 92 ( a + b -c + d)2 -( a -b + c -d)2 = ?
+",
+        "option1": "2a ( a + b - c)
+",
+        "option2": "4a (b + d-c)
+",
+        "option3": "2a (b + c -d)
+",
+        "option4": "4a (b-d + c)
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 93 The value of 27a3
 - 2✓2b3 is equal to:
-I. (3a-✓2b)(9a2 + 2b2 + 3✓2 ab)
-2. (3a -✓2b )(9a2 + 2b2 + 6✓2 ab)
-3. (3a -✓2b )(9a2
+",
+        "option1": "(3a-✓2b)(9a2 + 2b2 + 3✓2 ab)
+",
+        "option2": "(3a -✓2b )(9a2 + 2b2 + 6✓2 ab)
+",
+        "option3": "(3a -✓2b )(9a2
 - 2b2 + 6✓2 ab)
-4. (3a -✓2b )(9a2
+",
+        "option4": "(3a -✓2b )(9a2
 - 2b2
 - 3 ✓2 ab)
-Que. 94 The expression (a+ b-c)3 + (a-b + c)3
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 94 The expression (a+ b-c)3 + (a-b + c)3
 - 8a3 is equal to:
-I. 3a(a + b -c)(a -b + c)
-2. 6a(a + b - c) (a -b + c)
-3. 6a( a -b + c) ( c -a -b)
-4. 3a(a-b+c) (c-a-b)
-Que. 95 If x4 + x2y2 + y4
+",
+        "option1": "3a(a + b -c)(a -b + c)
+",
+        "option2": "6a(a + b - c) (a -b + c)
+",
+        "option3": "6a( a -b + c) ( c -a -b)
+",
+        "option4": "3a(a-b+c) (c-a-b)
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 95 If x4 + x2y2 + y4
 = 21 and x2 + xy + y2
 = 7, then the value of ( .+X + .l.y2 ) 1s:
-I. 5/2
-2. 7/4
-3. 7/3
-4. 5/4
+",
+        "option1": "5/2
+",
+        "option2": "7/4
+",
+        "option3": "7/3
+",
+        "option4": "5/4
 (17)
-Que. 96 Ifx2 + 3x + 1 = 0 , then what is the value of x6 + .l.?
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 96 Ifx2 + 3x + 1 = 0 , then what is the value of x6 + .l.?
 x6
-I. 318
-2. 322
-3. 327
-4. 324
-Que. 97 If x, y, z are three integers such that x + y = 8 , y + z = 13 and z + x = 17, then the value of x2/ yz is:
-I. 0
-2. 18/11
-3. 1
-4. 7/5
-Que. 98 Ifx -y = 4 and xy = 45 , then the value ofx3 -y3 is:
-I. 82
-2. 604
-3. 822
-4. 151
-Que. 99 If a + b + c = 8 and ab + be + ca = 11, then what is the value of a3 + b3 + c3
+",
+        "option1": "318
+",
+        "option2": "322
+",
+        "option3": "327
+",
+        "option4": "324
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 97 If x, y, z are three integers such that x + y = 8 , y + z = 13 and z + x = 17, then the value of x2/ yz is:
+",
+        "option1": "0
+",
+        "option2": "18/11
+",
+        "option3": "1
+",
+        "option4": "7/5
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 98 Ifx -y = 4 and xy = 45 , then the value ofx3 -y3 is:
+",
+        "option1": "82
+",
+        "option2": "604
+",
+        "option3": "822
+",
+        "option4": "151
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 99 If a + b + c = 8 and ab + be + ca = 11, then what is the value of a3 + b3 + c3
 - 3abc?
-I. 248
-2. 254
-3. 256
-4. 236
-Que. 100 If 27(x + y)3 + (x -y)3 = 2(2x + y) (Ax2 + Bxy + Cy2), then what is the value of (A -B + C)?
+",
+        "option1": "248
+",
+        "option2": "254
+",
+        "option3": "256
+",
+        "option4": "236
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 100 If 27(x + y)3 + (x -y)3 = 2(2x + y) (Ax2 + Bxy + Cy2), then what is the value of (A -B + C)?
 J. 11
-2. 7
-3. 4
-4. 21
-Que. 101 The ratio of incomes of A and Bis 3 : 8 and the ratio of their savings is 9 : 25. If the income of A equals
+",
+        "option2": "7
+",
+        "option3": "4
+",
+        "option4": "21
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 101 The ratio of incomes of A and Bis 3 : 8 and the ratio of their savings is 9 : 25. If the income of A equals
 the expenditure of B, then the ratio of expenditures of A and Bis:
-I. 3: 8
-2. 6: 17
-3. 5 : 12
-4. 2: 5
+",
+        "option1": "3: 8
+",
+        "option2": "6: 17
+",
+        "option3": "5 : 12
+",
+        "option4": "2: 5
 (18)
-Que. 102 If x4 + 1/x4 = 2, and xis a positive quantit y, then xis equal to:
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 102 If x4 + 1/x4 = 2, and xis a positive quantit y, then xis equal to:
 J. 1
-2. 2
-3. 1/2
-4. 1/4
-Que. l03 If x2
+",
+        "option2": "2
+",
+        "option3": "1/2
+",
+        "option4": "1/4
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " l03 If x2
 - 3x + 1 = 0, then one oft he values of xLsx-I
 IS:
 x3+I/x
-I. ✓ s+s
+",
+        "option1": "✓ s+s
 7
-2. -7/3
-3. -3
-4. ✓ s-s
+",
+        "option2": "-7/3
+",
+        "option3": "-3
+",
+        "option4": "✓ s-s
 7
-Que. 104 Ifx + y + z = 17, xy + yz + zx = 85, then what is the value of✓ x3 + y3 + 2 3 - 3xyz ?
-I. 11✓ 3
-2. 11✓2
-3. 17✓ 3
-4. 11✓ 2
-Que. 105 If9 + 2 (3x- xy+ x2) + y2 = 0, then what is the value of( 3x2 - 2xy + 5y2)?
-I. 45
-2. 54
-3. 60
-4. 63
-Que. 106 IfX: Y = 13 : 12 and X- Y = 2, then what is value of 2X + 3Y?
-I. 144
-2. 124
-3. 120
-4. 136
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 104 Ifx + y + z = 17, xy + yz + zx = 85, then what is the value of✓ x3 + y3 + 2 3 - 3xyz ?
+",
+        "option1": "11✓ 3
+",
+        "option2": "11✓2
+",
+        "option3": "17✓ 3
+",
+        "option4": "11✓ 2
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 105 If9 + 2 (3x- xy+ x2) + y2 = 0, then what is the value of( 3x2 - 2xy + 5y2)?
+",
+        "option1": "45
+",
+        "option2": "54
+",
+        "option3": "60
+",
+        "option4": "63
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 106 IfX: Y = 13 : 12 and X- Y = 2, then what is value of 2X + 3Y?
+",
+        "option1": "144
+",
+        "option2": "124
+",
+        "option3": "120
+",
+        "option4": "136
 Que.107 IfX: Y: z = 1: 2: 3a nd , x2 + Y2 + z2
 = 224, then what is the value ofX + Y + Z?
-I. 32
-2. 24
-3. 48
-4. 36
-Que. 108 What is the sum ofd igits ofth e two-digit prime number for which the numbers in the unit and the tens
+",
+        "option1": "32
+",
+        "option2": "24
+",
+        "option3": "48
+",
+        "option4": "36
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 108 What is the sum ofd igits ofth e two-digit prime number for which the numbers in the unit and the tens
 (19)
 J. 18
-2. 2
-3. 10
-4. 6
-Que. 109
+",
+        "option2": "2
+",
+        "option3": "10
+",
+        "option4": "6
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 109
 I.
-2. 80
-3. 30
-4. 40
+",
+        "option2": "80
+",
+        "option3": "30
+",
+        "option4": "40
 place is same?
 Ifx + y + z = 360 and x: y: z = 4: 3 : 2, then what is the value ofy + z -x?
 60
-Que. 110 The monthly income of A and Bare Rs. 12000 and Rs 8000 respectively. The ratio of their monthly
-expenditures is 5 : 3. If they save an equal amount per month, then how much money does each of them
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 110 The monthly income of A and Bare Rs. 12000 and Rs 8000 respectively. The ratio of their monthly
+expenditures is 5 : ",
+        "option3": "If they save an equal amount per month, then how much money does each of them
 save per month?
-I. Rs. 1000
-2. Rs. 2000
-3. Rs. 800
-4. Rs. 1500
-Que. 111
+",
+        "option1": "Rs. 1000
+",
+        "option2": "Rs. 2000
+",
+        "option3": "Rs. 800
+",
+        "option4": "Rs. 1500
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 111
 I.
-2. 7 :5
-3. 9: 4
-4. 3: 2
+",
+        "option2": "7 :5
+",
+        "option3": "9: 4
+",
+        "option4": "3: 2
 Ifx + y = 52 and x -y = 20, then what is the value ofx : y?
 3 :4
-Que. 112 If x - x-1 = 6, then the value of x4 + x-4 is:
-I. 1158
-2. 1154
-3. 1440
-4. 1442
-Que. 113 If a+ b + c = 7, and a2 + b2 + c2
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 112 If x - x-1 = 6, then the value of x4 + x-4 is:
+",
+        "option1": "1158
+",
+        "option2": "1154
+",
+        "option3": "1440
+",
+        "option4": "1442
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 113 If a+ b + c = 7, and a2 + b2 + c2
 = 33, then what is the value of a3 + b3 + c3
 - 3abc?
-I. 257
-2. 287
-3. 343
-4. 175
-Que. 114 A total of 57 sweets were distributed among 10 children such that each girl gets 6 sweets and each boy
+",
+        "option1": "257
+",
+        "option2": "287
+",
+        "option3": "343
+",
+        "option4": "175
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 114 A total of 57 sweets were distributed among 10 children such that each girl gets 6 sweets and each boy
 (20)
-I. 6
-2. 4
-3. 3
-4. 5
-Que. 115
-I. 2
+",
+        "option1": "6
+",
+        "option2": "4
+",
+        "option3": "3
+",
+        "option4": "5
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 115
+",
+        "option1": "2
 7
 2.
 12
-3. 3
+",
+        "option3": "3
 8
-4. 7
+",
+        "option4": "7
 7
 gets 5 sweets. Find the number of boys.
 A fraction is such that the numerator is five less than the denominator. Also four times the numerator is
 one more than the denomination. Find the Fraction.
-Que. 116 (xs + x4)3 + x2 = ?
-I. x2
-2. x-1
-3. X
-4. x3
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 116 (xs + x4)3 + x2 = ?
+",
+        "option1": "x2
+",
+        "option2": "x-1
+",
+        "option3": "X
+",
+        "option4": "x3
 Que.117 IfV1: V2 = 1 : 2 and V1 + V2 = 147, then what is the value ofV2- V1?
-I. 49
-2. 98
-3. 48
-4. 56
-Que. 118 If x - 1/x = 7, then what is the value of (x3 - 1/x3)?
-I. 350
-2. 336
-3. 343
-4. 364
+",
+        "option1": "49
+",
+        "option2": "98
+",
+        "option3": "48
+",
+        "option4": "56
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 118 If x - 1/x = 7, then what is the value of (x3 - 1/x3)?
+",
+        "option1": "350
+",
+        "option2": "336
+",
+        "option3": "343
+",
+        "option4": "364
 Que.119
-I. 0.07
-2. 0.02
-3. 0.06
-4. 0.04
+",
+        "option1": "0.07
+",
+        "option2": "0.02
+",
+        "option3": "0.06
+",
+        "option4": "0.04
 The value of (O.OB) J+(o.007)(0.000049)
 (0.007) 2 +o.013(0.013-0.007)
 IS ---
 (21)
-Que. 120 Solve the following:
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 120 Solve the following:
 (a+ b + c)(ab +be+ ca)- abc =?
-I. (a+ b)(b + c)(c -a)
-2. (a-b)(b-c)(c-a)
-3. (a+ b)(b -c)(c + a)
-4. (a+ b)(b + c)(c + a)
-Que. 121 If x6
+",
+        "option1": "(a+ b)(b + c)(c -a)
+",
+        "option2": "(a-b)(b-c)(c-a)
+",
+        "option3": "(a+ b)(b -c)(c + a)
+",
+        "option4": "(a+ b)(b + c)(c + a)
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 121 If x6
 - 512y6 = (x2 + A y2)(x4
 - Bx2 y2 + C y4), then what is the value of (A+ B -C)?
-I. -72
-2. 72
-3. -80
-4. 48
-Que. 122 If a+ b + c = 19, ab+ be+ ca = 120, then what is the value of a3 + b3 + c3
+",
+        "option1": "-72
+",
+        "option2": "72
+",
+        "option3": "-80
+",
+        "option4": "48
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 122 If a+ b + c = 19, ab+ be+ ca = 120, then what is the value of a3 + b3 + c3
 - 3abc?
-I. 3 1
-2. 23
-3. 19
-4. 18
-Que. 123 Ifx4 + x2 y2 + y4 = 13 3 and x2
+",
+        "option1": "3 1
+",
+        "option2": "23
+",
+        "option3": "19
+",
+        "option4": "18
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 123 Ifx4 + x2 y2 + y4 = 13 3 and x2
 - xy + y2 = 7, then what is the value ofxy?
 J. 8
-2. 12
-3. 4
-4. 6
-Que. 124
+",
+        "option2": "12
+",
+        "option3": "4
+",
+        "option4": "6
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 124
 If (x3 + ..l. _ k)
 x3
-I. p2 + 1
-2. p2 + 3
-3. p2- 1
-4. p2- 3
+",
+        "option1": "p2 + 1
+",
+        "option2": "p2 + 3
+",
+        "option3": "p2- 1
+",
+        "option4": "p2- 3
 2
 +(x+ .! -p) 2 = 0, where k and p are real numbers and x -:f. 0, then kip is equal to:
 X
-Que. 125 If x2 --4x+ 1 = 0, then what is the value of( x6 + x-6)?
-I. 2786
-2. 2702
-3. 2716
-4. 2744
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 125 If x2 --4x+ 1 = 0, then what is the value of( x6 + x-6)?
+",
+        "option1": "2786
+",
+        "option2": "2702
+",
+        "option3": "2716
+",
+        "option4": "2744
 (22)
-Que. 126 If a+ b + c = 9 and ab+ be+ ca = 18, then the value of a3 + b3 + c3
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 126 If a+ b + c = 9 and ab+ be+ ca = 18, then the value of a3 + b3 + c3
 - 3abc is:
-I. 243
-2. 254
-3. 234
-4. 244
-Que. 127 If x4 + x-4 = 2599, then one of the values of x - x-1
+",
+        "option1": "243
+",
+        "option2": "254
+",
+        "option3": "234
+",
+        "option4": "244
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 127 If x4 + x-4 = 2599, then one of the values of x - x-1
 , where x > 0, is equal to:
-I. 9
-2. 7
-3. 5
-4. 8
-Que. 128 If a - b = 5 and a2 + b2
+",
+        "option1": "9
+",
+        "option2": "7
+",
+        "option3": "5
+",
+        "option4": "8
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 128 If a - b = 5 and a2 + b2
 = 45, then the value of ab is:
-I. 25
-2. 10
-3. 15
-4. 20
-Que. 129 Th 1 f (2.8)3 + (2.2) 3
+",
+        "option1": "25
+",
+        "option2": "10
+",
+        "option3": "15
+",
+        "option4": "20
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 129 Th 1 f (2.8)3 + (2.2) 3
 e va ue o _..;......;. ___ 1s:
-I. 0.02
-2. 0.05
-3. 0.01
-4. 0.5
+",
+        "option1": "0.02
+",
+        "option2": "0.05
+",
+        "option3": "0.01
+",
+        "option4": "0.5
 (28)2_28 X 22 + 484
-Que. 130 If a = 500, b = 502 and c = 504, then the value of a3 + b3 + c3
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 130 If a = 500, b = 502 and c = 504, then the value of a3 + b3 + c3
 - 3abc
-I. 15060
-2. 12048
-3. 18072
-4. 17040
-Que. 131 If 8x
+",
+        "option1": "15060
+",
+        "option2": "12048
+",
+        "option3": "18072
+",
+        "option4": "17040
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 131 If 8x
 2x2 + 7x-2
-I. 1 ✓ 17
+",
+        "option1": "1 ✓ 17
 8
-2. 1 ✓ 17
+",
+        "option2": "1 ✓ 17
 4
-3. 1 ✓ 17
+",
+        "option3": "1 ✓ 17
 8
-4. 2. ✓ 17
+",
+        "option4": "",
+        "option2": "✓ 17
 4
 = 1 x > 0, then what is the value of x3 , + ..l..?
 x3
 (23)
-Que. 132
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 132
 The value of✓ 6 -✓ 17 - 2✓ 72 is closest to:
-I. 2.1
-2. 2.4
-3. 2.7
-4. 1.7
-Que. 133
+",
+        "option1": "2.1
+",
+        "option2": "2.4
+",
+        "option3": "2.7
+",
+        "option4": "1.7
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 133
 The value of (0.13) 2
 + (0.21) 2
 (0.39) 2
 + 81(0 07) 2
-I. 0.7 and 0.8
-2. 0.4 and 0.5
-3. 0.6 and 0.7
-4. 0.5 and 0.6
+",
+        "option1": "0.7 and 0.8
+",
+        "option2": "0.4 and 0.5
+",
+        "option3": "0.6 and 0.7
+",
+        "option4": "0.5 and 0.6
 <2.4)4 + 3 x <1 1.52) + 9 lies between :
 (2.4) 6
 + 6(2.4) 4 + 3 x (17.28)
-Que. 134 If x4 + x2y2 + y4 = 21/256 and x2 + xy + y2 = 3/16, then 2(x2 + y2) = ?
-I. 4
-2. 5/8
-3. 3/4
-4. 5/16
-Que. 135 Ifx = 5.51, y = 5.52 and z = 5.57, then what is the value ofx3 + y3 + z3 - 3xyz?
-I. 5.146
-2. 51.46
-3. 0.05146
-4. 0.5146
-Que. 136 If ✓x + 1/✓x = 3, x > 0, then x2 (x2 -47) =?
-I. 0
-2. -2
-3. -1
-4. 2
-Que. 137 Ifx + y + z = 1, xy + yz + zx = -26 and x3 + y3 + z3 = 151, then what will be the value ofxyz?
-I. -18
-2. 24
-3. -30
-4. 32
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 134 If x4 + x2y2 + y4 = 21/256 and x2 + xy + y2 = 3/16, then 2(x2 + y2) = ?
+",
+        "option1": "4
+",
+        "option2": "5/8
+",
+        "option3": "3/4
+",
+        "option4": "5/16
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 135 Ifx = 5.51, y = 5.52 and z = 5.57, then what is the value ofx3 + y3 + z3 - 3xyz?
+",
+        "option1": "5.146
+",
+        "option2": "51.46
+",
+        "option3": "0.05146
+",
+        "option4": "0.5146
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 136 If ✓x + 1/✓x = 3, x > 0, then x2 (x2 -47) =?
+",
+        "option1": "0
+",
+        "option2": "-2
+",
+        "option3": "-1
+",
+        "option4": "2
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 137 Ifx + y + z = 1, xy + yz + zx = -26 and x3 + y3 + z3 = 151, then what will be the value ofxyz?
+",
+        "option1": "-18
+",
+        "option2": "24
+",
+        "option3": "-30
+",
+        "option4": "32
 (24)
-Que. 138 If a+ b + c = 6 and a2 + b2 + c2 = 38, then what is the value of a(b2 + c2) + b(c2 + a2) + c(a2 + b2) +
-1. 3
-2. 6
-3. -6
-4. -3
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 138 If a+ b + c = 6 and a2 + b2 + c2 = 38, then what is the value of a(b2 + c2) + b(c2 + a2) + c(a2 + b2) +
+",
+        "option1": "3
+",
+        "option2": "6
+",
+        "option3": "-6
+",
+        "option4": "-3
 3abc?
-Que. 139 If (2x - 5y)3 - (2x + 5y)3 = y[ Ax2 + By2], then what is the value of (2A - B)?
-1. 10
-2. 15
-3. 40
-4. 25
-Que. 140 What is the value of o.74 x 1.23 x 0.13 ?
-1. - 1/3
-2. 1
-3. 1/3
-4. -1
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 139 If (2x - 5y)3 - (2x + 5y)3 = y[ Ax2 + By2], then what is the value of (2A - B)?
+",
+        "option1": "10
+",
+        "option2": "15
+",
+        "option3": "40
+",
+        "option4": "25
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 140 What is the value of o.74 x 1.23 x 0.13 ?
+",
+        "option1": "- 1/3
+",
+        "option2": "1
+",
+        "option3": "1/3
+",
+        "option4": "-1
 (0.37)
 3 + (0.41) 3_8(0.39) 3
-Que. 141 If x4 + x2 y2 + y4 = 21 and x2 + xy + y2 = 3, then what is the value of 4xy?
-1. -4
-2. -8
-3. 4
-4. 12
-Que. 142 Ifx2- ✓7x + 1 = 0, then (x3 + x - 3) =?
-1. 3✓7
-2. 4✓7
-3. 7✓7
-4. 10✓7
-Que. 143 The value of 0.325 x 0.325 + 0.175 x 0.175-25 x o.00455 lies between:
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 141 If x4 + x2 y2 + y4 = 21 and x2 + xy + y2 = 3, then what is the value of 4xy?
+",
+        "option1": "-4
+",
+        "option2": "-8
+",
+        "option3": "4
+",
+        "option4": "12
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 142 Ifx2- ✓7x + 1 = 0, then (x3 + x - 3) =?
+",
+        "option1": "3✓7
+",
+        "option2": "4✓7
+",
+        "option3": "7✓7
+",
+        "option4": "10✓7
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 143 The value of 0.325 x 0.325 + 0.175 x 0.175-25 x o.00455 lies between:
 5 X 0.0065 X 3.25-7 X 0.175 X 0.025
-1. 0.25 and 0.35
-2. 0.15 and 0.25
-3. 0.35 and 0.45
-4. 0.05 and0.15
+",
+        "option1": "0.25 and 0.35
+",
+        "option2": "0.15 and 0.25
+",
+        "option3": "0.35 and 0.45
+",
+        "option4": "0.05 and0.15
 3 3 3
 (25)
-Que. 144 If x + y + z = 10, xy + yz + zx = 25 and xyz = 100, then what is the value of (x + y + z )?
-I. 540
-2. 550
-3. 450
-4. 570
-Que. 145 What is the simplified value of:
-I. 4x/y
-2. x/y
-3. 2x/y
-4. x/2y
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 144 If x + y + z = 10, xy + yz + zx = 25 and xyz = 100, then what is the value of (x + y + z )?
+",
+        "option1": "540
+",
+        "option2": "550
+",
+        "option3": "450
+",
+        "option4": "570
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 145 What is the simplified value of:
+",
+        "option1": "4x/y
+",
+        "option2": "x/y
+",
+        "option3": "2x/y
+",
+        "option4": "x/2y
 .l {(x + .l) 8
 y
 2 2
 - (x - .l)
 y
 }
-Que. 146 If (2x + 3y + 4)(2x + 3y - 5) is equivalent to (ax2 + by2 + 2hxy + 2gx + 2fy + c), then what is the value of
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 146 If (2x + 3y + 4)(2x + 3y - 5) is equivalent to (ax2 + by2 + 2hxy + 2gx + 2fy + c), then what is the value of
 {(g + f- c)/abh}?
-I. 37/216
-2. 35/432
-3. 19/108
-4. 19/216
-Que. 147 (4x3y - 6x2y2 + 4xy3 - y4) can be expressed as:
-I. x4 _ (x _ y)4
-2. (x + y)4 _ y4
-3. (x + y)4 - x4
-4. (x - y)4 - x4
-Que. 148 If
+",
+        "option1": "37/216
+",
+        "option2": "35/432
+",
+        "option3": "19/108
+",
+        "option4": "19/216
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 147 (4x3y - 6x2y2 + 4xy3 - y4) can be expressed as:
+",
+        "option1": "x4 _ (x _ y)4
+",
+        "option2": "(x + y)4 _ y4
+",
+        "option3": "(x + y)4 - x4
+",
+        "option4": "(x - y)4 - x4
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 148 If
 3(x2+I)-7x
 6 -I- 0 th th 1 f ✓- I . 3x = , x t- , . en e va ue o x +
 ✓'x 1s :
-I. ✓ ll 3
-2. ✓ 25
+",
+        "option1": "✓ ll 3
+",
+        "option2": "✓ 25
 3
-3. ✓ l!. 3
+",
+        "option3": "✓ l!. 3
 4.
-✓ 12. 3
-Que. 149 The value of (46)
+✓ 1",
+        "option2": "3
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 149 The value of (46)
 4 +( 5.4)
 4+(2484) 2
 IS:
 (4.6)
 2+(5.4) 2 +24.84
-I. 25.42
+",
+        "option1": "25.42
 (26)
-2. 24.24
-3. 25.48
-4. 24.42
-Que. 150 Given that (5x - 3)3 + (2x + 5)3 + 27( 4 - 3x) 3 = 9(3 - 5x) (2x + 5) (3x - 4), then the value of (2x + 1) is:
-I. 13
-2. -15
-3. 15
-4. -13
-Que. 151 If 5✓5 x3 + 2✓2 y3
+",
+        "option2": "24.24
+",
+        "option3": "25.48
+",
+        "option4": "24.42
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 150 Given that (5x - 3)3 + (2x + 5)3 + 27( 4 - 3x) 3 = 9(3 - 5x) (2x + 5) (3x - 4), then the value of (2x + 1) is:
+",
+        "option1": "13
+",
+        "option2": "-15
+",
+        "option3": "15
+",
+        "option4": "-13
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 151 If 5✓5 x3 + 2✓2 y3
 = (Ax+ ✓2y)(Bx2 + 2y2 + Cxy), then the value of (A 2 + B2 - C2) is :
-I. 40
-2. 15
-3. 30
-4. 20
-Que. 152 If x + y + z = 6, xyz = - 10 and x2 + y2 + z2
+",
+        "option1": "40
+",
+        "option2": "15
+",
+        "option3": "30
+",
+        "option4": "20
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 152 If x + y + z = 6, xyz = - 10 and x2 + y2 + z2
 = 30, then what is the value of (x3 + y3 + z3)?
-I. 135
-2. 132
-3. 130
-4. 127
-Que. 153 ab(a-b) + bc(b -c) + ca( c - a) is equal to :
-I. (a+b)(b-c)(c-a)
-2. (b-a)(b-c)(c-a)
-3. (a-b)(b-c)(c-a)
-4. (a-b)(b+c)(c-a)
-Que. 154 Ifx + y + z = 2, xy + yz + zx = -11 and xyz = -12, then what is the value of✓ x3 + y3 + 23 -2 ?
-I. 12
-2. 6
-3. 8
-4. 9
+",
+        "option1": "135
+",
+        "option2": "132
+",
+        "option3": "130
+",
+        "option4": "127
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 153 ab(a-b) + bc(b -c) + ca( c - a) is equal to :
+",
+        "option1": "(a+b)(b-c)(c-a)
+",
+        "option2": "(b-a)(b-c)(c-a)
+",
+        "option3": "(a-b)(b-c)(c-a)
+",
+        "option4": "(a-b)(b+c)(c-a)
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 154 Ifx + y + z = 2, xy + yz + zx = -11 and xyz = -12, then what is the value of✓ x3 + y3 + 23 -2 ?
+",
+        "option1": "12
+",
+        "option2": "6
+",
+        "option3": "8
+",
+        "option4": "9
 Que.155
-I. 432
-2. 441
-3. 414
+",
+        "option1": "432
+",
+        "option2": "441
+",
+        "option3": "414
 If x + -1
 - = 3 , then the value of 16x3 + -1
 - is:
 16x 256x3
 (27)
-4. 423
-Que. 156 Ifx = (164)169 + (333)337
+",
+        "option4": "423
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 156 Ifx = (164)169 + (333)337
 - (727)726
 , then what is the units digit ofx?
-I. 5
-2. 9
-3. 7
-4. 8
-Que. l57 If x = ✓􀀃-{3 and y is the reciprocal of x, then what is the value of (x3 + y3)?
+",
+        "option1": "5
+",
+        "option2": "9
+",
+        "option3": "7
+",
+        "option4": "8
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " l57 If x = ✓􀀃-{3 and y is the reciprocal of x, then what is the value of (x3 + y3)?
 ✓s+✓ 3
-I. 488
-2. 504
-3. 476
-4. 472
-Que. 158 If (5x + 1)3 + (x -3)3 + 8(3x-4)3
+",
+        "option1": "488
+",
+        "option2": "504
+",
+        "option3": "476
+",
+        "option4": "472
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 158 If (5x + 1)3 + (x -3)3 + 8(3x-4)3
 = 6(5x + 1) (x -3) (3x -4), then x is equal to:
-I. 2/3
-2. 5/6
-3. 1/3
-4. 3/4
+",
+        "option1": "2/3
+",
+        "option2": "5/6
+",
+        "option3": "1/3
+",
+        "option4": "3/4
 Que.159
-I. -3
-2. 1
-3. -1
-4. 3
+",
+        "option1": "-3
+",
+        "option2": "1
+",
+        "option3": "-1
+",
+        "option4": "3
 The value of _( _ o._s 4 _ 5)( _ 0._os_1)(_0._s1 )( s_.2_) _ is:
 (0.324) 3+(0.221) 3-(0.545) 3
-Que. 160 The expression ✓ 10 + 2 (✓ 0 -✓ 10 -✓ TI) is equal to:
-I. ✓3-✓2+ ✓5
-2. ✓2-✓3-✓5
-3. ✓3 + ✓2-✓5
-4. ✓3-✓2-✓5
-Que. 161 If✓ 10 -2✓ 21 + ✓ 8 + 2✓ 15 = ✓ a+ ✓ b, where a and b are positive integers, then the value of ✓(ab)
-I. 4.6
-2. 5.9
-3. 6.8
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 160 The expression ✓ 10 + 2 (✓ 0 -✓ 10 -✓ TI) is equal to:
+",
+        "option1": "✓3-✓2+ ✓5
+",
+        "option2": "✓2-✓3-✓5
+",
+        "option3": "✓3 + ✓2-✓5
+",
+        "option4": "✓3-✓2-✓5
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 161 If✓ 10 -2✓ 21 + ✓ 8 + 2✓ 15 = ✓ a+ ✓ b, where a and b are positive integers, then the value of ✓(ab)
+",
+        "option1": "4.6
+",
+        "option2": "5.9
+",
+        "option3": "6.8
 is closet to:
 (28)
-4. 7.2
-Que. 162 If x4
+",
+        "option4": "7.2
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 162 If x4
 - 83x2 + 1 = 0, then a value of x3
 - x-3 can be:
-I. 739
-2. 737
-3. 756
-4. 758
-Que. 163 If 8x3
+",
+        "option1": "739
+",
+        "option2": "737
+",
+        "option3": "756
+",
+        "option4": "758
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 163 If 8x3
 - 27y3 = (Ax+ By) (Cx2
 - Dy2 + 6xy), then (A+ B + C - D) is equal to:
-I. 12
-2. -12
-3. 15
-4. 9
-Que. 164
+",
+        "option1": "12
+",
+        "option2": "-12
+",
+        "option3": "15
+",
+        "option4": "9
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 164
 The value of <253) 3 + <247) 3
-is 50 x 1ok, where the value ofk is: 2S.3 x 2S.3-624.91 + 24.7 x 24. 7
-I. -3
-2. 4
-3. 3
-4. 2
-Que. 165 If x8
+is 50 x 1ok, where the value ofk is: 2S.3 x 2S.3-624.91 + 24.7 x 2",
+        "option4": "7
+",
+        "option1": "-3
+",
+        "option2": "4
+",
+        "option3": "3
+",
+        "option4": "2
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 165 If x8
 - 1442x4 + 1 = 0, then a possible value of x - 1/x is:
-I. 4
-2. 6
-3. 5
-4. 8
-Que. 166 If ✓ 86 - 60✓ 2 = a - b✓ 2, then what will be the value of ✓(a2 + b2), conect to one decimal place?
-I. 7.2
-2. 8.2
-3. 8.4
-4. 7.8
-Que. 167 If 2✓ 2x3 - 3✓ Jy3 = (✓ 2x - ✓ Jy) (Ax2 + By2 + Cxy)'
+",
+        "option1": "4
+",
+        "option2": "6
+",
+        "option3": "5
+",
+        "option4": "8
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 166 If ✓ 86 - 60✓ 2 = a - b✓ 2, then what will be the value of ✓(a2 + b2), conect to one decimal place?
+",
+        "option1": "7.2
+",
+        "option2": "8.2
+",
+        "option3": "8.4
+",
+        "option4": "7.8
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 167 If 2✓ 2x3 - 3✓ Jy3 = (✓ 2x - ✓ Jy) (Ax2 + By2 + Cxy)'
 J. 11
-2. 10
-3. 19
-4. 7
+",
+        "option2": "10
+",
+        "option3": "19
+",
+        "option4": "7
 Then the value of A2 + B2 - c2 is:
 (29)
-Que. 168 If a3 + b3 = 218 and a+ b = 2, then the value of ab is:
-I. 34
-2. -31
-3. -35
-4. 32
-Que. 169 If a2 + b2 + c2 + 96 = 8(a + b - 2c), then ✓(ab - be+ ca) is equal to:
-I. 6
-2. 2✓3
-3. 2✓2
-4. 4
-Que. 170 Let x = (633)24
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 168 If a3 + b3 = 218 and a+ b = 2, then the value of ab is:
+",
+        "option1": "34
+",
+        "option2": "-31
+",
+        "option3": "-35
+",
+        "option4": "32
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 169 If a2 + b2 + c2 + 96 = 8(a + b - 2c), then ✓(ab - be+ ca) is equal to:
+",
+        "option1": "6
+",
+        "option2": "2✓3
+",
+        "option3": "2✓2
+",
+        "option4": "4
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 170 Let x = (633)24
 - (277)38+ (266)54
 . What is the units digit ofx?
 J. 7
-2. 6
-3. 8
-4. 4
+",
+        "option2": "6
+",
+        "option3": "8
+",
+        "option4": "4
 Que.171 Ifx + y + z = 11, x2 + y2 + z2
 = 133 and x3 + y3 + z3
 = 881, then the value of-.zy'(xyz) is:
-I. -8
-2. -6
-3. 6
-4. 8
-Que. 172 If x4 + x-4 = 194, (x > 0), then the value of (2x - 4)2 is
-I. 16
-2. 15
-3. 20
-4. 12
-Que. 173 If a3
+",
+        "option1": "-8
+",
+        "option2": "-6
+",
+        "option3": "6
+",
+        "option4": "8
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 172 If x4 + x-4 = 194, (x > 0), then the value of (2x - 4)2 is
+",
+        "option1": "16
+",
+        "option2": "15
+",
+        "option3": "20
+",
+        "option4": "12
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 173 If a3
 - b3 = 899 and a- b = 31, then (a- b)2 + 3ab is equal to:
-I. 29
-2. 35
-3. 16
-4. 31
+",
+        "option1": "29
+",
+        "option2": "35
+",
+        "option3": "16
+",
+        "option4": "31
 (30)
-Que. 174 Ifx = 2 + ✓5 then the value ofx3 + x-3 is:
-I. 36✓5
-2. 40✓5
-3. 46✓5
-4. 34✓5
-Que. 175 a, b, c are three positive numbers, such that, a+ b + c = 20, a2 + b2 + c2 = 152.
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 174 Ifx = 2 + ✓5 then the value ofx3 + x-3 is:
+",
+        "option1": "36✓5
+",
+        "option2": "40✓5
+",
+        "option3": "46✓5
+",
+        "option4": "34✓5
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 175 a, b, c are three positive numbers, such that, a+ b + c = 20, a2 + b2 + c2 = 152.
 The value of (ab+ be+ ca) is equal to:
-I. 110
-2. 112
-3. 102
-4. 124
-Que. 176 If (x + 7)3 + (2x + 8)3 + (2x + 3)3 = 3 (x + 7) (2x + 8) (2x + 3), then what is the value of x?
-I. 3.6
-2. -3.6
-3. 2.4
-4. -2.4
-Que. 177 If a+ 1/a = 2, What is the value of a4
+",
+        "option1": "110
+",
+        "option2": "112
+",
+        "option3": "102
+",
+        "option4": "124
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 176 If (x + 7)3 + (2x + 8)3 + (2x + 3)3 = 3 (x + 7) (2x + 8) (2x + 3), then what is the value of x?
+",
+        "option1": "3.6
+",
+        "option2": "-3.6
+",
+        "option3": "2.4
+",
+        "option4": "-2.4
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 177 If a+ 1/a = 2, What is the value of a4
 - 1/a4?
-I. 14
-2. 4
-3. l
-4. 0
-Que. 178 Ifx4 + x-4 = 1442, (x > 0) then the value ofx + x-1 is:
-I. 3 ✓ 10
-2. 2✓ 10
-3. 4✓ 10
-4. 15
-Que. 179 If (x + y)113 + (y + z)113 = -(z + x)113, then (x3 + y3 + z3) can be expressed as:
-I. 3xyz
-2. 1/8xyz
-3. 3/8(x + y) (y + z) (z + x)
-4. (x + y) (y + z) (z + x)
+",
+        "option1": "14
+",
+        "option2": "4
+",
+        "option3": "l
+",
+        "option4": "0
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 178 Ifx4 + x-4 = 1442, (x > 0) then the value ofx + x-1 is:
+",
+        "option1": "3 ✓ 10
+",
+        "option2": "2✓ 10
+",
+        "option3": "4✓ 10
+",
+        "option4": "15
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 179 If (x + y)113 + (y + z)113 = -(z + x)113, then (x3 + y3 + z3) can be expressed as:
+",
+        "option1": "3xyz
+",
+        "option2": "1/8xyz
+",
+        "option3": "3/8(x + y) (y + z) (z + x)
+",
+        "option4": "(x + y) (y + z) (z + x)
 Que.180 3 -3
 (31)
-I. 30✓2
+",
+        "option1": "30✓2
 If x = 2 - ✓3 then the value of x - x 1s:
-2. -30✓2
-3. 30✓3
-4. -30✓3
-Que. 181 Ifx2 - 6x + 1 = 0, then the value of [ {x4 + (1/x2)} + (x2 + 1)] is:
-I. 35
-2. 39
-3. 33
-4. 36
-Que. 182 If (2x - 7)3 + (2x - 8)3 + (2x - 3)3 = 3 (2x - 7) (2x - 8) (2x - 3), then what is the value of x?
-I. 2
-2. 3
-3. l
-4. 4
-Que. 183 If a2 + b2 = 135 and ab= 7, (a> 0, b > 0) then the value of (a3 - b3) is:
-I. 1350
-2. 1562
-3. 1680
-4. 1600
+",
+        "option2": "-30✓2
+",
+        "option3": "30✓3
+",
+        "option4": "-30✓3
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 181 Ifx2 - 6x + 1 = 0, then the value of [ {x4 + (1/x2)} + (x2 + 1)] is:
+",
+        "option1": "35
+",
+        "option2": "39
+",
+        "option3": "33
+",
+        "option4": "36
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 182 If (2x - 7)3 + (2x - 8)3 + (2x - 3)3 = 3 (2x - 7) (2x - 8) (2x - 3), then what is the value of x?
+",
+        "option1": "2
+",
+        "option2": "3
+",
+        "option3": "l
+",
+        "option4": "4
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 183 If a2 + b2 = 135 and ab= 7, (a> 0, b > 0) then the value of (a3 - b3) is:
+",
+        "option1": "1350
+",
+        "option2": "1562
+",
+        "option3": "1680
+",
+        "option4": "1600
 Que.184 If 8(a + b)3 + (a- b)3 = (3a + b) (Aa2 +Bab+ Cb2), then what is the value of (A+ B - C)?
-I. 10
-2. 2
-3. 4
-4. 11
-Que. 185 If x4 + x-4 = 1154, (x > 0) then the value of2(x- 3)2 is:
-I. 16
-2. 12
-3. 20
-4. 15
-Que. 186 If a3 - b3 = 899 and a- b = 29, then (a- b)2 + 3 ab is equal to:
-I. 29
+",
+        "option1": "10
+",
+        "option2": "2
+",
+        "option3": "4
+",
+        "option4": "11
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 185 If x4 + x-4 = 1154, (x > 0) then the value of2(x- 3)2 is:
+",
+        "option1": "16
+",
+        "option2": "12
+",
+        "option3": "20
+",
+        "option4": "15
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 186 If a3 - b3 = 899 and a- b = 29, then (a- b)2 + 3 ab is equal to:
+",
+        "option1": "29
 (32)
-2. 35
-3. 16
-4. 31
-Que. 187 Ifx + y + z = 3 and xy + yz + zx = -18, then what is the value ofx3 + y3 + z3 - 3xyz =?
-I. 217
-2. 191
-3. 189
-4. 187
-Que. 188 If24✓3 x3 + 2✓2 y3
+",
+        "option2": "35
+",
+        "option3": "16
+",
+        "option4": "31
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 187 Ifx + y + z = 3 and xy + yz + zx = -18, then what is the value ofx3 + y3 + z3 - 3xyz =?
+",
+        "option1": "217
+",
+        "option2": "191
+",
+        "option3": "189
+",
+        "option4": "187
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 188 If24✓3 x3 + 2✓2 y3
 = (2✓3x + ✓2y)(Ax2 + Bxy + Cy2) then (2A + ✓6B-C) is equal to:
-I. 14
-2. 10
-3. 6
-4. 8
-Que. 189 If a+ b + c = 4 and ab+ be+ ca = 1, then the value of a3 + b3 + c3 - 3abc is:
-I. 52
-2. 47
-3. 50
-4. 60
-Que. 190 If x = 2 + ✓5 then the value of (x3 - x-3) is:
-I. 52
-2. 76
-3. -76
-4. -52
-Que. 191 If a3 + b3 = 1344 and a+ b = 28, then (a+ b )2 - 3ab is equal to:
-I. 16
-2. 32
-3. 48
-4. 24
-Que. 192 If x4 + x-4 = 47, (x > 0), then the value of (2x -3)2 is
-I. 4
-2. 5
-3. 2
+",
+        "option1": "14
+",
+        "option2": "10
+",
+        "option3": "6
+",
+        "option4": "8
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 189 If a+ b + c = 4 and ab+ be+ ca = 1, then the value of a3 + b3 + c3 - 3abc is:
+",
+        "option1": "52
+",
+        "option2": "47
+",
+        "option3": "50
+",
+        "option4": "60
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 190 If x = 2 + ✓5 then the value of (x3 - x-3) is:
+",
+        "option1": "52
+",
+        "option2": "76
+",
+        "option3": "-76
+",
+        "option4": "-52
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 191 If a3 + b3 = 1344 and a+ b = 28, then (a+ b )2 - 3ab is equal to:
+",
+        "option1": "16
+",
+        "option2": "32
+",
+        "option3": "48
+",
+        "option4": "24
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 192 If x4 + x-4 = 47, (x > 0), then the value of (2x -3)2 is
+",
+        "option1": "4
+",
+        "option2": "5
+",
+        "option3": "2
 (33)
-4. 3
-Que. 193 If x - 1/x = 7, then x3 - 1/x3 is equal to:
-I. 480
-2. 500
-3. 364
-4. 376
-Que. 194 If (3x + 1 )3 + (x - 3)3 + ( 4 - 2x)3 + 6(3x + 1 )(x - 3)(x - 2) = 0, then x is equal to:
-I. -1/2
-2. -1
-3. 1/2
-4. 1
-Que. 195 The value of 18.43x18.43-6.57x6.57 is:
-I. 26
-2. 25
-3. 23.62
-4. 24.12
+",
+        "option4": "3
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 193 If x - 1/x = 7, then x3 - 1/x3 is equal to:
+",
+        "option1": "480
+",
+        "option2": "500
+",
+        "option3": "364
+",
+        "option4": "376
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 194 If (3x + 1 )3 + (x - 3)3 + ( 4 - 2x)3 + 6(3x + 1 )(x - 3)(x - 2) = 0, then x is equal to:
+",
+        "option1": "-1/2
+",
+        "option2": "-1
+",
+        "option3": "1/2
+",
+        "option4": "1
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 195 The value of 18.43x18.43-6.57x6.57 is:
+",
+        "option1": "26
+",
+        "option2": "25
+",
+        "option3": "23.62
+",
+        "option4": "24.12
 11.86
-Que. 196 If (3x + 1 )3 + (x - 3)3 + (2x - 4)3 = 3 (3x + 1) (x - 3) (2x - 4), then x is equal to:
-I. 2
-2. 3
-3. 1
-4. -13
-Que. 197 The average of a number and its reciprocal is 4. The average of its cube and its reciprocal is equal to:
-I. 142
-2. 244
-3. 288
-4. 256
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 196 If (3x + 1 )3 + (x - 3)3 + (2x - 4)3 = 3 (3x + 1) (x - 3) (2x - 4), then x is equal to:
+",
+        "option1": "2
+",
+        "option2": "3
+",
+        "option3": "1
+",
+        "option4": "-13
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 197 The average of a number and its reciprocal is ",
+        "option4": "The average of its cube and its reciprocal is equal to:
+",
+        "option1": "142
+",
+        "option2": "244
+",
+        "option3": "288
+",
+        "option4": "256
 Que.198
-I. 1
-2. 4
-3. 1/4
-4. 1/2
+",
+        "option1": "1
+",
+        "option2": "4
+",
+        "option3": "1/4
+",
+        "option4": "1/2
 The value of the expression ¾ {(a + 􀀻)
 2
 - (a - 􀀻)
 2
 } IS:
-Que. 199 If (2x + 7)3 + (2x + 8)3 + (2x + 3)3
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 199 If (2x + 7)3 + (2x + 8)3 + (2x + 3)3
 = 3 (2x + 7) (2x + 8) (2x + 3), then what is the value of x?
-I. 3
-2. 2
-3. -2
-4. -3
-Que. 200 If x = ✓3 - ✓2, then the value of x3
+",
+        "option1": "3
+",
+        "option2": "2
+",
+        "option3": "-2
+",
+        "option4": "-3
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 200 If x = ✓3 - ✓2, then the value of x3
 - x-3 is:
-I. -22✓3
-2. 22✓3
-3. 22✓2
-4. -22✓2
-Que. 201
+",
+        "option1": "-22✓3
+",
+        "option2": "22✓3
+",
+        "option3": "22✓2
+",
+        "option4": "-22✓2
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 201
 If x t -1, 2 and 5, then the simplified value of
 2(x3 -s) x x2 + 2x + 1
 x2 -x-2 x2 -4x-5
-I. 16
-2. 6
-3. 32
-4. 23
-Que. 202 If sec 0 = 4x and tan 0= 4/x, (x t 0) then the value of 8(x2 - 1/x2) is:
-I. 1/2
-2. l/6
-3. 1/8
-4. 1/4
+",
+        "option1": "16
+",
+        "option2": "6
+",
+        "option3": "32
+",
+        "option4": "23
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 202 If sec 0 = 4x and tan 0= 4/x, (x t 0) then the value of 8(x2 - 1/x2) is:
+",
+        "option1": "1/2
+",
+        "option2": "l/6
+",
+        "option3": "1/8
+",
+        "option4": "1/4
 x2 +2x+4
 3x-15
 is equal to:
-Que. 203 If250✓2 x3 - s✓s y3
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 203 If250✓2 x3 - s✓s y3
 = (5✓2 x - ✓s y) x (Ax2 + Bxy + Cy2), then the value of A+ C - ✓10 B is:
-I. 10
-2. 5
-3. s✓2
-4. 2✓s
-Que. 204 If x + 1/x = 7, then x3 + 1/x3 is equal to:
-I. 300
-2. 322
-3. 364
-4. 343
-Que. 205 If a2 + 4b2 + 49c2 + 18 = 2 (2b + 28c - a), then the value of (3a + 2b + 7c) is:
+",
+        "option1": "10
+",
+        "option2": "5
+",
+        "option3": "s✓2
+",
+        "option4": "2✓s
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 204 If x + 1/x = 7, then x3 + 1/x3 is equal to:
+",
+        "option1": "300
+",
+        "option2": "322
+",
+        "option3": "364
+",
+        "option4": "343
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 205 If a2 + 4b2 + 49c2 + 18 = 2 (2b + 28c - a), then the value of (3a + 2b + 7c) is:
 J. 1
-2. 0
-3. 2
-4. 3
-Que. 206
-I. 17
-2. 10
-3. 1
-4. 19
+",
+        "option2": "0
+",
+        "option3": "2
+",
+        "option4": "3
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 206
+",
+        "option1": "17
+",
+        "option2": "10
+",
+        "option3": "1
+",
+        "option4": "19
 If 3✓ Jx3 - 2✓ 2y3 = (✓ Jx - ✓ 2y) (Ax2 - Bxy + Cy2
 ) , then the value of (A 2 + B2 + C2) is:
-Que. 207 If a+ b + c = 5, a2 + b2 + c2 = 27 and a3 + b3 + c3 = 125, then the value of 4abc is:
-I. 20
-2. 15
-3. -20
-4. -15
-Que. 208 If a+ b + c = 5 and ab+ be+ ca = 4, then a3 + b3 + c3 - 3abc is equal to:
-I. 72
-2. 62
-3. 65
-4. 68
-Que. 209
-I. 6
-2. 5
-3. 7
-4. 8
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 207 If a+ b + c = 5, a2 + b2 + c2 = 27 and a3 + b3 + c3 = 125, then the value of 4abc is:
+",
+        "option1": "20
+",
+        "option2": "15
+",
+        "option3": "-20
+",
+        "option4": "-15
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 208 If a+ b + c = 5 and ab+ be+ ca = 4, then a3 + b3 + c3 - 3abc is equal to:
+",
+        "option1": "72
+",
+        "option2": "62
+",
+        "option3": "65
+",
+        "option4": "68
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 209
+",
+        "option1": "6
+",
+        "option2": "5
+",
+        "option3": "7
+",
+        "option4": "8
 Given that x, y, z are positive real numbers, if (x + y)2 - z
 2 = 8, (y + z)2 - x2 = 10 and (x + z)2 - y2 = 7,
 then (x + y + z) is equal to:
-Que. 210 If a2 + b2 = 169, ab= 60, (a> b), then (a2 - b2) is equal to:
-I. 149
-2. 139
-3. 119
-4. 129
-Que. 211 If x = 2 + ✓3, then the value of x3 - x-3 is:
-I. -52
-2. 52
-3. 30✓3
-4. -30✓3
-Que. 212 If (x - 7)3 + (2x + 8)3 + (2x - 3)3 = 3(x - 7) (2x + 8) (2x - 3), then what is the value of x?
-I. 2.4
-2. 1.6
-3. 1.2
-4. 0.4
-Que. 213 If a2 + b2 = 99 and ab= 11, (a> 0, b> 0) then the value of (a3 + b3) is:
-I. 1100
-2. 968
-3. 1250
-4. 1080
-Que. 214 If x4 + x-4 = 2207, (x > 0) then the value of x + x-1 is:
-I. 19
-2. 7
-3. 11
-4. 9
-Que. 215 If x4 + x-4 = 1442, (x > 0) then the value of x - x-1 is:
-I. 15
-2. 6
-3. 7
-4. 8
-Que. 216 If (3x - 7)3 + (3x - 8) 3 + (3x + 6)3 = 3 (3x - 7) (3x - 8) (3x + 6), then what is the value of x?
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 210 If a2 + b2 = 169, ab= 60, (a> b), then (a2 - b2) is equal to:
+",
+        "option1": "149
+",
+        "option2": "139
+",
+        "option3": "119
+",
+        "option4": "129
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 211 If x = 2 + ✓3, then the value of x3 - x-3 is:
+",
+        "option1": "-52
+",
+        "option2": "52
+",
+        "option3": "30✓3
+",
+        "option4": "-30✓3
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 212 If (x - 7)3 + (2x + 8)3 + (2x - 3)3 = 3(x - 7) (2x + 8) (2x - 3), then what is the value of x?
+",
+        "option1": "2.4
+",
+        "option2": "1.6
+",
+        "option3": "1.2
+",
+        "option4": "0.4
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 213 If a2 + b2 = 99 and ab= 11, (a> 0, b> 0) then the value of (a3 + b3) is:
+",
+        "option1": "1100
+",
+        "option2": "968
+",
+        "option3": "1250
+",
+        "option4": "1080
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 214 If x4 + x-4 = 2207, (x > 0) then the value of x + x-1 is:
+",
+        "option1": "19
+",
+        "option2": "7
+",
+        "option3": "11
+",
+        "option4": "9
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 215 If x4 + x-4 = 1442, (x > 0) then the value of x - x-1 is:
+",
+        "option1": "15
+",
+        "option2": "6
+",
+        "option3": "7
+",
+        "option4": "8
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 216 If (3x - 7)3 + (3x - 8) 3 + (3x + 6)3 = 3 (3x - 7) (3x - 8) (3x + 6), then what is the value of x?
 J. 1
-2. 4
-3. 3
-4. 2
-Que. 217 If (x + 1/x) = 10, then (x3 + 1/x3) is equal to:
-I. 970
-2. 1100
-3. 1000
-4. 1030
-Que. 218 Ifa 2 + b2 = 88 and ab= 6, (a> 0, b> 0) then what is the value of (a3 + b3 )?
-I. 980
-2. 1180
-3. 820
-4. 1000
-Que. 219 If (x - 1/x) = 10, then (x3 - 1/x3) is equal to:
-I. 970
-2. 1000
-3. 1030
-4. 1100
-Que. 220 If (x - 7)3 + (x - 8)3 + (x + 6)3 = 3 (x - 7)(x - 8) (x + 6), then what is the value of x?
-I. 6
-2. 8
-3. 10
-4. 3
-Que. 221 If x + y = 7 and xy = 10, then the value of (1/x3 + 1/y3) is:
-I. 0.453
-2. 0.133
-3. 0.543
-4. 0.131
-Que. 222 Ifx + y + z = 19, xyz = 216 and xy + yz + zx = 114, then the value of ✓(x3 + y3 + z3 + xyz) is:
-I. 28
-2. 35
-3. 30
-4. 32
-Que. 223 If 8x2 + y2 - 12x-4xy + 9 = 0, then the value of (14x -Sy) is:
-I. 3
-2. 9
-3. 6
-4. 5
-Que. 224
-I. 42
-2. 50
-3. 48
-4. 56
+",
+        "option2": "4
+",
+        "option3": "3
+",
+        "option4": "2
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 217 If (x + 1/x) = 10, then (x3 + 1/x3) is equal to:
+",
+        "option1": "970
+",
+        "option2": "1100
+",
+        "option3": "1000
+",
+        "option4": "1030
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 218 Ifa 2 + b2 = 88 and ab= 6, (a> 0, b> 0) then what is the value of (a3 + b3 )?
+",
+        "option1": "980
+",
+        "option2": "1180
+",
+        "option3": "820
+",
+        "option4": "1000
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 219 If (x - 1/x) = 10, then (x3 - 1/x3) is equal to:
+",
+        "option1": "970
+",
+        "option2": "1000
+",
+        "option3": "1030
+",
+        "option4": "1100
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 220 If (x - 7)3 + (x - 8)3 + (x + 6)3 = 3 (x - 7)(x - 8) (x + 6), then what is the value of x?
+",
+        "option1": "6
+",
+        "option2": "8
+",
+        "option3": "10
+",
+        "option4": "3
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 221 If x + y = 7 and xy = 10, then the value of (1/x3 + 1/y3) is:
+",
+        "option1": "0.453
+",
+        "option2": "0.133
+",
+        "option3": "0.543
+",
+        "option4": "0.131
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 222 Ifx + y + z = 19, xyz = 216 and xy + yz + zx = 114, then the value of ✓(x3 + y3 + z3 + xyz) is:
+",
+        "option1": "28
+",
+        "option2": "35
+",
+        "option3": "30
+",
+        "option4": "32
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 223 If 8x2 + y2 - 12x-4xy + 9 = 0, then the value of (14x -Sy) is:
+",
+        "option1": "3
+",
+        "option2": "9
+",
+        "option3": "6
+",
+        "option4": "5
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 224
+",
+        "option1": "42
+",
+        "option2": "50
+",
+        "option3": "48
+",
+        "option4": "56
 Eight years ago, the ratio of ages of A and B was 9 : 10. The ratio of their ages 4 years from now will be
-12 : 13. What in the age (in years) of C now, if his age is 6 years more than that of A?
-Que. 225 If x is real, and x4 - 5x2 - 1 = 0, then the value of x6 - 3x2 + 3/x2 - 1/x6 + lis:
-I. 96
-2. 116
-3. 110
-4. 126
-Que. 226 Ifx + y + z = 2, xy + yz + zx = -11, then the value ofx3 + y3 + z3 - 3xyz is:
-I. 152
-2. 70
-3. 74
-4. 148
-Que. 227 If24✓3x3 + 5✓5y3
+12 : 1",
+        "option3": "What in the age (in years) of C now, if his age is 6 years more than that of A?
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 225 If x is real, and x4 - 5x2 - 1 = 0, then the value of x6 - 3x2 + 3/x2 - 1/x6 + lis:
+",
+        "option1": "96
+",
+        "option2": "116
+",
+        "option3": "110
+",
+        "option4": "126
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 226 Ifx + y + z = 2, xy + yz + zx = -11, then the value ofx3 + y3 + z3 - 3xyz is:
+",
+        "option1": "152
+",
+        "option2": "70
+",
+        "option3": "74
+",
+        "option4": "148
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 227 If24✓3x3 + 5✓5y3
 = (2✓3x + ✓5y) x (Ax2 + Bxy + Cy2) then what is the value of (A2 -B2 + C2)?
-I. 109
-2. 108
-3. 139
-4. 128
-Que. 228 If a+ b - c = 12 and a2 + b2 + c2 = 110, then which among the following relation sis hue?
+",
+        "option1": "109
+",
+        "option2": "108
+",
+        "option3": "139
+",
+        "option4": "128
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 228 If a+ b - c = 12 and a2 + b2 + c2 = 110, then which among the following relation sis hue?
 (p) ab + be + ca = 34
 ( q) ab + be - ca = 17
 (r) ab - be+ ca = 17
 ( s) ab - be - ca = 17
-I. (q)
-2. (s)
-3. (r)
-4. (p)
-Que. 229 If a+ 1/a = 3, then the value of (a6 + 1/a6) is equal to:
-I. 319
-2. 322
-3. 780
-4. 730
-Que. 230 If a 113 + b113+ c 113
+",
+        "option1": "(q)
+",
+        "option2": "(s)
+",
+        "option3": "(r)
+",
+        "option4": "(p)
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 229 If a+ 1/a = 3, then the value of (a6 + 1/a6) is equal to:
+",
+        "option1": "319
+",
+        "option2": "322
+",
+        "option3": "780
+",
+        "option4": "730
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 230 If a 113 + b113+ c 113
 = 0, then (a+ b + c)6 is equal to:
-I. 729 a2b2c2
-2. 729 abc
-3. 81 a2b2c2
-4. 81 abcm
-Que. 231 If (a+ b + 4)(ab + 4(a + b )) - 4ab = 0, and at -4, b t -4, then, 1/(a + b + 4)117
+",
+        "option1": "729 a2b2c2
+",
+        "option2": "729 abc
+",
+        "option3": "81 a2b2c2
+",
+        "option4": "81 abcm
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 231 If (a+ b + 4)(ab + 4(a + b )) - 4ab = 0, and at -4, b t -4, then, 1/(a + b + 4)117
 - 2·234 is equal to:
-I. 0
-2. 14117
-3. -12234
-4. 12117
-Que. 232 Given, a+ 1/a = 2, what is the value of a 118 + 1/a 117?
+",
+        "option1": "0
+",
+        "option2": "14117
+",
+        "option3": "-12234
+",
+        "option4": "12117
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 232 Given, a+ 1/a = 2, what is the value of a 118 + 1/a 117?
 J. 1
-2. 118
-3. 2
-4. 117
-Que. 233 If (x - 8)3 + (2x + 16)3 + (2x - 13)3
+",
+        "option2": "118
+",
+        "option3": "2
+",
+        "option4": "117
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 233 If (x - 8)3 + (2x + 16)3 + (2x - 13)3
 = 3 (x - 8) (2x + 16) (2x - 13) then find the value of x.
 J. 1
-2. -1
-3. 2
-4. -2
-Que. 234 Ifx = 2 + ✓3 then the value ofx3 + x·3 is:
-I. 52✓3
-2. 52
-3. -52✓3
-4. -52
-Que. 235 If 3xll4 + 4x114
+",
+        "option2": "-1
+",
+        "option3": "2
+",
+        "option4": "-2
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 234 Ifx = 2 + ✓3 then the value ofx3 + x·3 is:
+",
+        "option1": "52✓3
+",
+        "option2": "52
+",
+        "option3": "-52✓3
+",
+        "option4": "-52
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 235 If 3xll4 + 4x114
 = 5xll4 then the value of xis:
-I. 2
-2. 16
-3. 8
-4. 4
-Que. 236 If 8(x + y)3 - (x - y)3
+",
+        "option1": "2
+",
+        "option2": "16
+",
+        "option3": "8
+",
+        "option4": "4
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 236 If 8(x + y)3 - (x - y)3
 = (x + 3y) (Ax2 + Bxy + Cy2), then value of (A - B - C) is:
-I. -2
-2. 14
-3. -6
-4. 10
-Que. 237 If 9a2 + 16b2 + c2 + 25 = 24(a + b), then the value of (3a + 4b + 5c) is:
-I. 7
-2. 9
-3. 6
-4. 10
-Que. 238 Ifx + y + z = 19, x2 + y2 + z2 = 133, then the value ofx3
+",
+        "option1": "-2
+",
+        "option2": "14
+",
+        "option3": "-6
+",
+        "option4": "10
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 237 If 9a2 + 16b2 + c2 + 25 = 24(a + b), then the value of (3a + 4b + 5c) is:
+",
+        "option1": "7
+",
+        "option2": "9
+",
+        "option3": "6
+",
+        "option4": "10
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 238 Ifx + y + z = 19, x2 + y2 + z2 = 133, then the value ofx3
 + y3 + z3 - 3xyz is:
-I. 380
-2. 352
-3. 361
-4. 342
-Que. 239 In x2 + 1 = 3x, then the value of 4[(x2 + x-2)(x2 + 5x + 1)]/x is:
-I. 213
-2. 412
-3. 224
-4. 312
-Que. 240 If 40✓5x3 - 3✓3y3
+",
+        "option1": "380
+",
+        "option2": "352
+",
+        "option3": "361
+",
+        "option4": "342
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 239 In x2 + 1 = 3x, then the value of 4[(x2 + x-2)(x2 + 5x + 1)]/x is:
+",
+        "option1": "213
+",
+        "option2": "412
+",
+        "option3": "224
+",
+        "option4": "312
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 240 If 40✓5x3 - 3✓3y3
 = (2✓5x - ✓3y)(Ax2 + Bxy + cy2), then what is the value of ✓(B2 + C2 - A)?
 J. 11
-2. 9
-3. 8
-4. 7
-Que. 241 If a3 + b3
+",
+        "option2": "9
+",
+        "option3": "8
+",
+        "option4": "7
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 241 If a3 + b3
 = 110 and a+ b = 5, then (a+ b)2 - 3ab is equal to:
-I. 52
-2. 32
-3. 22
-4. 42
-Que. 242 If a+ b + c = 5, and a2 + b2 + c2 = 33, then find the value of a3 + b3 + c3
+",
+        "option1": "52
+",
+        "option2": "32
+",
+        "option3": "22
+",
+        "option4": "42
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 242 If a+ b + c = 5, and a2 + b2 + c2 = 33, then find the value of a3 + b3 + c3
 - 3abc
-I. 192
-2. 185
-3. 180
-4. 195
-Que. 243 If x + x - 1 = 2, then the value of x3 + x- 3 is:
+",
+        "option1": "192
+",
+        "option2": "185
+",
+        "option3": "180
+",
+        "option4": "195
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 243 If x + x - 1 = 2, then the value of x3 + x- 3 is:
 J. 1
-2. 1/2
-3. 2
-4. 3
-Que. 244 If roots of x2
+",
+        "option2": "1/2
+",
+        "option3": "2
+",
+        "option4": "3
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 244 If roots of x2
 - 4x + a = 0 are equal, then a = ?
-I. --4
-2. 4
-3. 8
-4. -8
-Que. 245 If a+ b = 8, ab = - 12, then a3 + b3 = ?
-I. 833
-2. -244
-3. 800
-4. -833
-Que. 246
-I. 117
-2. 98
-3. 124
-4. -98
+",
+        "option1": "--4
+",
+        "option2": "4
+",
+        "option3": "8
+",
+        "option4": "-8
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 245 If a+ b = 8, ab = - 12, then a3 + b3 = ?
+",
+        "option1": "833
+",
+        "option2": "-244
+",
+        "option3": "800
+",
+        "option4": "-833
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 246
+",
+        "option1": "117
+",
+        "option2": "98
+",
+        "option3": "124
+",
+        "option4": "-98
 If a + b - c = 7 ab - be - ca = 21 then a3 + b3
 - c3 + 3abc =
 ,
 . .
 ,
-Que. 247 If a3 + b3 = 432 and a+ b = 12, then (a+ b)2 - 3ab is equal to:
-I. 42
-2. 52
-3. 36
-4. 38
-Que. 248 If (x - 2)3 + (x - 3)3 + (x - 10)3 = (x - 2) (x - 3) (3x - 30), then what is the value of x?
-I. 7
-2. 5
-3. 18
-4. 3
-Que. 249 If x- 1/x = 2✓2, then x2 + 1/x2 is equal to:
-I. 16
-2. 12
-3. 11
-4. 10
-Que. 250 If (2x - 5)3 + (x + 2)3 + (3x - 9)3 = (2x - 5) (3x - 9) (3x + 6), then what is the value of x?
-I. 7
-2. 2
-3. 18
-4. 5
-Que. 251 If x - 1/x = 3✓2, then x2 + 1/x2 is equal to:
-I. 52
-2. 56
-3. 20
-4. 46
-Que. 252 If a3 - b3 = 208 and a- b = 8, then (a+ b)2- ab is equal to:
-I. 42
-2. 38
-3. 52
-4. 26
-Que. 253 If a3 - b3 = 216 and a - b = 6, then (a+ b)2 - ab is equal to:
-I. 42
-2. 36
-3. 38
-4. 52
-Que. 254 Ifx + 1/x = 3✓2, then x2 + 1/x2 is equal to:
-I. 22
-2. 16
-3. 26
-4. 14
-Que. 255 If (x - 6)3 + (x - 4)3 + (x - 5)3 = (3x - 15) (x - 4) (x - 6), then what is the value of x?
-I. 3
-2. 7
-3. 18
-4. 5
-Que. 256 If a3 + b3 = 416 and a+ b = 16, then (a- b)2 + ab is equal to:
-I. 32
-2. 22
-3. 24
-4. 26
-Que. 257 If (2x - 1 )3 + (3x - 4)3 + (x - 7)3 = ( 6x - 3) (3x - 4) (x - 7), then what is the value of x?
-I. 5
-2. 8
-3. 2
-4. 3
-Que. 258 If x + 1/x = 2✓3, then x2 + 1/x2 is equal to:
-I. 8
-2. 16
-3. 10
-4. 12
-Que. 259 If (2x - 5)3 + (x - 4)3 + (x - 11 )3 = 3 (2x - 5) (x - 4) (x - 11 ), then what is the value of x?
-I. 18
-2. 3
-3. 5
-4. 7
-Que. 260 If x + 1/x = 4 ✓3, then x2 + 1/x2is equal to:
-I. 52
-2. 46
-3. 44
-4. 56
-Que. 261 If a3 - b3
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 247 If a3 + b3 = 432 and a+ b = 12, then (a+ b)2 - 3ab is equal to:
+",
+        "option1": "42
+",
+        "option2": "52
+",
+        "option3": "36
+",
+        "option4": "38
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 248 If (x - 2)3 + (x - 3)3 + (x - 10)3 = (x - 2) (x - 3) (3x - 30), then what is the value of x?
+",
+        "option1": "7
+",
+        "option2": "5
+",
+        "option3": "18
+",
+        "option4": "3
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 249 If x- 1/x = 2✓2, then x2 + 1/x2 is equal to:
+",
+        "option1": "16
+",
+        "option2": "12
+",
+        "option3": "11
+",
+        "option4": "10
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 250 If (2x - 5)3 + (x + 2)3 + (3x - 9)3 = (2x - 5) (3x - 9) (3x + 6), then what is the value of x?
+",
+        "option1": "7
+",
+        "option2": "2
+",
+        "option3": "18
+",
+        "option4": "5
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 251 If x - 1/x = 3✓2, then x2 + 1/x2 is equal to:
+",
+        "option1": "52
+",
+        "option2": "56
+",
+        "option3": "20
+",
+        "option4": "46
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 252 If a3 - b3 = 208 and a- b = 8, then (a+ b)2- ab is equal to:
+",
+        "option1": "42
+",
+        "option2": "38
+",
+        "option3": "52
+",
+        "option4": "26
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 253 If a3 - b3 = 216 and a - b = 6, then (a+ b)2 - ab is equal to:
+",
+        "option1": "42
+",
+        "option2": "36
+",
+        "option3": "38
+",
+        "option4": "52
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 254 Ifx + 1/x = 3✓2, then x2 + 1/x2 is equal to:
+",
+        "option1": "22
+",
+        "option2": "16
+",
+        "option3": "26
+",
+        "option4": "14
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 255 If (x - 6)3 + (x - 4)3 + (x - 5)3 = (3x - 15) (x - 4) (x - 6), then what is the value of x?
+",
+        "option1": "3
+",
+        "option2": "7
+",
+        "option3": "18
+",
+        "option4": "5
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 256 If a3 + b3 = 416 and a+ b = 16, then (a- b)2 + ab is equal to:
+",
+        "option1": "32
+",
+        "option2": "22
+",
+        "option3": "24
+",
+        "option4": "26
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 257 If (2x - 1 )3 + (3x - 4)3 + (x - 7)3 = ( 6x - 3) (3x - 4) (x - 7), then what is the value of x?
+",
+        "option1": "5
+",
+        "option2": "8
+",
+        "option3": "2
+",
+        "option4": "3
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 258 If x + 1/x = 2✓3, then x2 + 1/x2 is equal to:
+",
+        "option1": "8
+",
+        "option2": "16
+",
+        "option3": "10
+",
+        "option4": "12
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 259 If (2x - 5)3 + (x - 4)3 + (x - 11 )3 = 3 (2x - 5) (x - 4) (x - 11 ), then what is the value of x?
+",
+        "option1": "18
+",
+        "option2": "3
+",
+        "option3": "5
+",
+        "option4": "7
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 260 If x + 1/x = 4 ✓3, then x2 + 1/x2is equal to:
+",
+        "option1": "52
+",
+        "option2": "46
+",
+        "option3": "44
+",
+        "option4": "56
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 261 If a3 - b3
 = 416 and a- b = 8, then (a+ b)2 - ab is equal to:
-I. 38
-2. 52
-3. 42
-4. 32
-Que. 262 If (x - 3)3 + (2x - 5)3 + (x - 4)3
+",
+        "option1": "38
+",
+        "option2": "52
+",
+        "option3": "42
+",
+        "option4": "32
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 262 If (x - 3)3 + (2x - 5)3 + (x - 4)3
 = (3x - 9) (2x - 5) (x - 4), then what is the value of x?
-I. 5
-2. 4
-3. 2
-4. 3
-Que. 263
-I. 100
-2. 1,000
+",
+        "option1": "5
+",
+        "option2": "4
+",
+        "option3": "2
+",
+        "option4": "3
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 263
+",
+        "option1": "100
+",
+        "option2": "1,000
 63.5X63.5X63.5+36.SX36.SX36.S
 6.3Sx6.3S+3.6Sx3.6S-6.3Sx3.6S
-3. 1,00,000
-4. 10,000
+",
+        "option3": "1,00,000
+",
+        "option4": "10,000
 is equal to:
-Que. 264 If a3 - b3
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 264 If a3 - b3
 = 3552 and (a - b) = 6, then (a+ b )2 - ab is equal to:
-I. 568
-2. 636
-3. 592
-4. 618
-Que. 265 If x + 1/x = 7, then x3 + 1/x3 is equal to:
-I. 322
-2. 365
-3. 343
-4. 364
-Que. 266 If x + 1/x = 8, then x2 + 1/x2 is equal to:
-I. 62
-2. 68
-3. 64
-4. 66
-Que. 267 If ab+ be+ ca = 8 and a+ b + c = 12 then (a2 + b2 + c2) is equal to:
-1. 160
-2. 144
-3. 134
-4. 128
-Que. 268 If x - 1/x = 4, then x3
+",
+        "option1": "568
+",
+        "option2": "636
+",
+        "option3": "592
+",
+        "option4": "618
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 265 If x + 1/x = 7, then x3 + 1/x3 is equal to:
+",
+        "option1": "322
+",
+        "option2": "365
+",
+        "option3": "343
+",
+        "option4": "364
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 266 If x + 1/x = 8, then x2 + 1/x2 is equal to:
+",
+        "option1": "62
+",
+        "option2": "68
+",
+        "option3": "64
+",
+        "option4": "66
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 267 If ab+ be+ ca = 8 and a+ b + c = 12 then (a2 + b2 + c2) is equal to:
+",
+        "option1": "160
+",
+        "option2": "144
+",
+        "option3": "134
+",
+        "option4": "128
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 268 If x - 1/x = 4, then x3
 - 1/x3 is equal to:
-1. 72
-2. 68
-3. 76
-4. 64
-Que. 269 If x2 + 1/x2 =11, then x - 1/x is equal to:
-1. 2
-2. 3
-3. 5
-4. 4
-Que. 270 If (2x + 3)3 + (x - 8)3 + (x + 13)3 = (2x + 3) (3x - 24) (x + 13), then what is the value of x?
-1. -2
-2. -2.5
-3. 1
-4. -1.3
-Que. 271 If a3 + b3 = 5824 and a+ b = 28, then (a - b)2 + ab equal to:
-1. 208
-2. 180
-3. 236
-4. 152
-Que. 272 If x - 1/x = 6, then x3
+",
+        "option1": "72
+",
+        "option2": "68
+",
+        "option3": "76
+",
+        "option4": "64
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 269 If x2 + 1/x2 =11, then x - 1/x is equal to:
+",
+        "option1": "2
+",
+        "option2": "3
+",
+        "option3": "5
+",
+        "option4": "4
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 270 If (2x + 3)3 + (x - 8)3 + (x + 13)3 = (2x + 3) (3x - 24) (x + 13), then what is the value of x?
+",
+        "option1": "-2
+",
+        "option2": "-2.5
+",
+        "option3": "1
+",
+        "option4": "-1.3
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 271 If a3 + b3 = 5824 and a+ b = 28, then (a - b)2 + ab equal to:
+",
+        "option1": "208
+",
+        "option2": "180
+",
+        "option3": "236
+",
+        "option4": "152
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 272 If x - 1/x = 6, then x3
 - 1/x3 is equal to:
-1. 234
-2. 198
-3. 176
-4. 216
-Que. 273 S.7SxS.7SxS.7S+3.2Sx3.2Sx3.2S
+",
+        "option1": "234
+",
+        "option2": "198
+",
+        "option3": "176
+",
+        "option4": "216
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 273 S.7SxS.7SxS.7S+3.2Sx3.2Sx3.2S
 S7.SxS7.S+32.Sx32.S-S7.Sx32.S
-I. 0.0009
-2. 0.9
-3. 0.009
-4. 0.09
+",
+        "option1": "0.0009
+",
+        "option2": "0.9
+",
+        "option3": "0.009
+",
+        "option4": "0.09
 =?
-Que. 274 If a3
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 274 If a3
 - b3 = 208 and a- b = 4, then (a+ b )2- ab is equal to:
-I. 32
-2. 52
-3. 38
-4. 42
-Que. 275 If (x - 5)3 + (x - 6)3 + (x - 7)3 = 3(x - 5)(x - 6)(x - 7), then what is the value of x?
-I. 7
-2. 6
-3. 5
-4. 18
-Que. 276 If x + 1/x = 5, then x3 + 1/x3 is equal to:
-I. 125
-2. 130
-3. 110
-4. 145
-Que. 277 If a+ b + c = 8 and ab+ be+ ca = 20, then a3 + b3 + c3
+",
+        "option1": "32
+",
+        "option2": "52
+",
+        "option3": "38
+",
+        "option4": "42
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 275 If (x - 5)3 + (x - 6)3 + (x - 7)3 = 3(x - 5)(x - 6)(x - 7), then what is the value of x?
+",
+        "option1": "7
+",
+        "option2": "6
+",
+        "option3": "5
+",
+        "option4": "18
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 276 If x + 1/x = 5, then x3 + 1/x3 is equal to:
+",
+        "option1": "125
+",
+        "option2": "130
+",
+        "option3": "110
+",
+        "option4": "145
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 277 If a+ b + c = 8 and ab+ be+ ca = 20, then a3 + b3 + c3
 - 3abc is equal to:
-I. 36
-2. 32
-3. 24
-4. 30
-Que. 278 If ✓ x - -1= = ✓ 5, then x2 + ..l.. is equal to:
+",
+        "option1": "36
+",
+        "option2": "32
+",
+        "option3": "24
+",
+        "option4": "30
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 278 If ✓ x - -1= = ✓ 5, then x2 + ..l.. is equal to:
 ✓x x2
-I. 47
-2. 49
-3. 45
-4. 51
-Que. 279 3 3
-I. 80
-2. 92
-3. 84
-4. 88
+",
+        "option1": "47
+",
+        "option2": "49
+",
+        "option3": "45
+",
+        "option4": "51
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 279 3 3
+",
+        "option1": "80
+",
+        "option2": "92
+",
+        "option3": "84
+",
+        "option4": "88
 If(a-b) = 4 and ab= 2, then (a -b ) is equal to:
-Que. 280 If a-b = 5 and ab= 6, then (a3 - b3) is equal to:
-I. 155
-2. 225
-3. 90
-4. 215
-Que. 281 If a+ b + c = 10 and ab+ be+ ca = 32 then a3 + b3 + c3 - 3abc is equal to:
-I. 50
-2. 60
-3. 40
-4. 70
-Que. 282
-I. 16
-2. 18
-3. 12
-4. 14
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 280 If a-b = 5 and ab= 6, then (a3 - b3) is equal to:
+",
+        "option1": "155
+",
+        "option2": "225
+",
+        "option3": "90
+",
+        "option4": "215
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 281 If a+ b + c = 10 and ab+ be+ ca = 32 then a3 + b3 + c3 - 3abc is equal to:
+",
+        "option1": "50
+",
+        "option2": "60
+",
+        "option3": "40
+",
+        "option4": "70
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 282
+",
+        "option1": "16
+",
+        "option2": "18
+",
+        "option3": "12
+",
+        "option4": "14
 If ✓ x + --1=-= ✓ 6, then x2 + .l. is equal to:
 ✓ x 􀀂
-Que. 283 If a+ b + c = 6 and a3 + b3 + c3 - 3abc = 126, then ab+ be+ ca is equal to:
-I. 5
-2. 6
-3. 8
-4. 12
-Que. 284 If ✓ x - --1=- = 2✓ 2, then x2 + .l. is equal to:
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 283 If a+ b + c = 6 and a3 + b3 + c3 - 3abc = 126, then ab+ be+ ca is equal to:
+",
+        "option1": "5
+",
+        "option2": "6
+",
+        "option3": "8
+",
+        "option4": "12
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 284 If ✓ x - --1=- = 2✓ 2, then x2 + .l. is equal to:
 ✓ x 􀀂
-I. 100
-2. 102
-3. 98
-4. 104
-Que. 285 If a+ b = 5 and ab = 3, then (a3 + b3) is equal to:
-I. 80
-2. 65
-3. 75
-4. 70
-Que. 286 If a- b = 5 and ab= 2, then a3 - b3 is equal to:
-I. 95
-2. 155
-3. 125
-4. 145
-Que. 287 If a+ b + c = 7 and ab+ be+ ca = 1, then a3 + b3 + c3 - 3abc is equal to:
-I. 322
-2. 325
-3. 422
-4. 412
-Que. 288 If ✓ x - )x. = 3✓ 2 , then x2 + :2
+",
+        "option1": "100
+",
+        "option2": "102
+",
+        "option3": "98
+",
+        "option4": "104
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 285 If a+ b = 5 and ab = 3, then (a3 + b3) is equal to:
+",
+        "option1": "80
+",
+        "option2": "65
+",
+        "option3": "75
+",
+        "option4": "70
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 286 If a- b = 5 and ab= 2, then a3 - b3 is equal to:
+",
+        "option1": "95
+",
+        "option2": "155
+",
+        "option3": "125
+",
+        "option4": "145
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 287 If a+ b + c = 7 and ab+ be+ ca = 1, then a3 + b3 + c3 - 3abc is equal to:
+",
+        "option1": "322
+",
+        "option2": "325
+",
+        "option3": "422
+",
+        "option4": "412
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 288 If ✓ x - )x. = 3✓ 2 , then x2 + :2
 is equal to:
-I. 398
-2. 402
-3. 324
-4. 326
-Que. 289 If (x - 5)3 + (x - 6)3 + (x - 7)3 = 3 (x - 5) (x - 6) (x - 7), then what is the value of x?
-I. 6
-2. 7
-3. 5
-4. 18
-Que. 290 If x + 1/x = 5, then x3 + 1/x3 is equal to:
-I. 110
-2. 130
-3. 145
-4. 125
-Que. 291 If (a+ b) = 6 and ab= 8, then (a3 + b3) is equal to:
-I. 216
-2. 144
-3. 108
-4. 72
-Que. 292
-I. 32
-2. 34
-3. 64
-4. 36
+",
+        "option1": "398
+",
+        "option2": "402
+",
+        "option3": "324
+",
+        "option4": "326
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 289 If (x - 5)3 + (x - 6)3 + (x - 7)3 = 3 (x - 5) (x - 6) (x - 7), then what is the value of x?
+",
+        "option1": "6
+",
+        "option2": "7
+",
+        "option3": "5
+",
+        "option4": "18
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 290 If x + 1/x = 5, then x3 + 1/x3 is equal to:
+",
+        "option1": "110
+",
+        "option2": "130
+",
+        "option3": "145
+",
+        "option4": "125
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 291 If (a+ b) = 6 and ab= 8, then (a3 + b3) is equal to:
+",
+        "option1": "216
+",
+        "option2": "144
+",
+        "option3": "108
+",
+        "option4": "72
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 292
+",
+        "option1": "32
+",
+        "option2": "34
+",
+        "option3": "64
+",
+        "option4": "36
 If ✓ x- + -✓1x = 2✓ 2' = 2✓ 2' then x 2 + .l. is equal to:
 x2
-Que. 293 If a+ b + c = 6 and ab+ be+ ca = 5, then a3 + b3 + c3 - 3abc is equal to:
-I. 116
-2. 126
-3. 98
-4. 108
-Que. 294 If a3 - b3 = 208 and a - b = 4, then (a+ b )2 - ab is equal to:
-I. 52
-2. 38
-3. 32
-4. 42
-Que. 295 If a+ b + c = 6 and ab +be+ ca = 4, then a3 + b3 + c3 - 3abc is equal to:
-I. 144
-2. 148
-3. 154
-4. 160
-Que. 296 If ✓ x - ✓1- = ✓ 6, then x 2 +-+ is equal to:
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 293 If a+ b + c = 6 and ab+ be+ ca = 5, then a3 + b3 + c3 - 3abc is equal to:
+",
+        "option1": "116
+",
+        "option2": "126
+",
+        "option3": "98
+",
+        "option4": "108
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 294 If a3 - b3 = 208 and a - b = 4, then (a+ b )2 - ab is equal to:
+",
+        "option1": "52
+",
+        "option2": "38
+",
+        "option3": "32
+",
+        "option4": "42
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 295 If a+ b + c = 6 and ab +be+ ca = 4, then a3 + b3 + c3 - 3abc is equal to:
+",
+        "option1": "144
+",
+        "option2": "148
+",
+        "option3": "154
+",
+        "option4": "160
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 296 If ✓ x - ✓1- = ✓ 6, then x 2 +-+ is equal to:
 X X
-I. 54
-2. 66
-3. 62
-4. 40
-Que. 297 If (a+ b) = 6 and ab = 16/3, then (a3 + b3) is equal to:
-I. 190
-2. 220
-3. 120
-4. 150
-Que. 298 If a+ b = 8 and ab= 32/3, then (a3 + b3) is equal to:
-I. 256
-2. 320
-3. 384
-4. 128
-Que. 299 If ✓ x + )x = ✓ 7, then x3 + x􀀂 is equal to:
-I. 120
-2. 130
-3. 140
-4. 110
-Que. 300 If a+ b + c = 4 and ab+ be+ ca = 2, then a3 + b3 + c3 - 3abc is equal to:
-I. 32
-2. 36
-3. 48
-4. 40
+",
+        "option1": "54
+",
+        "option2": "66
+",
+        "option3": "62
+",
+        "option4": "40
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 297 If (a+ b) = 6 and ab = 16/3, then (a3 + b3) is equal to:
+",
+        "option1": "190
+",
+        "option2": "220
+",
+        "option3": "120
+",
+        "option4": "150
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 298 If a+ b = 8 and ab= 32/3, then (a3 + b3) is equal to:
+",
+        "option1": "256
+",
+        "option2": "320
+",
+        "option3": "384
+",
+        "option4": "128
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 299 If ✓ x + )x = ✓ 7, then x3 + x􀀂 is equal to:
+",
+        "option1": "120
+",
+        "option2": "130
+",
+        "option3": "140
+",
+        "option4": "110
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 300 If a+ b + c = 4 and ab+ be+ ca = 2, then a3 + b3 + c3 - 3abc is equal to:
+",
+        "option1": "32
+",
+        "option2": "36
+",
+        "option3": "48
+",
+        "option4": "40

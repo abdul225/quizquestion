@@ -7,6 +7,8 @@ import { Answer } from './answer';
 import Answer18 from '../../assets/Json/answers18.json';
 import TrigoAns1 from '../../assets/Json/trigo1answers.json';
 import CompAns from '../../assets/Json/compoundinterestanswers.json';
+import nov162020 from '../../assets/Json/16novAnswer.json';
+import nov152020 from '../../assets/Json/15novanswer.json';
 @Component({
   selector: 'app-pdf-quiz',
   templateUrl: './pdf-quiz.component.html',
@@ -35,7 +37,7 @@ export class PdfQuizComponent implements OnInit {
   progress: number = 0;
   timeTaken: number = 0;  
   timeLeft: number = 90;
-  public answersList: Answer[] = CompAns;
+  public answersList: Answer[] = nov152020;
   answeredRight: number =0;
   answeredWrong: number =0;
   answered:number;

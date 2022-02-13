@@ -1,1326 +1,3840 @@
-Que. l Mahesh buys 3 shirts at an average price of Rs. 1250. If he buys 2 more shirts at an average price of Rs.
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " l Mahesh buys 3 shirts at an average price of Rs. 1250. If he buys 2 more shirts at an average price of Rs.
 1450, what will be the average price (in Rs) of all the 5 shirts he buys?
-I. 1370
-2. 1330
-3. 1310
-4. 1390
-Que. 2 The average weight of L, M and N is 93 kg. If the average weight of L and M be 89 kg and that of M and N
+",
+        "option1": "1370
+",
+        "option2": "1330
+",
+        "option3": "1310
+",
+        "option4": "1390
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 2 The average weight of L, M and N is 93 kg. If the average weight of L and M be 89 kg and that of M and N
 be 96.5 kg, then the weight (in kg) of M is .
-I. 92
-2. 86
-3. 101
-4. 95
-Que. 3 What is the average of all numbers between 100 and 200 which are divisible by 13?
-1. 147.5
-2. 145.5
-3. 143.5
-4. 149.5
-Que. 4 A batsman scores 98 runs in the 17th match of his career. His average runs per match increased by 2.5. What
+",
+        "option1": "92
+",
+        "option2": "86
+",
+        "option3": "101
+",
+        "option4": "95
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 3 What is the average of all numbers between 100 and 200 which are divisible by 13?
+",
+        "option1": "147.5
+",
+        "option2": "145.5
+",
+        "option3": "143.5
+",
+        "option4": "149.5
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 4 A batsman scores 98 runs in the 17th match of his career. His average runs per match increased by 2.5. What
 is his average before the 17th match?
-I. 58
-2. 60.5
-3. 63
-4. 55.5
-Que. 5 The average of three consecutive odd numbers is 52 more than 1/3rd of the largest of these numbers. What is
+",
+        "option1": "58
+",
+        "option2": "60.5
+",
+        "option3": "63
+",
+        "option4": "55.5
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 5 The average of three consecutive odd numbers is 52 more than 1/3rd of the largest of these numbers. What is
 the smallest of these numbers?
-I. 79
-2. 75
-3. 81
-4. 77
-Que. 6 Of the 3 numbers whose average is 22, the ﬁrst is 3/8th the sum of other two. What is the ﬁrst number?
-I. 16
-2. 20
-3. 22
-4. l8
-Que. 7 The average of 6 consecutive numbers is 12.5. If the next 3 numbers are also included, then what will be the
+",
+        "option1": "79
+",
+        "option2": "75
+",
+        "option3": "81
+",
+        "option4": "77
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 6 Of the 3 numbers whose average is 22, the ﬁrst is 3/8th the sum of other two. What is the ﬁrst number?
+",
+        "option1": "16
+",
+        "option2": "20
+",
+        "option3": "22
+",
+        "option4": "l8
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 7 The average of 6 consecutive numbers is 12.5. If the next 3 numbers are also included, then what will be the
 new average?
-I. 13
-2. 13.5
-3. 14
-4. 14.5
-Que. 8 Rahul is 6 years younger than his elder brother Shyam. Rahul also has a sister who is 4 years younger to
+",
+        "option1": "13
+",
+        "option2": "13.5
+",
+        "option3": "14
+",
+        "option4": "14.5
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 8 Rahul is 6 years younger than his elder brother Shyam. Rahul also has a sister who is 4 years younger to
 him. What is the difference between the age of Rahul and the average age of the three siblings?
-I. 7 months
-2. 5 months
-3. 2 months
-4. 8 months
-Que. 9 The average of 10 numbers is X and one of the number is 38. If 38 is replaced with 19, then what will be the
+",
+        "option1": "7 months
+",
+        "option2": "5 months
+",
+        "option3": "2 months
+",
+        "option4": "8 months
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 9 The average of 10 numbers is X and one of the number is 38. If 38 is replaced with 19, then what will be the
 new average?
-I. X - (1/2)
-2. X - (1/19)
-3. X - (19/10)
-4. X - (19/9)
-Que. 10 Find the average of ﬁrst 30 multiples of 7.
+",
+        "option1": "X - (1/2)
+",
+        "option2": "X - (1/19)
+",
+        "option3": "X - (19/10)
+",
+        "option4": "X - (19/9)
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 10 Find the average of ﬁrst 30 multiples of 7.
 I . 94.8
-2. 99.6
-3. 104.4
-4. 108.5
-Que. 11 Of the three numbers, the average of the ﬁrst number and the second number is 37 more than the average
+",
+        "option2": "99.6
+",
+        "option3": "104.4
+",
+        "option4": "108.5
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 11 Of the three numbers, the average of the ﬁrst number and the second number is 37 more than the average
 of second number and third number. What is the difference between the ﬁrst and the third number?
-I. 74
-2. 73
-3. 37
-4. Cannot be detemiined
-Que. 12 The average monthly income of P and Q is Rs. 42000. If P quits his job and remains jobless, the average
+",
+        "option1": "74
+",
+        "option2": "73
+",
+        "option3": "37
+",
+        "option4": "Cannot be detemiined
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 12 The average monthly income of P and Q is Rs. 42000. If P quits his job and remains jobless, the average
 monthly income of P and Q comes down to Rs. 12000. What was the monthly salary of P when he was in job?
-1. Rs. 50000
-2. Rs. 40000
-3. Rs. 60000
-4. Rs. 80000
-Que. 13 What is the average of ﬁrst 19 natural numbers?
-I. 10
-2. 7
-3. 9
-4. 8
-Que. 14 The average weight of a class is 36 kg. If a student with a weight 15 kg joins the class, then the new
+",
+        "option1": "Rs. 50000
+",
+        "option2": "Rs. 40000
+",
+        "option3": "Rs. 60000
+",
+        "option4": "Rs. 80000
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 13 What is the average of ﬁrst 19 natural numbers?
+",
+        "option1": "10
+",
+        "option2": "7
+",
+        "option3": "9
+",
+        "option4": "8
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 14 The average weight of a class is 36 kg. If a student with a weight 15 kg joins the class, then the new
 average weight becomes 33 kg. How many total numbers of students are there in the class at the end?
-I. 5
-2. 7
-3. 8
-4. 9
-Que. 15 What is the average of first 50 natural numbers?
-I. 12.25
-2. 21.25
-3. 25
-4. 25.5
-Que. 16 What is the average of ﬁrst 11 multiples of l l?
+",
+        "option1": "5
+",
+        "option2": "7
+",
+        "option3": "8
+",
+        "option4": "9
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 15 What is the average of first 50 natural numbers?
+",
+        "option1": "12.25
+",
+        "option2": "21.25
+",
+        "option3": "25
+",
+        "option4": "25.5
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 16 What is the average of ﬁrst 11 multiples of l l?
 I . 22
-2. 44
-3. 55
-4. 66
-Que. 17 The average of 10 numbers is 20 and that of other 30 numbers is 40. What is the average of all the
+",
+        "option2": "44
+",
+        "option3": "55
+",
+        "option4": "66
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 17 The average of 10 numbers is 20 and that of other 30 numbers is 40. What is the average of all the
 numbers?
-I. 35
-2. 40
-3. 45
-4. 50
-Que. 18 What is the average of all the one digit and two digit natural numbers?
-I. 25
-2. 40
-3. 50
-4. 99
-Que. 19 Average of 12 numbers is 15. If a number 41 is also included, then what will be the average of these 13
+",
+        "option1": "35
+",
+        "option2": "40
+",
+        "option3": "45
+",
+        "option4": "50
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 18 What is the average of all the one digit and two digit natural numbers?
+",
+        "option1": "25
+",
+        "option2": "40
+",
+        "option3": "50
+",
+        "option4": "99
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 19 Average of 12 numbers is 15. If a number 41 is also included, then what will be the average of these 13
 numbers?
-I. 16
-2. 18
-3. 19
-4. 1 7
-Que. 20 The average height of 50 bats is 126 cm. Some bats of average height 120 cm are removed. If the new
+",
+        "option1": "16
+",
+        "option2": "18
+",
+        "option3": "19
+",
+        "option4": "1 7
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 20 The average height of 50 bats is 126 cm. Some bats of average height 120 cm are removed. If the new
 average height is 130 cm, then how many bats are remaining?
-1. 12
-2. 20
-3. 16
-4. 30
-Que. 21 What is the average of ﬁrst 10 even natural numbers?
-I. 12
-2. 10
-3. 33
-4. 11
-Que. 22 A batsman scores 87 runs in the 21St match of his career. His average runs per match increases by 2. What
+",
+        "option1": "12
+",
+        "option2": "20
+",
+        "option3": "16
+",
+        "option4": "30
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 21 What is the average of ﬁrst 10 even natural numbers?
+",
+        "option1": "12
+",
+        "option2": "10
+",
+        "option3": "33
+",
+        "option4": "11
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 22 A batsman scores 87 runs in the 21St match of his career. His average runs per match increases by ",
+        "option2": "What
 was his average before the 21St match?
-I. 45
-2. 46
-3. 44
-4. 43
-Que. 23 The average of 41 consecutive odd numbers is 49. What is the largest number?
-I. 89
-2. 91
-3. 93
-4. 95
-Que. 24 In a class of 50 students, there are 22 girls who scored an average of 35 marks in the test. What is the
+",
+        "option1": "45
+",
+        "option2": "46
+",
+        "option3": "44
+",
+        "option4": "43
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 23 The average of 41 consecutive odd numbers is 49. What is the largest number?
+",
+        "option1": "89
+",
+        "option2": "91
+",
+        "option3": "93
+",
+        "option4": "95
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 24 In a class of 50 students, there are 22 girls who scored an average of 35 marks in the test. What is the
 average marks of the boys, if the class average is 42 marks?
-1. 50
-2. 52.5
-3. 47.5
-4. 55
-Que. 25 The average marks of 50 students in an examination was 65. It was later found that the marks of one
+",
+        "option1": "50
+",
+        "option2": "52.5
+",
+        "option3": "47.5
+",
+        "option4": "55
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 25 The average marks of 50 students in an examination was 65. It was later found that the marks of one
 student had been wrongly entered as 83 instead of 38. The correct average is:
-I. 63.9
-2. 64.5
-3. 64.7
-4. 64.1
-Que. 26 The average of 5 consecutive numbers is 18. If next 2 numbers are also included, then what will be the new
+",
+        "option1": "63.9
+",
+        "option2": "64.5
+",
+        "option3": "64.7
+",
+        "option4": "64.1
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 26 The average of 5 consecutive numbers is 18. If next 2 numbers are also included, then what will be the new
 average?
-I. 18.5
-2. 19
-3. 19.5
-4. 20
-Que. 27 The average weight of a class is 52 kg. If a student with weight 118 kg. joins the class. then new average
+",
+        "option1": "18.5
+",
+        "option2": "19
+",
+        "option3": "19.5
+",
+        "option4": "20
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 27 The average weight of a class is 52 kg. If a student with weight 118 kg. joins the class. then new average
 weight becomes 58 kg. How many total students are there in the class?
-I. 19
-2. 10
-3. 21
-4. 18
-Que. 28 The average of 12 numbers is 14. If each number is doubled, then what will be the new average?
-I. 28
-2. l8
-3. 20
-4. 24
-Que. 29 What is the average of ﬁrst 12 natural numbers?
-I. 5.5
-2. 6
-3. 6.5
-4. 7
-Que. 30 The average age of a class of 29 students is 10 years. Ifthe age of the teacher is added avaerage
+",
+        "option1": "19
+",
+        "option2": "10
+",
+        "option3": "21
+",
+        "option4": "18
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 28 The average of 12 numbers is 1",
+        "option4": "If each number is doubled, then what will be the new average?
+",
+        "option1": "28
+",
+        "option2": "l8
+",
+        "option3": "20
+",
+        "option4": "24
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 29 What is the average of ﬁrst 12 natural numbers?
+",
+        "option1": "5.5
+",
+        "option2": "6
+",
+        "option3": "6.5
+",
+        "option4": "7
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 30 The average age of a class of 29 students is 10 years. Ifthe age of the teacher is added avaerage
 increase by 6 months. What is the age of the teacher?
-I. 25 yrs
-2. 24 yrs
-3. 30 yrs
-4. 32 yrs
-Que. 31 The average of 39, 37, 49, 41, B, 43 and 47 is 43. What is the value of B?
-I. 41
-2. 55
-3. 49
-4. 4S
-Que. 32 A batsman makes 100 nms in the 25th match of his career. His average nms per match increases by 1.4.
+",
+        "option1": "25 yrs
+",
+        "option2": "24 yrs
+",
+        "option3": "30 yrs
+",
+        "option4": "32 yrs
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 31 The average of 39, 37, 49, 41, B, 43 and 47 is 4",
+        "option3": "What is the value of B?
+",
+        "option1": "41
+",
+        "option2": "55
+",
+        "option3": "49
+",
+        "option4": "4S
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 32 A batsman makes 100 nms in the 25th match of his career. His average nms per match increases by 1.4.
 Find his average before the 25th match.
-I. 65
-2. 55
-3. 75
-4. 45
-Que. 33 In a class of 60 students, there are 20 girls who scored an average of 40 marks in the test. What is the
+",
+        "option1": "65
+",
+        "option2": "55
+",
+        "option3": "75
+",
+        "option4": "45
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 33 In a class of 60 students, there are 20 girls who scored an average of 40 marks in the test. What is the
 average marks of the boys if the average of the class is 60 marks?
-I. 60
-2. 70
-3. 50
-4. 80
-Que. 34 The average marks of 18 students in an examination were 60. It was later found that the marks of one
+",
+        "option1": "60
+",
+        "option2": "70
+",
+        "option3": "50
+",
+        "option4": "80
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 34 The average marks of 18 students in an examination were 60. It was later found that the marks of one
 student had been wrongly entered as 63 instead of 36. The correct average is:
-I. 59
-2. 59.5
-3. 58
-4. 58.5
-Que. 35 What is the average of ﬁrst 8 odd numbers?
-I. 7
-2. 10
-3. 9
-4. 8
-Que. 36 The mean of 15 numbers is 40. If two numbers 45 and 35 are removed, then what Will be the mean or
+",
+        "option1": "59
+",
+        "option2": "59.5
+",
+        "option3": "58
+",
+        "option4": "58.5
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 35 What is the average of ﬁrst 8 odd numbers?
+",
+        "option1": "7
+",
+        "option2": "10
+",
+        "option3": "9
+",
+        "option4": "8
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 36 The mean of 15 numbers is 40. If two numbers 45 and 35 are removed, then what Will be the mean or
 remaining numbers?
-I. 37.5
-2. 40
-3. 42.5
-4. 38
-Que. 37 The average of 104, 102, 109, A and 112 is 109. What is the value of A?
-I. l 14
-2. l 16
-3. 118
-4. 120
-Que. 38 Average of 7 consecutive numbers is A. If 2 numbers which are before these 7 numbers are also taken,
+",
+        "option1": "37.5
+",
+        "option2": "40
+",
+        "option3": "42.5
+",
+        "option4": "38
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 37 The average of 104, 102, 109, A and 112 is 109. What is the value of A?
+",
+        "option1": "l 14
+",
+        "option2": "l 16
+",
+        "option3": "118
+",
+        "option4": "120
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 38 Average of 7 consecutive numbers is A. If 2 numbers which are before these 7 numbers are also taken,
 then what will be the new average?
-I. A - 1
-2. A - 0.5
-3. A + 1.5
-4. A
-Que. 39 The average of 10 numbers is 9.5. If a number 5 is removed, then what will be the new average?
-I. 9.75
-2. 10
-3. 10.25
-4. 9
-Que. 40 What is the average of ﬁrst 8 multiples of 5?
-I. 22.5
-2. 21.8
-3. 20
-4. 24
-Que. 41 The average age of 8 members of a group is 36 years. The age of the youngest member is 32 years. If we
+",
+        "option1": "A - 1
+",
+        "option2": "A - 0.5
+",
+        "option3": "A + 1.5
+",
+        "option4": "A
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 39 The average of 10 numbers is 9.5. If a number 5 is removed, then what will be the new average?
+",
+        "option1": "9.75
+",
+        "option2": "10
+",
+        "option3": "10.25
+",
+        "option4": "9
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 40 What is the average of ﬁrst 8 multiples of 5?
+",
+        "option1": "22.5
+",
+        "option2": "21.8
+",
+        "option3": "20
+",
+        "option4": "24
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 41 The average age of 8 members of a group is 36 years. The age of the youngest member is 32 years. If we
 exclude that youngest member from the group, then what will be the average age (in years) of the
 remaining members?
-I. 38.5
-2. 42.67
-3. 48.5
-4. 36.57
-Que. 42 A has thrice as much amount as that of B and B has 40% more amount than C. Ifthe average of the amount
+",
+        "option1": "38.5
+",
+        "option2": "42.67
+",
+        "option3": "48.5
+",
+        "option4": "36.57
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 42 A has thrice as much amount as that of B and B has 40% more amount than C. Ifthe average of the amount
 of all three of them is Rs. 1320, then what amount (in Rs.) A has?
-I. 2410
-2. 2520
-3. 2250
-4. 3240
-Que. 43 What is the average of all even natural numbers upto 100?
-I. 50
-2. 51
-3. 25.5
-4. No option is correct.
-Que. 44 The average of ﬁve numbers is 27. If one number is excluded, the average becomes 25. What is the
+",
+        "option1": "2410
+",
+        "option2": "2520
+",
+        "option3": "2250
+",
+        "option4": "3240
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 43 What is the average of all even natural numbers upto 100?
+",
+        "option1": "50
+",
+        "option2": "51
+",
+        "option3": "25.5
+",
+        "option4": "No option is correct.
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 44 The average of ﬁve numbers is 27. If one number is excluded, the average becomes 25. What is the
 excluded number?
-I. 25
-2. 27
-3. 30
-4. 35
-Que. 45 0f the 5 subjects, the average marks of Rakesh in ﬁrst 3 Subjects was 79 and the average marks in the last
+",
+        "option1": "25
+",
+        "option2": "27
+",
+        "option3": "30
+",
+        "option4": "35
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 45 0f the 5 subjects, the average marks of Rakesh in ﬁrst 3 Subjects was 79 and the average marks in the last
 3 subjects was 86. If his marks in the third subject were 80, then what were his average marks in all the 5
 subjects?
-I. 81
-2. 82
-3. 83
-4. 85
-Que. 46 The average of N numbers is 16. If a number 22 is removed, then average becomes 15. What is the value
+",
+        "option1": "81
+",
+        "option2": "82
+",
+        "option3": "83
+",
+        "option4": "85
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 46 The average of N numbers is 16. If a number 22 is removed, then average becomes 15. What is the value
 of N?
-I. 6
-2. 7
-3. 8
-4. 9
-Que. 47 The average of 21 numbers is 20. If a number 40 is removed, then what will be the new average?
-I. 19
-2. 10.25
-3. 19.5
-4. 22
-Que. 48 The average of 6 numbers is 18. Ifone number is excluded. the average becomes 17. What is the excluded
+",
+        "option1": "6
+",
+        "option2": "7
+",
+        "option3": "8
+",
+        "option4": "9
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 47 The average of 21 numbers is 20. If a number 40 is removed, then what will be the new average?
+",
+        "option1": "19
+",
+        "option2": "10.25
+",
+        "option3": "19.5
+",
+        "option4": "22
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 48 The average of 6 numbers is 18. Ifone number is excluded. the average becomes 17. What is the excluded
 number?
-I. 22
-2. 23
-3. 21
-4. 20
-Que. 49 The average often numbers is 7. If each number is multiplied by 12. then what will be the average of new
+",
+        "option1": "22
+",
+        "option2": "23
+",
+        "option3": "21
+",
+        "option4": "20
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 49 The average often numbers is 7. If each number is multiplied by 1",
+        "option2": "then what will be the average of new
 set of numbers?
-I. 7
-2. l9
-3. 82
-4. 84
-Que. 50 The average height of A. B and C is 148 cm. If the average height of A and B is 136 cm and that of B and
+",
+        "option1": "7
+",
+        "option2": "l9
+",
+        "option3": "82
+",
+        "option4": "84
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 50 The average height of A. B and C is 148 cm. If the average height of A and B is 136 cm and that of B and
 C is [25 cm. then what is the height (in cm) of B?
 l. 56
-2. 78
-3. l 12
-4. 130
-Que. 51 Average of 15 consecutive numbers is 18. If each number is divided by 2. then what will be the new
+",
+        "option2": "78
+",
+        "option3": "l 12
+",
+        "option4": "130
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 51 Average of 15 consecutive numbers is 18. If each number is divided by ",
+        "option2": "then what will be the new
 average?
-I. 15
-2. 9
-3. 12
-4. 18
-Que. 52 The average on3. 34. x. 21.19 and 18 is 21. What is the value ofx?
-I. 9
-2. 10
-3. ll
-4. 12
-Que. 53 What will be the avenge of the ﬁxst 7 positive odd numbers divisible by 5?
-I. 45
-2. 35
-3. 40
-4. 32 
-Que. S4 If23x + 23y = 184, then what is the average of x and y?
+",
+        "option1": "15
+",
+        "option2": "9
+",
+        "option3": "12
+",
+        "option4": "18
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 52 The average on",
+        "option3": "3",
+        "option4": "x. 21.19 and 18 is 2",
+        "option1": "What is the value ofx?
+",
+        "option1": "9
+",
+        "option2": "10
+",
+        "option3": "ll
+",
+        "option4": "12
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 53 What will be the avenge of the ﬁxst 7 positive odd numbers divisible by 5?
+",
+        "option1": "45
+",
+        "option2": "35
+",
+        "option3": "40
+",
+        "option4": "32 
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " S4 If23x + 23y = 184, then what is the average of x and y?
 l. 2
-2. 4
-3. 3
-4. 2.5
-Que. 55 Dravid scored 45. 43, 62 and 74 in a series of four one - day cricket match. What is his average score for
+",
+        "option2": "4
+",
+        "option3": "3
+",
+        "option4": "2.5
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 55 Dravid scored 45. 43, 62 and 74 in a series of four one - day cricket match. What is his average score for
 the series?
-I. 60
-2. 58
-3. 54
-4. 56
-Que. 56 Average age of A and B is 20 years. Average age of B and C is 18 years. Average age of A and C is 21
+",
+        "option1": "60
+",
+        "option2": "58
+",
+        "option3": "54
+",
+        "option4": "56
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 56 Average age of A and B is 20 years. Average age of B and C is 18 years. Average age of A and C is 21
 years. What is the average age (in years) of A. B and C?
 l. 7.1
-2. 19.67
-3. l9
-4. 29.5
-Que. 57 A shopkeeper sold big, medium and small sized bulbs for Rs. 150. Rs. 80 and Rs. 50 respectively. The
+",
+        "option2": "19.67
+",
+        "option3": "l9
+",
+        "option4": "29.5
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 57 A shopkeeper sold big, medium and small sized bulbs for Rs. 150. Rs. 80 and Rs. 50 respectively. The
 total number of bulbs sold were in the ratio of 2 : 7 : ll. What is the average price paid for a bulb?
-I. 72.5
-2. 70.5
-3. 75.5
-4. 80
-Que. 58 There are two numbers such that the ﬁrst number is half of the second number. If their average is 57. then
+",
+        "option1": "72.5
+",
+        "option2": "70.5
+",
+        "option3": "75.5
+",
+        "option4": "80
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 58 There are two numbers such that the ﬁrst number is half of the second number. If their average is 57. then
 what is the ﬁrst number?
-1. l9
-2. 38
-3. 21
-4. 29
-Que. 59 The average often numbers is 18. If one number is removed, then the average becomes 16, then what is
+",
+        "option1": "l9
+",
+        "option2": "38
+",
+        "option3": "21
+",
+        "option4": "29
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 59 The average often numbers is 18. If one number is removed, then the average becomes 16, then what is
 the removed number?
-I. 36
-2. 40
-3. 48 
-4. 52
-Que. 60 Average of 7 consecutive numbers is 15. Which number is the smallest of the 7 numbers?
-I. 8
-2. 10
-3. 12
-4. 6
-Que. 61 What will be the average of all the prime numbers before 19?
-I. 8.28
-2. 11.5
-3. 5.34
-4. 9.63
-Que. 62 The average of 12 numbers is 6. If a number 10 is removed, then what will be the new average?
-I. 5.63
-2. 5.25
-3. 4.75
-4. 6.23
-Que. 63 Average of 31 numbers is 19. If the average of ﬁrst 8 numbers is 24, then what is the average of the
+",
+        "option1": "36
+",
+        "option2": "40
+",
+        "option3": "48 
+",
+        "option4": "52
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 60 Average of 7 consecutive numbers is 15. Which number is the smallest of the 7 numbers?
+",
+        "option1": "8
+",
+        "option2": "10
+",
+        "option3": "12
+",
+        "option4": "6
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 61 What will be the average of all the prime numbers before 19?
+",
+        "option1": "8.28
+",
+        "option2": "11.5
+",
+        "option3": "5.34
+",
+        "option4": "9.63
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 62 The average of 12 numbers is 6. If a number 10 is removed, then what will be the new average?
+",
+        "option1": "5.63
+",
+        "option2": "5.25
+",
+        "option3": "4.75
+",
+        "option4": "6.23
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 63 Average of 31 numbers is 19. If the average of ﬁrst 8 numbers is 24, then what is the average of the
 remaining numbers?
-I. 17.26
-2. 23.25
-3. 26.2
-4. 25.45
-Que. 64 The average of N numbers is 20. If a number 6 is removed. then average becomes 22. What is the value of
+",
+        "option1": "17.26
+",
+        "option2": "23.25
+",
+        "option3": "26.2
+",
+        "option4": "25.45
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 64 The average of N numbers is 20. If a number 6 is removed. then average becomes 2",
+        "option2": "What is the value of
 N?
-I. 8
-2. 10
-3. 9
-4. l 1
-Que. 65 The average of 20 numbers is IS and that of other 70 numbers is 60. What is the average of all the
+",
+        "option1": "8
+",
+        "option2": "10
+",
+        "option3": "9
+",
+        "option4": "l 1
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 65 The average of 20 numbers is IS and that of other 70 numbers is 60. What is the average of all the
 numbers?
-I. 50
-2. 59
-3. 61
-4. 63
-Que. 66 What will be the average of the ﬁrst 5 positive even numbers divisible by 9?
-I. 50
-2. 54
-3. 48
-4. 62
-Que. 67 What is the average of 36. 43, 51. 68, and 77?
-I. 47
-2. 49
-3. 55
-4. 64
-Que. 68 The average of three numbers is 40. The [net number is 4/3 of the third number. If the third number is 20
+",
+        "option1": "50
+",
+        "option2": "59
+",
+        "option3": "61
+",
+        "option4": "63
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 66 What will be the average of the ﬁrst 5 positive even numbers divisible by 9?
+",
+        "option1": "50
+",
+        "option2": "54
+",
+        "option3": "48
+",
+        "option4": "62
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 67 What is the average of 36. 43, 5",
+        "option1": "68, and 77?
+",
+        "option1": "47
+",
+        "option2": "49
+",
+        "option3": "55
+",
+        "option4": "64
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 68 The average of three numbers is 40. The [net number is 4/3 of the third number. If the third number is 20
 less than the second number. then what is the value of the second number?
-I. 60
-2. 50
-3. 10
-4. 20
-Que. 69 The average of 17 numbers is 6. If one number is excluded. the average becomes 5. What is the excluded
+",
+        "option1": "60
+",
+        "option2": "50
+",
+        "option3": "10
+",
+        "option4": "20
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 69 The average of 17 numbers is 6. If one number is excluded. the average becomes 5. What is the excluded
 nlunber’?
 l. 21
-2. 22
-3. 24
-4. 20
-Que. 70 Average age of 6 boys is 14 years. Average age of 11 girls is 12 years. What is the avenge age (in years)
+",
+        "option2": "22
+",
+        "option3": "24
+",
+        "option4": "20
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 70 Average age of 6 boys is 14 years. Average age of 11 girls is 12 years. What is the avenge age (in years)
 of all boys and girls?
-I. 12.7
-2. 14.6
-3. 19.3
-4. 8.5
-Que. 71 The average of all odd numbers from 113 to 159 is .
-1. 135
-2. 134
-3. 133 
-4. 136
-Que. 72 The average weight ofX. Y and Z is 35 kg. Ifthe average weight ofX and Y is 33 kg and that on and Z
+",
+        "option1": "12.7
+",
+        "option2": "14.6
+",
+        "option3": "19.3
+",
+        "option4": "8.5
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 71 The average of all odd numbers from 113 to 159 is .
+",
+        "option1": "135
+",
+        "option2": "134
+",
+        "option3": "133 
+",
+        "option4": "136
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 72 The average weight ofX. Y and Z is 35 kg. Ifthe average weight ofX and Y is 33 kg and that on and Z
 is 29 kg. then what is the weight (in kg) of Y?
 l. 19
-2. 23.5
-3. 27
-4. 37
-Que. 73 The average weight of a class of 50 students is 48.6 kg. Ifthe average weight of the 20 boys is 54 kg, then
+",
+        "option2": "23.5
+",
+        "option3": "27
+",
+        "option4": "37
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 73 The average weight of a class of 50 students is 48.6 kg. Ifthe average weight of the 20 boys is 54 kg, then
 ﬁnd the average weight (in kg) of the girls in the class.
 I . 40
-2. 46
-3. 45
-4. 42
-Que. 74 0f the 3 numbers whose average is 26. the ﬁrst is 2/11 times the sum of other two. The ﬁrst number is.
+",
+        "option2": "46
+",
+        "option3": "45
+",
+        "option4": "42
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 74 0f the 3 numbers whose average is 26. the ﬁrst is 2/11 times the sum of other two. The ﬁrst number is.
 l. 16
-2. l3
-3. l l
-4. 12
-Que. 74 Of the 3 numbers whose average is 26. the ﬁrst is 2/]! times the sum of other two. The ﬁrst ntnnber is.
-I. 16
-2. l3
-3. ll
-4. 12
-Que. 75 The average weight of X. Y and Z is 74 kg. If the average weight of X and Y be 68 kg and that of Y and Z
+",
+        "option2": "l3
+",
+        "option3": "l l
+",
+        "option4": "12
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 74 Of the 3 numbers whose average is 26. the ﬁrst is 2/]! times the sum of other two. The ﬁrst ntnnber is.
+",
+        "option1": "16
+",
+        "option2": "l3
+",
+        "option3": "ll
+",
+        "option4": "12
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 75 The average weight of X. Y and Z is 74 kg. If the average weight of X and Y be 68 kg and that of Y and Z
 be 78 kg, then the weight (in kg) of Y is _.
-1. 72
-2. 70
-3. 68
-4. 66
-Que. 76 The average of 7 numbers is 30. Ifthe average of ﬁrst three numbers is 25 and that of last three nmnbers is
+",
+        "option1": "72
+",
+        "option2": "70
+",
+        "option3": "68
+",
+        "option4": "66
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 76 The average of 7 numbers is 30. Ifthe average of ﬁrst three numbers is 25 and that of last three nmnbers is
 35, then what is the fourth number?
-I. 30
-2. 35
-3. 37.5
-4. 40
-Que. 77 Average of 39, SI, 86, 77, 43, 92 and y is 65. What is the value of y?
-I. 73
-2. 71
-3. 67 
-4. 63
-Que. 78 The average of 11 numbers is 8. Ifa number 12 is removed, then what will be the new average?
-I. 7.4
-2. 7.6
-3. 7.8
-4. 8.2
-Que. 79 The average of 5 numbers is 10 and that of other 20 numbers is 40. What is the average of all the numbers?
-1. 34
-2. 40
-3. 41
-4. 45
-Que. 80 Average of 10 consecutive even nmnbers is 1]. Which number is the smallest of the 10 numbers?
-1. 4
-2. 6
-3. 8
-4. 2
-Que. 81 What is the average of the ﬁrst 9 even numbers?
-I. 9
-2. 12
-3. ll
-4. 10
-Que. 82 The average of 10 numbers is 30. If at the time of calculation one number was wrongly taken as 36 instead
+",
+        "option1": "30
+",
+        "option2": "35
+",
+        "option3": "37.5
+",
+        "option4": "40
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 77 Average of 39, SI, 86, 77, 43, 92 and y is 65. What is the value of y?
+",
+        "option1": "73
+",
+        "option2": "71
+",
+        "option3": "67 
+",
+        "option4": "63
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 78 The average of 11 numbers is 8. Ifa number 12 is removed, then what will be the new average?
+",
+        "option1": "7.4
+",
+        "option2": "7.6
+",
+        "option3": "7.8
+",
+        "option4": "8.2
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 79 The average of 5 numbers is 10 and that of other 20 numbers is 40. What is the average of all the numbers?
+",
+        "option1": "34
+",
+        "option2": "40
+",
+        "option3": "41
+",
+        "option4": "45
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 80 Average of 10 consecutive even nmnbers is 1]. Which number is the smallest of the 10 numbers?
+",
+        "option1": "4
+",
+        "option2": "6
+",
+        "option3": "8
+",
+        "option4": "2
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 81 What is the average of the ﬁrst 9 even numbers?
+",
+        "option1": "9
+",
+        "option2": "12
+",
+        "option3": "ll
+",
+        "option4": "10
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 82 The average of 10 numbers is 30. If at the time of calculation one number was wrongly taken as 36 instead
 of 69, then what will be the correct average?
-I. 33
-2. 33.3
-3. 36
-4. 39
-Que. 83 Average of 9 consecutive natural numbers is 41. What is the largest among these numbers?
-I. 37
-2. 44
-3. 46
-4. 4S
-Que. 84 Average of the marks of 132 students of a college is 40. If the average of the marks of the passed students
+",
+        "option1": "33
+",
+        "option2": "33.3
+",
+        "option3": "36
+",
+        "option4": "39
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 83 Average of 9 consecutive natural numbers is 4",
+        "option1": "What is the largest among these numbers?
+",
+        "option1": "37
+",
+        "option2": "44
+",
+        "option3": "46
+",
+        "option4": "4S
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 84 Average of the marks of 132 students of a college is 40. If the average of the marks of the passed students
 is 42 and the average of the marks of the failed students is 20. then what will be the respective ratio of the
 total marks of passed students and the total marks of failed students?
-1. 21 : 1
-2. 23 : 2
-3. l9 : ll
-4. 9 : 2
-Que. 85 What is the average of 90, 250. 240, 204, and 616?
-1. 280
-2. 210
-3. 230
-4. 255
-Que. 86 The average height of 40 sticks is 154 cm. Some sticks of average height 160 cm are taken out. Ifthe new
+",
+        "option1": "21 : 1
+",
+        "option2": "23 : 2
+",
+        "option3": "l9 : ll
+",
+        "option4": "9 : 2
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 85 What is the average of 90, 250. 240, 204, and 616?
+",
+        "option1": "280
+",
+        "option2": "210
+",
+        "option3": "230
+",
+        "option4": "255
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 86 The average height of 40 sticks is 154 cm. Some sticks of average height 160 cm are taken out. Ifthe new
 average height is 150 cm, then how many sticks are remaining?
-1. 12
-2. 16
-3. 24
-4. 28
-Que. 87 What is the average of ﬁrst 19 odd numbers?
-I. 9.5
-2. 15.5
-3. l9
-4. 38
-Que. 88 The average of 12 numbers is 35. Iffour numbers 20, 27, 15 and 29 are removed, then what will be the
+",
+        "option1": "12
+",
+        "option2": "16
+",
+        "option3": "24
+",
+        "option4": "28
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 87 What is the average of ﬁrst 19 odd numbers?
+",
+        "option1": "9.5
+",
+        "option2": "15.5
+",
+        "option3": "l9
+",
+        "option4": "38
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 88 The average of 12 numbers is 35. Iffour numbers 20, 27, 15 and 29 are removed, then what will be the
 average of the remaining numbers?
-1. 41.125
-2. 49.5
-3. 52.5
-4. 38.375
-Que. 89 What is the average of ﬁrst 7 multiples of 7?
-I. 7
-2. l4
-3. 21
-4. 28 
-Que. 90 A person purchased 10 shirts costing Rs. 150 per shirt. Next day he again purchased the shirts costing Rs.
+",
+        "option1": "41.125
+",
+        "option2": "49.5
+",
+        "option3": "52.5
+",
+        "option4": "38.375
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 89 What is the average of ﬁrst 7 multiples of 7?
+",
+        "option1": "7
+",
+        "option2": "l4
+",
+        "option3": "21
+",
+        "option4": "28 
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 90 A person purchased 10 shirts costing Rs. 150 per shirt. Next day he again purchased the shirts costing Rs.
 150 per shirt at a discount of Rs. 30 per shirt and that day he spent a total of Rs. 1800. What is the average
 cost per shirt (in Rs)?
 I . 125
-2. 132
-3. 138
-4. 144
-Que. 91 Average of all even numbers between 104 and 148 is .
-I. 128
-2. 130
-3. 124
-4. 126
-Que. 92 In a one day match of 50 overs. in an innings. the team A bad a run rate of 5.3 ms per over. Team B is
+",
+        "option2": "132
+",
+        "option3": "138
+",
+        "option4": "144
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 91 Average of all even numbers between 104 and 148 is .
+",
+        "option1": "128
+",
+        "option2": "130
+",
+        "option3": "124
+",
+        "option4": "126
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 92 In a one day match of 50 overs. in an innings. the team A bad a run rate of 5.3 ms per over. Team B is
 playing and 5 overs are left and the required run rate to tie the match is 7.2 per over to match the score of
 Team A. What is team B's score?
-I. 265
-2. 238
-3. 254
-4. 229
-Que. 93 Rita buys 5 sarees at an average cost of Rs. 2250. If she buys three more sarees at an average cost of Rs.
+",
+        "option1": "265
+",
+        "option2": "238
+",
+        "option3": "254
+",
+        "option4": "229
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 93 Rita buys 5 sarees at an average cost of Rs. 2250. If she buys three more sarees at an average cost of Rs.
 2750. what will be the average (in Rs) of all the sarees she buys?
-1. 2437.5
-2. 2500
-3. 2450
-4. 2332.5
-Que. 94 The average weight of P. Q and R is 71 kg. If the average weight of P and Q be 66 kg and that of Q and R
+",
+        "option1": "2437.5
+",
+        "option2": "2500
+",
+        "option3": "2450
+",
+        "option4": "2332.5
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 94 The average weight of P. Q and R is 71 kg. If the average weight of P and Q be 66 kg and that of Q and R
 be 76.5 kg. then the weight (in kg) of Q is:
-I. 60
-2. 72
-3. 81
-4. 75
-Que. 95 A man buys 7 shirts at Rs. 300 each. 2 trousers at Rs. 450 each and 1 pair of shoes at Rs. 500 each What is
+",
+        "option1": "60
+",
+        "option2": "72
+",
+        "option3": "81
+",
+        "option4": "75
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 95 A man buys 7 shirts at Rs. 300 each. 2 trousers at Rs. 450 each and 1 pair of shoes at Rs. 500 each What is
 the average expenditure (in Rs) per article?
-1. 210
-2. 250
-3. 320
-4. 350
-Que. 96 Average of the height of 252 students of a school is 48. If the average of the height of the boys is 51 and
+",
+        "option1": "210
+",
+        "option2": "250
+",
+        "option3": "320
+",
+        "option4": "350
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 96 Average of the height of 252 students of a school is 48. If the average of the height of the boys is 51 and
 the average of the height of the girls is 30, then what will be the ratio of the total height of boys and the
 total height of girls respectively?
-I. 51 : 5
-2. 31 : 4
-3. 29 : 3
-4. 44 : 7
-Que. 9 A person bought 100 cars for Rs. 40000. If the average price of 60 cars is Rs. 500, then what will be the
+",
+        "option1": "51 : 5
+",
+        "option2": "31 : 4
+",
+        "option3": "29 : 3
+",
+        "option4": "44 : 7
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 9 A person bought 100 cars for Rs. 40000. If the average price of 60 cars is Rs. 500, then what will be the
 average price (in Rs.) of remaining cars?
-I. 200
-2. 250
-3. 300
-4. 350
-Que. 98 The average of N numbers is 15. If a number 3 is removed, then average becomes 18. What is the value of
+",
+        "option1": "200
+",
+        "option2": "250
+",
+        "option3": "300
+",
+        "option4": "350
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 98 The average of N numbers is 15. If a number 3 is removed, then average becomes 18. What is the value of
 N?
-I. 4
-2. 6
-3. S
-4. 7
-Que. 99 Average of 7 consecutive even numbers is 32. Which number is the largest of the 7 numbers?
-I. 36
-2. 34
-3. 38
-4. 40
-Que. 100 What is the average of ﬁrst 9 even numbers?
-I. 9
-2. 12
-3. ll
-4. 10
-Que. 101 A shopkeeper sold big. medium and small-sized chairs for Rs. 650. Rs. 500 and Rs. 400 respectively. The
-number of big, medium and small-sized chairs sold were in the ratio 8 : l3 : 4. What is the average price (in Rs.) of a chair?
-1. 506
-2. 546
-3. 478
-4. 532
-Que. 102 Rohit scored an average marks of SS in ﬁve subjects - English. Hindi. Maths. Science and Social Science.
-If he scored 45, 43. 58 and 44 in English, Hindi. Maths and Science respectively, what was his score in
+",
+        "option1": "4
+",
+        "option2": "6
+",
+        "option3": "S
+",
+        "option4": "7
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 99 Average of 7 consecutive even numbers is 3",
+        "option2": "Which number is the largest of the 7 numbers?
+",
+        "option1": "36
+",
+        "option2": "34
+",
+        "option3": "38
+",
+        "option4": "40
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 100 What is the average of ﬁrst 9 even numbers?
+",
+        "option1": "9
+",
+        "option2": "12
+",
+        "option3": "ll
+",
+        "option4": "10
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 101 A shopkeeper sold big. medium and small-sized chairs for Rs. 650. Rs. 500 and Rs. 400 respectively. The
+number of big, medium and small-sized chairs sold were in the ratio 8 : l3 : ",
+        "option4": "What is the average price (in Rs.) of a chair?
+",
+        "option1": "506
+",
+        "option2": "546
+",
+        "option3": "478
+",
+        "option4": "532
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 102 Rohit scored an average marks of SS in ﬁve subjects - English. Hind",
+        "option1": "Maths. Science and Social Science.
+If he scored 45, 4",
+        "option3": "58 and 44 in English, Hind",
+        "option1": "Maths and Science respectively, what was his score in
 Social Science?
-I. 80
-2. 85
-3. 75
-4. 70
-Que. 103 Average of 12 ntnnbers is 14. If each nmnber is doubled, then what will be the new average?
+",
+        "option1": "80
+",
+        "option2": "85
+",
+        "option3": "75
+",
+        "option4": "70
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 103 Average of 12 ntnnbers is 1",
+        "option4": "If each nmnber is doubled, then what will be the new average?
 I . 28
-2. 18
-3. 20
-4. 24
-Que. 104 The average of 12 numbers is 6. If a number 10 is removed. then what will be the new average?
+",
+        "option2": "18
+",
+        "option3": "20
+",
+        "option4": "24
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 104 The average of 12 numbers is 6. If a number 10 is removed. then what will be the new average?
 I . 5.63
-2. 5.25
-3. 4.75
-4. 6.23
-Que. 105 The average of 20 numbers is 30 and that of other 30 ntnnbers is 50. What is the average of all the
+",
+        "option2": "5.25
+",
+        "option3": "4.75
+",
+        "option4": "6.23
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 105 The average of 20 numbers is 30 and that of other 30 ntnnbers is 50. What is the average of all the
 numbers?
-I. 42
-2. 47
-3. 44
-4. 45
-Que. 106 The average of 5 consecutive numbers is A. If the next 3 numbers are also taken, then what will be the
+",
+        "option1": "42
+",
+        "option2": "47
+",
+        "option3": "44
+",
+        "option4": "45
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 106 The average of 5 consecutive numbers is A. If the next 3 numbers are also taken, then what will be the
 new average?
-I. A + l
-2. A + 1.5
-3. A + 2
-4. A + 2.5
-Que. 107 What is the average of ﬁrst 9 odd numbers?
-I. 9
-2. 7
-3. 10
-4. 8
-Que. 108 The average of 6 consecutive integem is 15/2. What is the average of last three integers?
+",
+        "option1": "A + l
+",
+        "option2": "A + 1.5
+",
+        "option3": "A + 2
+",
+        "option4": "A + 2.5
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 107 What is the average of ﬁrst 9 odd numbers?
+",
+        "option1": "9
+",
+        "option2": "7
+",
+        "option3": "10
+",
+        "option4": "8
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 108 The average of 6 consecutive integem is 15/",
+        "option2": "What is the average of last three integers?
 l. 8
-2. 9
-3. 17/2
-4. 7
-Que. 109 If 3lx + 31y = 403, then what is the average ofx and y?
-I. 3.5
-2. 5
-3. 6.5
-4. l3
-Que. 110 Among four students sitting in a row. average age of last three students is 20 years and the average age of
+",
+        "option2": "9
+",
+        "option3": "17/2
+",
+        "option4": "7
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 109 If 3lx + 31y = 403, then what is the average ofx and y?
+",
+        "option1": "3.5
+",
+        "option2": "5
+",
+        "option3": "6.5
+",
+        "option4": "l3
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 110 Among four students sitting in a row. average age of last three students is 20 years and the average age of
 ﬁrst three students is 21 years. If the age of ﬁrst student is 26 years, then what is the age (in years) of the
 last student?
-I. 23
-2. 37
-3. 24
-4. 29
-Que. 111 Find the average of all the prime numbers between 20 and 50.
-1. 35.857
-2. 35.657
-3. 34.857
-4. 36.657
-Que. 112 The average weight of 25 candles is 40 grams. If some candles of weight 50 grams each were removed
+",
+        "option1": "23
+",
+        "option2": "37
+",
+        "option3": "24
+",
+        "option4": "29
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 111 Find the average of all the prime numbers between 20 and 50.
+",
+        "option1": "35.857
+",
+        "option2": "35.657
+",
+        "option3": "34.857
+",
+        "option4": "36.657
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 112 The average weight of 25 candles is 40 grams. If some candles of weight 50 grams each were removed
 then the average weight becomes 37.5 grams. How many candles of weight 50 grams each were
 removed?
-I. 3
-2. 5
-3. 8
-4. 12
-Que. 113 Find the average of ﬁrst 20 multiples of 9.
+",
+        "option1": "3
+",
+        "option2": "5
+",
+        "option3": "8
+",
+        "option4": "12
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 113 Find the average of ﬁrst 20 multiples of 9.
 I . 94.8
-2. 94.7
-3. 94.6
-4. 94.5
-Que. 114 The average weight of two players P and Q of a football team is 38 kg. The average weight of P. Q and
+",
+        "option2": "94.7
+",
+        "option3": "94.6
+",
+        "option4": "94.5
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 114 The average weight of two players P and Q of a football team is 38 kg. The average weight of P. Q and
 their coach T is 49 kg. What is the weight (in kg) of coach?
-1. 71
-2. 46
-3. 76
-4. 91
-Que. 115 In a class of 39 students, there are 26 girls. The average weight of these girls is 42 Kgs and the average
+",
+        "option1": "71
+",
+        "option2": "46
+",
+        "option3": "76
+",
+        "option4": "91
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 115 In a class of 39 students, there are 26 girls. The average weight of these girls is 42 Kgs and the average
 weight of the full class is 48 kgs. What is the average weight (in kgs) of the boys in the class?
 I . S4
-2. 66
-3. 60
-4. 62
-Que. 116 A boy buys 5 pencils at Rs. 3 each. 3 erasers at Rs. 2 each and 3 sharpeners at Rs. 5 each. What is the
+",
+        "option2": "66
+",
+        "option3": "60
+",
+        "option4": "62
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 116 A boy buys 5 pencils at Rs. 3 each. 3 erasers at Rs. 2 each and 3 sharpeners at Rs. 5 each. What is the
 average expenditure (in Rs) per article?
 I . 3.27
-2. 3.5
-3. 4
-4. 5
-Que. 117 Average of nms of 133 players of a team is 38. If the average of runs of the male players is 43 and the
+",
+        "option2": "3.5
+",
+        "option3": "4
+",
+        "option4": "5
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 117 Average of nms of 133 players of a team is 38. If the average of runs of the male players is 43 and the
 average of ms of the female players is 24, then what will be the ratio of the total runs of male players
 and the total runs of female players respectively?
 I . 30] : 60
-2. 7 : 3
-3. 39 : ll
-4. 60 : 207
-Que. 118 A boy spent Rs. 20 to purchase toffees at Rs. 1 each Next day, he purchased some toffees for Rs. 40 with
+",
+        "option2": "7 : 3
+",
+        "option3": "39 : ll
+",
+        "option4": "60 : 207
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 118 A boy spent Rs. 20 to purchase toffees at Rs. 1 each Next day, he purchased some toffees for Rs. 40 with
 a discount of 50 paise per toffee. What is the average price per toffee (in paise)?
 l. 45
-2. 60
-3. 40 
-4. 55
-Que. 119 Find the average of all prime numbers from 1 to 50.
-1. 21.867
-2. 22.857
-3. 23.887
-4. 24.867
-Que. 120 What is the average of sum of the ﬁrst 39 even numbers?
-I. 39
-2. 40
-3. 20
-4. 68
-Que. 121 The average of 8 consecutive integers is 23/2. What is the average of ﬁrst three integers?
-I. 9
-2. 19/2
-3. 8
-4. 10
-Que. 122 Among four bags, the average weight of the last three bags is 18 kg and the average weight of the ﬁrst
+",
+        "option2": "60
+",
+        "option3": "40 
+",
+        "option4": "55
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 119 Find the average of all prime numbers from 1 to 50.
+",
+        "option1": "21.867
+",
+        "option2": "22.857
+",
+        "option3": "23.887
+",
+        "option4": "24.867
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 120 What is the average of sum of the ﬁrst 39 even numbers?
+",
+        "option1": "39
+",
+        "option2": "40
+",
+        "option3": "20
+",
+        "option4": "68
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 121 The average of 8 consecutive integers is 23/",
+        "option2": "What is the average of ﬁrst three integers?
+",
+        "option1": "9
+",
+        "option2": "19/2
+",
+        "option3": "8
+",
+        "option4": "10
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 122 Among four bags, the average weight of the last three bags is 18 kg and the average weight of the ﬁrst
 three bags is 19 kg. If the weight of the last bag is 22 kg. then what is the weight (in kg) of ﬁrst bag?
-I. 32
-2. 24
-3. 33
-4. 25
-Que. 123 Average weight of a group of 9 students is 43 kg. When a new student joins the group, the average weight
+",
+        "option1": "32
+",
+        "option2": "24
+",
+        "option3": "33
+",
+        "option4": "25
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 123 Average weight of a group of 9 students is 43 kg. When a new student joins the group, the average weight
 of the group becomes 45 kg. What is the weight (in kg) of the new student?
-I. 65
-2. 59
-3. 63
-4. 61
-Que. 124 The average of N numbers is 10. If a number 6 is removed, then average becomes 12. What is the value
+",
+        "option1": "65
+",
+        "option2": "59
+",
+        "option3": "63
+",
+        "option4": "61
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 124 The average of N numbers is 10. If a number 6 is removed, then average becomes 1",
+        "option2": "What is the value
 of N?
-I. S
-2. 4
-3. 6 . testbooka
-4. 3
-Que. 125 The average of 5 consecutive numbers is 8. If previous 5 numbers are also included, then what will be the
+",
+        "option1": "S
+",
+        "option2": "4
+",
+        "option3": "6 . testbooka
+",
+        "option4": "3
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 125 The average of 5 consecutive numbers is 8. If previous 5 numbers are also included, then what will be the
 new average?
-I. 5
-2. 5.5
-3. 4.5
-4. 6
-Que. 126 Average of 40 results is 20. Average of 60 results is 30. What is the average of all the results?
-I. 32
-2. 30
-3. 26
-4. 24
-Que. 127 ﬁre average of 16 numbers is 10.5. If a number 3 is removed. then what will be the new average?
-1. 10
-2. ll
-3. 11.5
-4. 10.75
-Que. 128 The average age of students in a class is 9 years. If a student with age 19 years joins the class. then new
+",
+        "option1": "5
+",
+        "option2": "5.5
+",
+        "option3": "4.5
+",
+        "option4": "6
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 126 Average of 40 results is 20. Average of 60 results is 30. What is the average of all the results?
+",
+        "option1": "32
+",
+        "option2": "30
+",
+        "option3": "26
+",
+        "option4": "24
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 127 ﬁre average of 16 numbers is 10.5. If a number 3 is removed. then what will be the new average?
+",
+        "option1": "10
+",
+        "option2": "ll
+",
+        "option3": "11.5
+",
+        "option4": "10.75
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 128 The average age of students in a class is 9 years. If a student with age 19 years joins the class. then new
 average age becomes 10 years. How many students are there in the class ﬁnally?
-1. 7
-2. 9
-3. 8
-4. 10
-Que. 129 Average of 15 numbers is 20. If a number 4 is also included, then what will be the average of these 16
+",
+        "option1": "7
+",
+        "option2": "9
+",
+        "option3": "8
+",
+        "option4": "10
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 129 Average of 15 numbers is 20. If a number 4 is also included, then what will be the average of these 16
 numbers?
 I . l7
-2. 18
-3. 18.5
-4. l9
-Que. 130 The average of 40 numbers is 50 and that of other 60 nmnbers is 70. What is the average of all the
+",
+        "option2": "18
+",
+        "option3": "18.5
+",
+        "option4": "l9
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 130 The average of 40 numbers is 50 and that of other 60 nmnbers is 70. What is the average of all the
 numbers?
-I. 62
-2. 42
-3. 85 
-4. 40
-Que. 131 Rohit scored 44, 42, 62, 74, 40, and 26 runs in a six-match one-day cricket series. What is his average
+",
+        "option1": "62
+",
+        "option2": "42
+",
+        "option3": "85 
+",
+        "option4": "40
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 131 Rohit scored 44, 42, 62, 74, 40, and 26 runs in a six-match one-day cricket series. What is his average
 score for the series?
-I. 42
-2. 46
-3. 54
-4. 48
-Que. 132 The average ofS, 7. 12, 15 and X is 10. What will be the value on ifthe average of9, 12, l3, 17, X and
+",
+        "option1": "42
+",
+        "option2": "46
+",
+        "option3": "54
+",
+        "option4": "48
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 132 The average ofS, 7. 12, 15 and X is 10. What will be the value on ifthe average of9, 12, l3, 17, X and
 Y is 14?
-I. 12
-2. l3
-3. 20
-4. 22
-Que. 133 The average age of a class is 21 years. If a student with age 42 years joins the class, then new average age
+",
+        "option1": "12
+",
+        "option2": "l3
+",
+        "option3": "20
+",
+        "option4": "22
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 133 The average age of a class is 21 years. If a student with age 42 years joins the class, then new average age
 becomes 24 years. How many total students are there in the class now?
-I. 5
-2. 7
-3. 8
-4. 6
-Que. 134 The average of 7 consecutive numbers is 2]. If previous 2 numbers are also included. then what will be
+",
+        "option1": "5
+",
+        "option2": "7
+",
+        "option3": "8
+",
+        "option4": "6
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 134 The average of 7 consecutive numbers is 2]. If previous 2 numbers are also included. then what will be
 the new average?
-1. l9
-2. 20
-3. 19.5
-4. 20.5
-Que. 135 Average of 10 numbers is 14. If each number is multiplied by 6. then what will be the new average?
-1. 70
-2. 84
-3. 56
-4. 92
-Que. 136 Average age of 5 students of a school is 14 years. The average age of students and their Mathematics and
+",
+        "option1": "l9
+",
+        "option2": "20
+",
+        "option3": "19.5
+",
+        "option4": "20.5
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 135 Average of 10 numbers is 1",
+        "option4": "If each number is multiplied by 6. then what will be the new average?
+",
+        "option1": "70
+",
+        "option2": "84
+",
+        "option3": "56
+",
+        "option4": "92
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 136 Average age of 5 students of a school is 14 years. The average age of students and their Mathematics and
 science teachers is 30 years. If the age of science teacher is 6 years more than the age of Mathematics
 teacher, then what is the age (in years) of Mathematics teacher?
-1. 67 
-2. 68
-3. 56
-4. 74
-Que. 137 Out of the ﬁve subjects, the average marks of Suman in ﬁrst 3 Subjects was 81 and the average marks in
-the last 3 subjects was 74. Ifher marks in the third subject was 65, then what was her average marks in all
+",
+        "option1": "67 
+",
+        "option2": "68
+",
+        "option3": "56
+",
+        "option4": "74
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 137 Out of the ﬁve subjects, the average marks of Suman in ﬁrst 3 Subjects was 81 and the average marks in
+the last 3 subjects was 7",
+        "option4": "Ifher marks in the third subject was 65, then what was her average marks in all
 the subjects?
-I. 75
-2. 76
-3. 79
-4. 80
-Que. 138 If the average of 31, x. 42, 39, 56, 78, 83 and 91 is 58.5, then what is the value of x?
-I. 26
-2. 3S
-3. 58
-4. 48
-Que. 139 A boy bought 50 chocolates for Rs. 1000. If the average price of 30 chocolates is Rs. 25, then what is the
+",
+        "option1": "75
+",
+        "option2": "76
+",
+        "option3": "79
+",
+        "option4": "80
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 138 If the average of 31, x. 42, 39, 56, 78, 83 and 91 is 58.5, then what is the value of x?
+",
+        "option1": "26
+",
+        "option2": "3S
+",
+        "option3": "58
+",
+        "option4": "48
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 139 A boy bought 50 chocolates for Rs. 1000. If the average price of 30 chocolates is Rs. 25, then what is the
 average price (in Rs.) of the remaining chocolates?
-I. 10
-2. 12.5
-3. IS
-4. 17.5
-Que. 140 The average expenditure of Raman for 5 days is Rs. 130. If his expenditure for the ﬁrst 4 days is Rs. 100,
+",
+        "option1": "10
+",
+        "option2": "12.5
+",
+        "option3": "IS
+",
+        "option4": "17.5
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 140 The average expenditure of Raman for 5 days is Rs. 130. If his expenditure for the ﬁrst 4 days is Rs. 100,
 Rs. 125. Rs. 85 and Rs. 160 respectively. then what is his expenditure (in Rs) of the 5* day?
-1. 165
-2. 180
-3. 185
-4. 195
-Que. 141 The average marks obtained by 19 boys of a college is 56. If the highest marks and lowest marks obtained
-are removed, then the average reduces by 2. What is the average of the highest and lowest marks
+",
+        "option1": "165
+",
+        "option2": "180
+",
+        "option3": "185
+",
+        "option4": "195
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 141 The average marks obtained by 19 boys of a college is 56. If the highest marks and lowest marks obtained
+are removed, then the average reduces by ",
+        "option2": "What is the average of the highest and lowest marks
 obtained?
-1. 77
-2. 69
-3. 73
-4. 7S
-Que. 142 Average of 14 numbers is 32. If the average of last 5 numbers is 26, then what is the average of the
+",
+        "option1": "77
+",
+        "option2": "69
+",
+        "option3": "73
+",
+        "option4": "7S
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 142 Average of 14 numbers is 3",
+        "option2": "If the average of last 5 numbers is 26, then what is the average of the
 remaining numbers?
 I . 35.33
-2. 41.33
-3. 27.5
-4. 44.5
-Que. 143 Average of 8 numbers is 40. The average of first three numbers is 46 and the average of next two
+",
+        "option2": "41.33
+",
+        "option3": "27.5
+",
+        "option4": "44.5
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 143 Average of 8 numbers is 40. The average of first three numbers is 46 and the average of next two
 numbers is 50. If the sixth mnnber is 6 and 10 less than seventh and eighth number respectively, then
 what is the value of the eighth number?
-I. 28
-2. 22
-3. 30
-4. 32
-Que. 144 In a committee there are 15 members. Iftwo members whose ages are 45 years and 55 years are replaced
+",
+        "option1": "28
+",
+        "option2": "22
+",
+        "option3": "30
+",
+        "option4": "32
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 144 In a committee there are 15 members. Iftwo members whose ages are 45 years and 55 years are replaced
 by two new members, then average age of 15 members is increased by 2 years. What is the average age
 (in years) of the new members?
 I . S9
-2. 61
-3. 65
-4. 68
-Que. 145 Average of the weight of 138 students of a school is 45 kg. Ifthe average weight of the boys is 49 kg and
+",
+        "option2": "61
+",
+        "option3": "65
+",
+        "option4": "68
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 145 Average of the weight of 138 students of a school is 45 kg. Ifthe average weight of the boys is 49 kg and
 the average weight of the girls is 25 kg, then what will be the respective ratio of the total weight of boys
 and the total weight of girls?
 I . 5 : 43
-2. 49 : 5
-3. 3 : 49
-4. 7 : 1
-Que. 146 10 Consecutive numbers are given. If the average of the two numbers given in the middle is 13.5, then
+",
+        "option2": "49 : 5
+",
+        "option3": "3 : 49
+",
+        "option4": "7 : 1
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 146 10 Consecutive numbers are given. If the average of the two numbers given in the middle is 13.5, then
 what is the sum ofthe ﬁrst 6 numbers?
 I . 6S
-2. 59
-3. 69
-4. 80
-Que. 147 The average of 26 numbers is 37. One number is added and the new average becomes 41. What is that
+",
+        "option2": "59
+",
+        "option3": "69
+",
+        "option4": "80
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 147 The average of 26 numbers is 37. One number is added and the new average becomes 4",
+        "option1": "What is that
 new number?
-1. 140 
-2. 145
-3. 146
-4. 147
-Que. 148 The average savings of Champak in 5 days is Rs. 160. If his savings for the ﬁrst 4 days is Rs. 155, Rs.
+",
+        "option1": "140 
+",
+        "option2": "145
+",
+        "option3": "146
+",
+        "option4": "147
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 148 The average savings of Champak in 5 days is Rs. 160. If his savings for the ﬁrst 4 days is Rs. 155, Rs.
 170, Rs. 134 and Rs. 168 respectively, then what is his saving (in Rs) of the 5th day?
-I. 161
-2. 163
-3. 169
-4. 173
-Que. 149 Ifthe difference between the average of d, e and e, h is 19, then what will be the difference between d and
+",
+        "option1": "161
+",
+        "option2": "163
+",
+        "option3": "169
+",
+        "option4": "173
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 149 Ifthe difference between the average of d, e and e, h is 19, then what will be the difference between d and
 h?
-I. 38
-2. 22
-3. 9
-4. l9
-Que. 150 The average weight of 100 students is 32 kg. The average weight of first 49 students is 30 kg and of last
+",
+        "option1": "38
+",
+        "option2": "22
+",
+        "option3": "9
+",
+        "option4": "l9
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 150 The average weight of 100 students is 32 kg. The average weight of first 49 students is 30 kg and of last
 50 students is 34 kg. What is the weight (in kg) of the 50th student?
-I. 25
-2. 30
-3. 32
-4. 33
-Que. 151 The average marks of 10 students in an examination was 25. It was later found that the marks of one
-student had been wrongly entered as 34 instead of 43. What is the correct average?
-I. 25.5
-2. 24.1
-3. 24.5
-4. 25.9
-Que. 152 A batsman makes a score of 1 ll runs in the 10th match and thus increases his average runs per match by
+",
+        "option1": "25
+",
+        "option2": "30
+",
+        "option3": "32
+",
+        "option4": "33
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 151 The average marks of 10 students in an examination was 25. It was later found that the marks of one
+student had been wrongly entered as 34 instead of 4",
+        "option3": "What is the correct average?
+",
+        "option1": "25.5
+",
+        "option2": "24.1
+",
+        "option3": "24.5
+",
+        "option4": "25.9
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 152 A batsman makes a score of 1 ll runs in the 10th match and thus increases his average runs per match by
 5. What will be his average after the 10m match?
 I . 66
-2. 61
-3. 62
-4. 64
-Que. 153 The average age of Ram and Rahim is 18 years. The average age of Rahim and R: - temk'oc
+",
+        "option2": "61
+",
+        "option3": "62
+",
+        "option4": "64
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 153 The average age of Ram and Rahim is 18 years. The average age of Rahim and R: - temk'oc
 average age of Ram and Ramesh is 29 years. What is the age (in years) of the eldest of the three?
 I . l4
-2. 22
-3. 28
-4. 36
-Que. 154 The average of four consecutive odd numbers is 40. What is the largest number?
-I. 42
-2. 45
-3. 43
-4. 44
-Que. 155 The average of 2] numbers is 12. The average of the ﬁrst 11 numbers is 9 and the average of the last 11
+",
+        "option2": "22
+",
+        "option3": "28
+",
+        "option4": "36
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 154 The average of four consecutive odd numbers is 40. What is the largest number?
+",
+        "option1": "42
+",
+        "option2": "45
+",
+        "option3": "43
+",
+        "option4": "44
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 155 The average of 2] numbers is 1",
+        "option2": "The average of the ﬁrst 11 numbers is 9 and the average of the last 11
 numbers is 15. What is the value of the middle number?
-I. 10
-2. ll
-3. 12
-4. l3
-Que. 156 Average weight of a class of boys is 24 kg. When a boy having weight 36 kg leaves the class and a new
+",
+        "option1": "10
+",
+        "option2": "ll
+",
+        "option3": "12
+",
+        "option4": "l3
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 156 Average weight of a class of boys is 24 kg. When a boy having weight 36 kg leaves the class and a new
 boy having weight 30 kg joins the class. then the average weight become 23.5 kg. How many boys are
 there in the class?
-I. 12
-2. 8
-3. 6
-4. 16
-Que. 157 Average of 7 consecutive odd numbers is 3 I. If the previous and next odd number to these 7 odd numbers
+",
+        "option1": "12
+",
+        "option2": "8
+",
+        "option3": "6
+",
+        "option4": "16
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 157 Average of 7 consecutive odd numbers is 3 ",
+        "option1": "If the previous and next odd number to these 7 odd numbers
 are also included. then what will be the new average?
-I. 33
-2. 31
-3. 35
-4. 29
-Que. 158 There is group of 8 teachers. One teacher leaves the group and a new teacher joins the group. Due to this.
+",
+        "option1": "33
+",
+        "option2": "31
+",
+        "option3": "35
+",
+        "option4": "29
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 158 There is group of 8 teachers. One teacher leaves the group and a new teacher joins the group. Due to this.
 the average age of teachers becomes same as the average 2 years ago. If the member who left was aged
-42. Then what is the age (in years) of new teacher?
-I. 22
-2. 28
-3. 24
-4. 26
-Que. 159 The average of 6 consecutive even munbers is 25. If the next even number is also considered. then what is
+4",
+        "option2": "Then what is the age (in years) of new teacher?
+",
+        "option1": "22
+",
+        "option2": "28
+",
+        "option3": "24
+",
+        "option4": "26
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 159 The average of 6 consecutive even munbers is 25. If the next even number is also considered. then what is
 the new average?
-I. 27
-2. 25
-3. 26
-4. 28
-Que. 160 The average of 5 consecutive odd numbers is 27. What is the product of the ﬁrst and the last number?
-I. 621
-2. 667
-3. 713
-4. 725
-Que. 161 What is the average of ﬁrst 29 even numbers?
-I. 30
-2. 31
-3. 32
-4. 33
-Que. 162 In the ﬁrst 45 overs of a 50 over innings, the am rate was 5.8 runs per over. What is the required run rate
+",
+        "option1": "27
+",
+        "option2": "25
+",
+        "option3": "26
+",
+        "option4": "28
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 160 The average of 5 consecutive odd numbers is 27. What is the product of the ﬁrst and the last number?
+",
+        "option1": "621
+",
+        "option2": "667
+",
+        "option3": "713
+",
+        "option4": "725
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 161 What is the average of ﬁrst 29 even numbers?
+",
+        "option1": "30
+",
+        "option2": "31
+",
+        "option3": "32
+",
+        "option4": "33
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 162 In the ﬁrst 45 overs of a 50 over innings, the am rate was 5.8 runs per over. What is the required run rate
 in the remaining overs to reach the target of 295 runs?
-I. 6.9
-2. 6.8
-3. 6.7
-4. 6.6
-Que. 163 What is the average of all natural numbers from 21 to 39?
-I. 30
-2. 31
-3. 29
-4. 28
-Que. 164 A batsman makes a score of 81 rtms in the 16'h match and thus increases his average runs per match by 3.
+",
+        "option1": "6.9
+",
+        "option2": "6.8
+",
+        "option3": "6.7
+",
+        "option4": "6.6
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 163 What is the average of all natural numbers from 21 to 39?
+",
+        "option1": "30
+",
+        "option2": "31
+",
+        "option3": "29
+",
+        "option4": "28
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 164 A batsman makes a score of 81 rtms in the 16'h match and thus increases his average runs per match by 3.
 What is his average after the 16th match?
-I. 35
-2. 34
-3. 33
-4. 36 
-Que. 165 The average of four consecutive odd numbers is 64. What is the value of largest number?
-I. 65
-2. 69
-3. 71
-4. 67
-Que. 166 The average of 3 consecutive even numbers is A. If next 5 even numbers are added. then what is the
+",
+        "option1": "35
+",
+        "option2": "34
+",
+        "option3": "33
+",
+        "option4": "36 
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 165 The average of four consecutive odd numbers is 6",
+        "option4": "What is the value of largest number?
+",
+        "option1": "65
+",
+        "option2": "69
+",
+        "option3": "71
+",
+        "option4": "67
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 166 The average of 3 consecutive even numbers is A. If next 5 even numbers are added. then what is the
 average of these 8 numbers?
-1. A + 3
-2. A + 4
-3. A + 5
-4. A + 7
-Que. 167 The average of 8 consecutive natural numbers is 38.5. What is the largest of these 8 numbers?
-I. 41
-2. 39
-3. 42
-4. 45
-Que. 168 In the ﬁrst 40 overs of a 50 over innings, the run rate was 4.8 nuns/over. What is the required mn rate in
+",
+        "option1": "A + 3
+",
+        "option2": "A + 4
+",
+        "option3": "A + 5
+",
+        "option4": "A + 7
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 167 The average of 8 consecutive natural numbers is 38.5. What is the largest of these 8 numbers?
+",
+        "option1": "41
+",
+        "option2": "39
+",
+        "option3": "42
+",
+        "option4": "45
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 168 In the ﬁrst 40 overs of a 50 over innings, the run rate was 4.8 nuns/over. What is the required mn rate in
 the remaining 10 overs to reach the target of 241 was?
 I . 6.7
-2. 6.5
-3. 6.3
-4. 4.9
-Que. 169 3 numbers whose average is 112. the first number is 116th the sum of other 2. What is the ﬁrst number?
+",
+        "option2": "6.5
+",
+        "option3": "6.3
+",
+        "option4": "4.9
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 169 3 numbers whose average is 11",
+        "option2": "the first number is 116th the sum of other ",
+        "option2": "What is the ﬁrst number?
 I . 45
-2. 30
-3. 15
-4. 48
-Que. 170 Of the 3 numbets whose average is 40, the ﬁrst is 1/3 rd the sum of other 2. What is the first number?
-I. 20
-2. 50
-3. 25
-4. 30
-Que. 171 What is the average of all numbers between 8 and 74 which are divisible by 7?
-I. 40
-2. 41
-3. 42
-4. 43
-Que. 172 The average marks of 40 students in an examination was 34. It was later formd that the marks of one
+",
+        "option2": "30
+",
+        "option3": "15
+",
+        "option4": "48
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 170 Of the 3 numbets whose average is 40, the ﬁrst is 1/3 rd the sum of other ",
+        "option2": "What is the first number?
+",
+        "option1": "20
+",
+        "option2": "50
+",
+        "option3": "25
+",
+        "option4": "30
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 171 What is the average of all numbers between 8 and 74 which are divisible by 7?
+",
+        "option1": "40
+",
+        "option2": "41
+",
+        "option3": "42
+",
+        "option4": "43
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 172 The average marks of 40 students in an examination was 3",
+        "option4": "It was later formd that the marks of one
 student had been wroneg entered as 62 instead of 26. What is the correct average?
-I. 33.1
-2. 33.3
-3. 33.5
-4. 33.7
-Que. 173 In a match, average of runs scored by 5 players is 49. If the runs scored by four players are 75, 30, 62 and
+",
+        "option1": "33.1
+",
+        "option2": "33.3
+",
+        "option3": "33.5
+",
+        "option4": "33.7
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 173 In a match, average of runs scored by 5 players is 49. If the runs scored by four players are 75, 30, 62 and
 21 respectively, then how many runs did the 5th player had scored?
-I. 43
-2. 49
-3. 57
-4. 89
-Que. 174 The average marks obtained by 140 students in an examination is 90. If the average marks of students
+",
+        "option1": "43
+",
+        "option2": "49
+",
+        "option3": "57
+",
+        "option4": "89
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 174 The average marks obtained by 140 students in an examination is 90. If the average marks of students
 who passed the examination are 120 and the number of students who failed the examination is 90. then
 what are the average marks of the students who failed the examination?
-I. 60
-2. 73.33
-3. 85.66
-4. 88
-Que. 175 Average of 36 results is 18. If 2 is subtracted from each result, then what will be the new average of the
+",
+        "option1": "60
+",
+        "option2": "73.33
+",
+        "option3": "85.66
+",
+        "option4": "88
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 175 Average of 36 results is 18. If 2 is subtracted from each result, then what will be the new average of the
 results?
-I. 9
-2. 16
-3. l7
-4. 17.5
-Que. 176 The average age of 4 members of a family is 32 years. If the guest is included, then the average age
+",
+        "option1": "9
+",
+        "option2": "16
+",
+        "option3": "l7
+",
+        "option4": "17.5
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 176 The average age of 4 members of a family is 32 years. If the guest is included, then the average age
 increases by 12.5%. What is the age (in years) of guest?
-I. 52
-2. 56
-3. 44 
-4. 12
-Que. 177 The average marks obtained by 180 students in an examination is 50. If the average marks of passed
+",
+        "option1": "52
+",
+        "option2": "56
+",
+        "option3": "44 
+",
+        "option4": "12
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 177 The average marks obtained by 180 students in an examination is 50. If the average marks of passed
 students is 80 and that of failed students is 40, then what is the number of students who failed the
 examination?
-I. 90
-2. 135
-3. 100
-4. 45
-Que. 178 The average age of 6 members of a family is 25 years. If the youngest member of the family is 15 years
+",
+        "option1": "90
+",
+        "option2": "135
+",
+        "option3": "100
+",
+        "option4": "45
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 178 The average age of 6 members of a family is 25 years. If the youngest member of the family is 15 years
 old, then what was the average age (in years) of the family at the time of the birth of the youngest
 member?
 I . 9
-2. 12
-3. 18
-4. 24
-Que. 179 Average of 30 numbers is 106. Later it was seen that two numbers 82 and 136 were wrongly taken as 92
+",
+        "option2": "12
+",
+        "option3": "18
+",
+        "option4": "24
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 179 Average of 30 numbers is 106. Later it was seen that two numbers 82 and 136 were wrongly taken as 92
 and 186 for calculation of average. What is the correct average?
-I. 104
-2. 103.5
-3. 102.5
-4. 101
-Que. 180 The average of 7 consecutive odd numbets is A. If next 4 and previous 3 odd numbers to these 7 odd
+",
+        "option1": "104
+",
+        "option2": "103.5
+",
+        "option3": "102.5
+",
+        "option4": "101
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 180 The average of 7 consecutive odd numbets is A. If next 4 and previous 3 odd numbers to these 7 odd
 numbers are also included, then what is the new average of these 14 consecutive odd numbels?
-I. A + 3
-2. A + 4
-3. A + 2
-4. A + l
-Que. 181 What is the average of squares of ﬁrst IO natural numbers?
-I. 55.5
-2. 45.6
-3. 38.5
-4. 40.5
-Que. 182 The average of marks obtained by A and B is 15 less than that of average marks obtained by B and C. If
+",
+        "option1": "A + 3
+",
+        "option2": "A + 4
+",
+        "option3": "A + 2
+",
+        "option4": "A + l
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 181 What is the average of squares of ﬁrst IO natural numbers?
+",
+        "option1": "55.5
+",
+        "option2": "45.6
+",
+        "option3": "38.5
+",
+        "option4": "40.5
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 182 The average of marks obtained by A and B is 15 less than that of average marks obtained by B and C. If
 the marks obtained by C is 65‘ what is the marks obtained by A?
-I. 35
-2. 50
-3. 65
-4. 80
-Que. 183 What is the average of all nmnbers between 11 and 80 which are divisible by 6?
-I. 46
-2. 47
-3. 44
-4. 45
-Que. 184 The average of 4 consecutive even numbers is 51. What is the third number?
-I. 46
-2. 52
-3. 54
-4. 56
-Que. 185 The average of 45 results was calculated as 27 but later it was found that while calculating 39 was taken
+",
+        "option1": "35
+",
+        "option2": "50
+",
+        "option3": "65
+",
+        "option4": "80
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 183 What is the average of all nmnbers between 11 and 80 which are divisible by 6?
+",
+        "option1": "46
+",
+        "option2": "47
+",
+        "option3": "44
+",
+        "option4": "45
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 184 The average of 4 consecutive even numbers is 5",
+        "option1": "What is the third number?
+",
+        "option1": "46
+",
+        "option2": "52
+",
+        "option3": "54
+",
+        "option4": "56
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 185 The average of 45 results was calculated as 27 but later it was found that while calculating 39 was taken
 as 93 by mistake, then what will be the correct average?
-I. 25.8
-2. 26.8
-3. 27.2
-4. 28.2
-Que. 186 The average of ll results is I82. If the average of ﬁrst 6 results is I99 and that of the last 6 results is 161.
+",
+        "option1": "25.8
+",
+        "option2": "26.8
+",
+        "option3": "27.2
+",
+        "option4": "28.2
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 186 The average of ll results is I8",
+        "option2": "If the average of ﬁrst 6 results is I99 and that of the last 6 results is 161.
 then what will be the 6th result?
-I. 79
-2. 118.5
-3. 158
-4. 237
-Que. 187 Eleven friends spent Rs 19 each on a tour and the twelfth fn'end spent Rs ll less than the average
+",
+        "option1": "79
+",
+        "option2": "118.5
+",
+        "option3": "158
+",
+        "option4": "237
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 187 Eleven friends spent Rs 19 each on a tour and the twelfth fn'end spent Rs ll less than the average
 expenditure of all twelve of them. What is the total money (in Rs) spent by them?
-I. 216
-2. 227
-3. 236
-4. 274
-Que. 188 The average of 19 results is 111. If the average of ﬁrst 10 results is 82 and that of last 10 is
+",
+        "option1": "216
+",
+        "option2": "227
+",
+        "option3": "236
+",
+        "option4": "274
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 188 The average of 19 results is 11",
+        "option1": "If the average of ﬁrst 10 results is 82 and that of last 10 is
 129. then what will be the 10 result?
-1. 0
-2. l
-3. 82
-4. l l 1
-Que. 189 A group of boys has an average weight of 36 kg- One boy weighing 42 kg leaves the group and another
+",
+        "option1": "0
+",
+        "option2": "l
+",
+        "option3": "82
+",
+        "option4": "l l 1
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 189 A group of boys has an average weight of 36 kg- One boy weighing 42 kg leaves the group and another
 boy weighing 30 kg joins the group. If the average now becomes 35-7 kg, then how many boys are there
 in the group?
-1. 30
-2. 32
-3. 40
-4. 56
-Que. 190 The average of 10 numbers is 21. Ifone ninnber is excluded, the average becomes 23- Which is the
+",
+        "option1": "30
+",
+        "option2": "32
+",
+        "option3": "40
+",
+        "option4": "56
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 190 The average of 10 numbers is 2",
+        "option1": "Ifone ninnber is excluded, the average becomes 23- Which is the
 excluded number?
-1. 3
-2. 5
-3. 7
-4. l 1
-Que. 191 The average weight of P. Q and R is 45 kg. [fthe average weight of P and Q be 36.5 kg and that of Q an:
+",
+        "option1": "3
+",
+        "option2": "5
+",
+        "option3": "7
+",
+        "option4": "l 1
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 191 The average weight of P. Q and R is 45 kg. [fthe average weight of P and Q be 36.5 kg and that of Q an:
 R be 52 kg, then what is the weight (in kgs) on?
-I. 42
-2. 44
-3. 46
-4. 48
-Que. 192 The average of 15 numbers is 20 and the average of ﬁrst ﬁve numbers is 18. What is the average of the
+",
+        "option1": "42
+",
+        "option2": "44
+",
+        "option3": "46
+",
+        "option4": "48
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 192 The average of 15 numbers is 20 and the average of ﬁrst ﬁve numbers is 18. What is the average of the
 remaining numbers?
-I. 21
-2. 25
-3. 28
-4. 30
-Que. 193 Average weight of P and Q is 32 kg. Average weight of Q and R is 43 kg. Average weight of P and R is
+",
+        "option1": "21
+",
+        "option2": "25
+",
+        "option3": "28
+",
+        "option4": "30
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 193 Average weight of P and Q is 32 kg. Average weight of Q and R is 43 kg. Average weight of P and R is
 51 kg. What is the average weight (in kg) of P. Q and R?
-1. 44
-2. 42
-3. 40
+",
+        "option1": "44
+",
+        "option2": "42
+",
+        "option3": "40
 4, 33 
-Que. 194 The mean ofIS numbers is 40. Iftwonumbers 4S and 35 are removed, then what will be the mean of
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 194 The mean ofIS numbers is 40. Iftwonumbers 4S and 35 are removed, then what will be the mean of
 remaining nmnbers?
-I. 37.5
-2. 40
-3. 42.5
-4. 38
-Que. 195 The average of 9 mmbers is 20- If the number 30 is also included, then what will be the average of these
+",
+        "option1": "37.5
+",
+        "option2": "40
+",
+        "option3": "42.5
+",
+        "option4": "38
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 195 The average of 9 mmbers is 20- If the number 30 is also included, then what will be the average of these
 10 nmnbers?
-1. 20.5
-2. 2l
-3. 19.5
-4. 21.5
-Que. 196 The mean of 22 numbers is 19. Iftwo numbers 23 and 11 are removed, then what will be the mean of
+",
+        "option1": "20.5
+",
+        "option2": "2l
+",
+        "option3": "19.5
+",
+        "option4": "21.5
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 196 The mean of 22 numbers is 19. Iftwo numbers 23 and 11 are removed, then what will be the mean of
 remaining nmnber?
-I. 18.6
-2. 19.2
-3. 19.4
-4. 18.2
-Que. 197 The average weight of P, Q and R is 47 kg. lfthe average weight of P and Q be 32.5 kg and that of Q and
+",
+        "option1": "18.6
+",
+        "option2": "19.2
+",
+        "option3": "19.4
+",
+        "option4": "18.2
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 197 The average weight of P, Q and R is 47 kg. lfthe average weight of P and Q be 32.5 kg and that of Q and
 R be 48.5 kg, then what is the weight on (in kgs)?
-I. 25
-2. 21
-3. 29
-4. 33
-Que. 198 A batsman makes a score of 95 am in the 13th match and thus increases his average rims per match by 4.
+",
+        "option1": "25
+",
+        "option2": "21
+",
+        "option3": "29
+",
+        "option4": "33
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 198 A batsman makes a score of 95 am in the 13th match and thus increases his average rims per match by 4.
 What is his average after the 13th match?
-1. 47
-2. 43
-3. 45
-4. 49
-Que. 199 The average cost of 4 items in a shopping list is Rs. 1,250. If one more item whose cost is Rs 2,000 is
+",
+        "option1": "47
+",
+        "option2": "43
+",
+        "option3": "45
+",
+        "option4": "49
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 199 The average cost of 4 items in a shopping list is Rs. 1,250. If one more item whose cost is Rs 2,000 is
 added to the list what will be the new average (in Rs)?
-1. 1100
-2. 1500
-3. 1400
-4. 1250
-Que. 200 Average weight of a group of 11 students is 37 kg. When a student leﬂ the group, then average weight of
+",
+        "option1": "1100
+",
+        "option2": "1500
+",
+        "option3": "1400
+",
+        "option4": "1250
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 200 Average weight of a group of 11 students is 37 kg. When a student leﬂ the group, then average weight of
 the group becomes 35 kg What is the weight (in kg) of the student who left?
-I. 65
-2. 59
-3. S7
-4. 70
-Que. 201 In a class of 50 students there are 27 boys. The average weight of these boys is 72 Kg and average weight
+",
+        "option1": "65
+",
+        "option2": "59
+",
+        "option3": "S7
+",
+        "option4": "70
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 201 In a class of 50 students there are 27 boys. The average weight of these boys is 72 Kg and average weight
 of the full class is 55.44 kg: What is the average weight (in kgs) of the girls of the class?
-I. 42
-2. 48
-3. 30
-4. 36
-Que. 202 The average of 17 results is 60. If the average of first 9 results is 57 and that of the last 9 results is 65.
+",
+        "option1": "42
+",
+        "option2": "48
+",
+        "option3": "30
+",
+        "option4": "36
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 202 The average of 17 results is 60. If the average of first 9 results is 57 and that of the last 9 results is 65.
 then what will be the value of 9th result?
-I. 39
-2. 78
-3. 117
-4. 156
-Que. 203 A batsman makes a score of 111 runs in the 10th match and thus increases his average runs per match by
+",
+        "option1": "39
+",
+        "option2": "78
+",
+        "option3": "117
+",
+        "option4": "156
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 203 A batsman makes a score of 111 runs in the 10th match and thus increases his average runs per match by
 5- What will be his average alter the 10th match?
-I. 66
-2. 61
-3. 62
-4. 64
-Que. 204 The ratio of number of boys and girls in a class is 2 : 3. The average weight of boys and girls in the class
+",
+        "option1": "66
+",
+        "option2": "61
+",
+        "option3": "62
+",
+        "option4": "64
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 204 The ratio of number of boys and girls in a class is 2 : ",
+        "option3": "The average weight of boys and girls in the class
 is 18 kg and 21 kg respectively. What is the average weight (in kgs) of all the boys and girls together“?
-I. 99/5
-2. 101/5
-3. 109/6
-4. 96/5
-Que. 205 The average of 9 consecutive numbers is 37. What is the smallest number out of these 9?
-I. 26 
-2. 38
-3. 29
-4. 33
-Que. 206 What is the average of ﬁrst 93 natural numbers?
-I. 45
-2. 46
-3. 47
-4. 49
-Que. 207 The average age of a class of 6 girls is x years. Four new girls having ages x — 2, x + 2, x + 4 and x + 6
+",
+        "option1": "99/5
+",
+        "option2": "101/5
+",
+        "option3": "109/6
+",
+        "option4": "96/5
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 205 The average of 9 consecutive numbers is 37. What is the smallest number out of these 9?
+",
+        "option1": "26 
+",
+        "option2": "38
+",
+        "option3": "29
+",
+        "option4": "33
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 206 What is the average of ﬁrst 93 natural numbers?
+",
+        "option1": "45
+",
+        "option2": "46
+",
+        "option3": "47
+",
+        "option4": "49
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 207 The average age of a class of 6 girls is x years. Four new girls having ages x — 2, x + 2, x + 4 and x + 6
 joins the class. What is the new average age (in years) of the class?
-I. x + l
-2. x + 2
-3. 2.5x
-4. x + 2.5
-Que. 208 In a match, average of nms scored by 7 players is 53. If the runs scored by 6 players are 121, 40, 26, 56,
+",
+        "option1": "x + l
+",
+        "option2": "x + 2
+",
+        "option3": "2.5x
+",
+        "option4": "x + 2.5
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 208 In a match, average of nms scored by 7 players is 5",
+        "option3": "If the runs scored by 6 players are 121, 40, 26, 56,
 37 and 48, then how many I'llIlS did the 7th player scored?
-1. 26
-2. 37
-3. 43
-4. 48
-Que. 209 The average age of 24 students is 12 years. It was observed that While calculating the average age, the age
+",
+        "option1": "26
+",
+        "option2": "37
+",
+        "option3": "43
+",
+        "option4": "48
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 209 The average age of 24 students is 12 years. It was observed that While calculating the average age, the age
 of a student was taken as 14 years instead of 8 years. What will be the correct average age (in years)?
-I. l 1.25
-2. l 1.5
-3. l 1.75
-4. 12.25
-Que. 210 Seven friends spent Rs 14 each on a project and the eighth fliend spent Rs 21 more than the average
+",
+        "option1": "l 1.25
+",
+        "option2": "l 1.5
+",
+        "option3": "l 1.75
+",
+        "option4": "12.25
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 210 Seven friends spent Rs 14 each on a project and the eighth fliend spent Rs 21 more than the average
 expenditure of all eight of them. What is the amount of total money (in Rs) spent by them?
-I. 133
-2. 136
-3. 141
-4. 155
-Que. 211 Average of 11 numbers is 7. lfevery number is doubled. then what will be the net ‘ testbook.c
+",
+        "option1": "133
+",
+        "option2": "136
+",
+        "option3": "141
+",
+        "option4": "155
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 211 Average of 11 numbers is 7. lfevery number is doubled. then what will be the net ‘ testbook.c
 numbers?
-I. 3.5
-2. 7
-3. 10.5
-4. l4
-Que. 212 a,bandcare3 values. suchthata+b=5,b+c= 7-5mdc+a=8.5- Whatwillbetheaverage ofthese
+",
+        "option1": "3.5
+",
+        "option2": "7
+",
+        "option3": "10.5
+",
+        "option4": "l4
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 212 a,bandcare3 values. suchthata+b=5,b+c= 7-5mdc+a=8.5- Whatwillbetheaverage ofthese
 values?
-I. 1.5
-2. 3
-3. 3.5
-4. 4.5
-Que. 213 Average age ofa team having 12 players is 23 years. If the age of the coach is also included, then the
+",
+        "option1": "1.5
+",
+        "option2": "3
+",
+        "option3": "3.5
+",
+        "option4": "4.5
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 213 Average age ofa team having 12 players is 23 years. If the age of the coach is also included, then the
 average age increases by 2 years. What is the age (in years) of the coach?
-1. 41
-2. 47
-3. 49
-4. 51
-Que. 214 The average mus conceded by a bowler in 5 matches is 45 and 15.75 in other 4 matches. What is the
+",
+        "option1": "41
+",
+        "option2": "47
+",
+        "option3": "49
+",
+        "option4": "51
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 214 The average mus conceded by a bowler in 5 matches is 45 and 15.75 in other 4 matches. What is the
 average runs conceded by the bowler in 9 matches?
-I. 15
-2. 32
-3. 35
-4. 53.5
-Que. 215 The average age of 6 members of a family is 20 yeaRs. Ifthe age of the servant is included, then the
+",
+        "option1": "15
+",
+        "option2": "32
+",
+        "option3": "35
+",
+        "option4": "53.5
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 215 The average age of 6 members of a family is 20 yeaRs. Ifthe age of the servant is included, then the
 average age increase by 25%. What is the age (in years) of the servant?
-I. 30
-2. 35
-3. 50
-4. 55
-Que. 216 The average of 5 members of a family is 24 years Ifthe youngest member is 8 years old, then what was
+",
+        "option1": "30
+",
+        "option2": "35
+",
+        "option3": "50
+",
+        "option4": "55
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 216 The average of 5 members of a family is 24 years Ifthe youngest member is 8 years old, then what was
 the average age (in years) of the family at the time of the birth of the youngest member?
-1. 16
-2. 20
-3. 24
-4. 32
-Que. 217 In a class of 65 students there are 39 girls. The average weight of these girls is 60 Kg and average weight
+",
+        "option1": "16
+",
+        "option2": "20
+",
+        "option3": "24
+",
+        "option4": "32
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 217 In a class of 65 students there are 39 girls. The average weight of these girls is 60 Kg and average weight
 of the full class is 64 kg. What is the average weight of the boys of the class?
-I. 69 kg
-2. 66 kg
-3. 68 kg
-4. 70 kg
-Que. 218 The average revenues of 11 consecutive years of a company is Rs 69 lakhs. If the average of ﬁrst 6 years
+",
+        "option1": "69 kg
+",
+        "option2": "66 kg
+",
+        "option3": "68 kg
+",
+        "option4": "70 kg
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 218 The average revenues of 11 consecutive years of a company is Rs 69 lakhs. If the average of ﬁrst 6 years
 is Rs 64 lakhs and that of last 6 years is Rs 76 lakhs, what is the revenue for the 6th year?
-1. Rs 83 lakhs
-2. Rs 79 lakhs
-3. Rs 77 lakhs
-4. Rs 81 lakhs
-Que. 219 The average weight of Shubha, Govinda and Reshma is 65 kg. If the average weight of Shubha and
+",
+        "option1": "Rs 83 lakhs
+",
+        "option2": "Rs 79 lakhs
+",
+        "option3": "Rs 77 lakhs
+",
+        "option4": "Rs 81 lakhs
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 219 The average weight of Shubha, Govinda and Reshma is 65 kg. If the average weight of Shubha and
 Govinda be 63 kg and that of Govinda and Reshma be 70 kg, then the weight of Govinda is
-I. 42
-2. 71
-3. 88
-4. 46
-Que. 220 The mean of marks seemed by 45 students in division A of class X is 69, 65 students of division B is 65
-and that of 50 students of division C is 63. Find the mean of marks of the students of three divisions of
+",
+        "option1": "42
+",
+        "option2": "71
+",
+        "option3": "88
+",
+        "option4": "46
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 220 The mean of marks seemed by 45 students in division A of class X is 69, 65 students of division B is 65
+and that of 50 students of division C is 6",
+        "option3": "Find the mean of marks of the students of three divisions of
 Class X.
-I. 65.5
-2. 64.8
-3. 64.1
-4. 66.9
-Que. 221 The average revenues of 13 consecutive years of a company is Rs 82 lakhs. If the average of ﬁrst 7 years
+",
+        "option1": "65.5
+",
+        "option2": "64.8
+",
+        "option3": "64.1
+",
+        "option4": "66.9
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 221 The average revenues of 13 consecutive years of a company is Rs 82 lakhs. If the average of ﬁrst 7 years
 is Rs 77 lakhs and that of last 7 years is Rs 89 lakhs, ﬁnd the revenue for the 7th year.
-1. Rs 98 lakhs
-2. Rs 94 lakhs
-3. Rs 96 lakhs
-4. Rs 92 lakhs
-Que. 222 The mean of marks secured by 55 students in division A of class X is 58, 45 students of division B is 54
-and that of 75 students of division C is 52. Find the mean of marks of the students of three divisions of
+",
+        "option1": "Rs 98 lakhs
+",
+        "option2": "Rs 94 lakhs
+",
+        "option3": "Rs 96 lakhs
+",
+        "option4": "Rs 92 lakhs
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 222 The mean of marks secured by 55 students in division A of class X is 58, 45 students of division B is 54
+and that of 75 students of division C is 5",
+        "option2": "Find the mean of marks of the students of three divisions of
 Class X.
-1. 53.7 
-2. 54.4
-3. 53
-4. 55.8
-Que. 223 The average revenues of 9 consecutive years of a company is Rs 801akhs. If the average of ﬁrst 5 years is
+",
+        "option1": "53.7 
+",
+        "option2": "54.4
+",
+        "option3": "53
+",
+        "option4": "55.8
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 223 The average revenues of 9 consecutive years of a company is Rs 801akhs. If the average of ﬁrst 5 years is
 Rs 75 lakhs and that of last 5 years is Rs 87 lakhs, ﬁnd the revenue for the 5th year.
-1. Rs. 90 lakhs
-2. Rs. 92 lakhs
-3. Rs. 88 lakhs
-4. Rs. 86 lakhs
-Que. 224 The average revenues of 9 consecutive years of a company is Rs 68 lakhs. If the average of ﬁrst 5 years is
+",
+        "option1": "Rs. 90 lakhs
+",
+        "option2": "Rs. 92 lakhs
+",
+        "option3": "Rs. 88 lakhs
+",
+        "option4": "Rs. 86 lakhs
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 224 The average revenues of 9 consecutive years of a company is Rs 68 lakhs. If the average of ﬁrst 5 years is
 Rs 63 lakhs and that of last 5 years is Rs 75 lakhs, ﬁnd the revenue for the 5th year.
-1. Rs 80 lakhs
-2. Rs 76 lakhs
-3. Rs 78 lakhs
-4. Rs 74 lakhs
-Que. 225 Of the 5 numbers whose average is 72, the ﬁrst is 1/8 times the sum of other 4. The first number is _.
-I. 60
-2. 26
-3. 40
-4. 80
-Que. 226 The average marks of 72 students is shown as 69. It includes a wrong entry of 45 marks instead of 54
+",
+        "option1": "Rs 80 lakhs
+",
+        "option2": "Rs 76 lakhs
+",
+        "option3": "Rs 78 lakhs
+",
+        "option4": "Rs 74 lakhs
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 225 Of the 5 numbers whose average is 72, the ﬁrst is 1/8 times the sum of other ",
+        "option4": "The first number is _.
+",
+        "option1": "60
+",
+        "option2": "26
+",
+        "option3": "40
+",
+        "option4": "80
+",
+        "correctOption": 4,
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
+    },
+    {
+        "question": " 226 The average marks of 72 students is shown as 69. It includes a wrong entry of 45 marks instead of 54
 marks. The correct average is .
-1. 68.875 marks
-2. 69.125 marks
-3. 68.625 marks
-4. 69.375 marks
+",
+        "option1": "68.875 marks
+",
+        "option2": "69.125 marks
+",
+        "option3": "68.625 marks
+",
+        "option4": "69.375 marks
 
 Question. 1
 When 2 is subtracted from each of n numbers, then the sum of the number so obtained is 116. When 5 is subtracted from each of n numbers, then the sum of the numbers so obtained is 20. What is the average of the given n numbers?
 1.434
-2. 414
-3. 558
-4. 538
+",
+        "option2": "414
+",
+        "option3": "558
+",
+        "option4": "538
 Question. 2
 The average monthly salary of all the employees in a factory is Rs 8840. If the average salary of all the officers is Rs 15000 and that of the remaining employees is Rs 8000, then what is the percent-age of the officers among the employees?
 1.10
@@ -1340,13 +3854,15 @@ In an exam, the average marks obtained by John in English, Maths, Hindi and Draw
 3.60
 4.74
 Question. 5
-A librarian purchased 60 story books for his library. But he found that he could get 4 extra books by spending Rs 336 more and then the overall average price per book would be reduced by Re 1. The previous average price of each book was
+A librarian purchased 60 story books for his library. But he found that he could get 4 extra books by spending Rs 336 more and then the overall average price per book would be reduced by Re ",
+        "option1": "The previous average price of each book was
 1.Rs 84
 2.Rs 83
 3.Rs 68
 4.Rs 100
 Question. 6
-A team of 8 persons joins in a shooting competition. The best marksman scored 85 points. If he had scored 92 points, the average score for the team would have been 84. The number of points the team scored was
+A team of 8 persons joins in a shooting competition. The best marksman scored 85 points. If he had scored 92 points, the average score for the team would have been 8",
+        "option4": "The number of points the team scored was
 1.672
 2.665
 3.645
@@ -1364,7 +3880,8 @@ In a class of 50 students, the girls are 76%. The average weight of boys is 62 k
 3.60.24
 4.61.56
 Question. 9
-The average of 17 numbers is 48. The average of the first 9 numbers is 45 and the average of the last 9 numbers is 52. If 9th number is excluded, then 60% of the average of the remaining number is:
+The average of 17 numbers is 48. The average of the first 9 numbers is 45 and the average of the last 9 numbers is 5",
+        "option2": "If 9th number is excluded, then 60% of the average of the remaining number is:
 1.28.4625
 2.24.4375
 3.28.5135
@@ -1376,7 +3893,8 @@ The average of some numbers is 54.6. If 75% of the numbers are increased by 5.6 
 3.56.7
 4.55.6
 Question. 11
-The average of 24 numbers is 56. The average of the first 10 numbers is 71.7 and that of the next 11 number is 42. Then next three numbers (i.e 22nd, 23rd, and 24th) are in the ratio 1/2 : 1/3 : 5/12 What is the average of the 22nd and 24th numbers?
+The average of 24 numbers is 56. The average of the first 10 numbers is 71.7 and that of the next 11 number is 4",
+        "option2": "Then next three numbers (i.e 22nd, 23rd, and 24th) are in the ratio 1/2 : 1/3 : 5/12 What is the average of the 22nd and 24th numbers?
 1.55
 2.58
 3.49.5
@@ -1412,19 +3930,22 @@ Of the four numbers, the third is twice the first and thrice the second. The fou
 3.115.2
 4.38.4
 Question. 17
-The average marks of A, B and C is 60. If D and F joins, the average marks becomes 92. If another person E who has 5 marks more than D replaces F, then the average marks of A, B, C, D and E be-comes 57. What is the marks of F?
+The average marks of A, B and C is 60. If D and F joins, the average marks becomes 9",
+        "option2": "If another person E who has 5 marks more than D replaces F, then the average marks of A, B, C, D and E be-comes 57. What is the marks of F?
 1.100
 2.280
 3.230
 4.50
 Question. 18
-A class has 130 students The average age of girls is 14. The average age of boys is 18. The average age of top 20 scorers is 17. What is the average age of the last 110 scorers if there are 70 boys in the class?
+A class has 130 students The average age of girls is 1",
+        "option4": "The average age of boys is 18. The average age of top 20 scorers is 17. What is the average age of the last 110 scorers if there are 70 boys in the class?
 1.17
 2.18
 3.15
 4.16
 Question. 19
-The average salary of Kirti and Sonia is Rs. 7600 while that of Sonia and Vansh is 9000. The average salary of Vansh and Sakshi is Rs. 8100. Yash’s salary is 4900 more the average salary of Kirti, Sonia, Vansh and Sakshi. What is the average salary of Sonia, Vansh and Yash?
+The average salary of Kirti and Sonia is Rs. 7600 while that of Sonia and Vansh is 9000. The average salary of Vansh and Sakshi is Rs. 8100. Yash’s salary is 4900 more the average salary of Kirti, Sonia, Vansh and Saksh",
+        "option1": "What is the average salary of Sonia, Vansh and Yash?
 1.10250
 2.12750
 3.10750
@@ -1448,19 +3969,23 @@ The average weight of six children is 32.8 kg. If two more children weighing 26.
 3.29.2
 4.28.9
 Question. 23
-The average of 20 numbers is 65, The average of the first 9 numbers is 68 and the average of next 8 numbers is 62. If the 18th number is 3 more than 19th number and 9 less than 20th number, then what is the average of 19th and 20th number?
+The average of 20 numbers is 65, The average of the first 9 numbers is 68 and the average of next 8 numbers is 6",
+        "option2": "If the 18th number is 3 more than 19th number and 9 less than 20th number, then what is the average of 19th and 20th number?
 1.65.5
 2.65
 3.64.5
 4.66
 Question. 24
-The average of 22 numbers is 52. The average of the first 8 numbers is 48 and the average of next 11 numbers is 54. The 20th number is 7 less than the 21st number and 21st number is 4 more than 22nd number. What is the average of the 20th and 22nd numbers?
+The average of 22 numbers is 5",
+        "option2": "The average of the first 8 numbers is 48 and the average of next 11 numbers is 5",
+        "option4": "The 20th number is 7 less than the 21st number and 21st number is 4 more than 22nd number. What is the average of the 20th and 22nd numbers?
 1.52
 2.52.5
 3.53
 4.53.5
 Question. 25
-The average marks of 60 students in a test is 73. Later, it is found that three marks 63, 70 and 82 were wrongly entered as 73, 43 and 69. The average marks after mistakes were rectified is∶
+The average marks of 60 students in a test is 7",
+        "option3": "Later, it is found that three marks 63, 70 and 82 were wrongly entered as 73, 43 and 69. The average marks after mistakes were rectified is∶
 1.72.75
 2.73.5
 3.71.5
@@ -1478,7 +4003,8 @@ In a class, there were 28 boys and some girls. In a test, the mean score obtaine
 3.40
 4.38
 Question. 28
-Average score of A. B and C in an examination is 53. A’s score is 15 less than that of D and 9 more than that of B. If D’s score is 30 more than the average score of A. B and C. then what is the average score of A. B and D?
+Average score of A. B and C in an examination is 5",
+        "option3": "A’s score is 15 less than that of D and 9 more than that of B. If D’s score is 30 more than the average score of A. B and C. then what is the average score of A. B and D?
 1.58
 2.62
 3.70

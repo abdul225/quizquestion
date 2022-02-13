@@ -6,7 +6,9 @@
         "option3": "18",
         "option4": "20",
         "correctOption": 4,
-        "colourCode": "white"
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
     },
     {
         "question": " 2 Two pipes A and B can fill a tank in 12 minutes and 15 minutes, respectively. When an outlet pipe C is also opened, then the three pipes together can fill the tank in 10 minutes. In how many minutes can C alone empty the full tank?",
@@ -15,7 +17,9 @@
         "option3": "16",
         "option4": "24",
         "correctOption": 4,
-        "colourCode": "white"
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
     },
     {
         "question": " 3 A pipe can fill a tank in 56 hours, but it takes 16 hours more due to a leak in its bottom. In how much time (in hours) can the leak alone empty  83 1/3 of the tank? ",
@@ -24,7 +28,9 @@
         "option3": "210",
         "option4": "105",
         "correctOption": 4,
-        "colourCode": "white"
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
     },
     {
         "question": " 4 Pipes A and B can fill a tank in 10 hours and 40 hours, respectively. C is an outlet pipe attached to the tank.If all the three pipes are opened simultaneously, it takes 80 minutes more time than what A and B together take to fill the tank A and B are kept open for 7 hours and then closed and C was opened. C will now empty the tank in:",
@@ -33,7 +39,9 @@
         "option3": "42 hours",
         "option4": "45.5 hours",
         "correctOption": 4,
-        "colourCode": "white"
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
     },
     {
         "question": " 5 Pipes A and B can fill a tank in 30 and 20 minutes, respectively. There is also an emptying pipe C attached to the tank. If all the three pipes are opened together, the tank is filled in 15 minutes. If the tank is one-third empty, then C alone will empty the tank completely in: ",
@@ -42,7 +50,9 @@
         "option3": "40 minutes",
         "option4": "60 minutes",
         "correctOption": 4,
-        "colourCode": "white"
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
     },
     {
         "question": " 6 Pipes A and B can empty a full tank in 8 and 12 hours, respectively. C is a filling pipe. All the three pipes were opened together at the same time and one-sixth of the tank got emptied in one hour. C alone can fill the tank in:",
@@ -51,7 +61,9 @@
         "option3": "24 hours",
         "option4": "25 hours",
         "correctOption": 4,
-        "colourCode": "white"
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
     },
     {
         "question": " 7 An inlet pipe A originating from a river can fill a reservoir in 30 days. And an outlet pipe B, which is capable of emptying the completely filled reservoir in 50 days, drains out the water from the reservoir to an irrigation canal. The pipes are opened on alternate days starting with A. On which day form the beginning will thereservoir get completely filled for the first time?",
@@ -60,7 +72,9 @@
         "option3": "150th",
         "option4": "74th",
         "correctOption": 4,
-        "colourCode": "white"
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
     },
     {
         "question": " 8 Pipe V1 can fill an empty tank in 8 hours. Pipe V2 can fill the same tank in 16 hours. Pipe V3 can empty the same, completely filled, tank in 12 hours. If three pipes are opened simultaneously, then in how much time will the tank get completely filled?",
@@ -69,7 +83,9 @@
         "option3": "38/5 hours",
         "option4": "48/5 hours",
         "correctOption": 4,
-        "colourCode": "white"
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
     },
     {
         "question": " 9 An inlet pipe can fill an empty tank in 2 hours and an outlet pipe can empty the full tank in 3 hours. In what time will the empty tank get filled, if the inlet and the outlet pipes are opened together?",
@@ -78,7 +94,9 @@
         "option3": "6 h",
         "option4": "2 h",
         "correctOption": 4,
-        "colourCode": "white"
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
     },
     {
         "question": " 10 Pipe A and B can fill a tank in 24 hours and 30 hours respectively, however pipe C can empty it in x hours. Pipe A and B are opened for 10 hours and then pipe C is opened. If, tank is emptied in 90 hours, then find the value of x.",
@@ -87,7 +105,9 @@
         "option3": "18",
         "option4": "20",
         "correctOption": 4,
-        "colourCode": "white"
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
     },
     {
         "question": " 11 Pipe A can fill a tank in 6 hours. Pipe B can fill the same tank in 8 hours. Pipe A, B and C together can fill the same tank in 12 hours. Then which of the following statements is true for pipe C?",
@@ -96,7 +116,9 @@
         "option3": "It can empty the tank in 4 hours 48 minutes",
         "option4": "It can empty the tank in 4 hours 40 minutes",
         "correctOption": 4,
-        "colourCode": "white"
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
     },
     {
         "question": " 12 Pipe A can fill a tank in 10 hours. Pipe B can fill the same tank in 12 hours. Pipe C can empty the full tank in 16 hours. All the pipes are opened at 8:00 A.M. and Pipe A and B are closed at 10:00 A.M. After how much time from starting will the tank be empty?",
@@ -105,7 +127,9 @@
         "option3": "5 hours 24 minutes",
         "option4": "5 hours 52 minutes",
         "correctOption": 4,
-        "colourCode": "white"
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
     },
     {
         "question": " 13 Pipe A can completely fill an empty tank in 11 hours. Pipe B can empty the same completely filled tank in 15 hours. If they are opened together, in how much time the empty tank will get filled?",
@@ -114,7 +138,9 @@
         "option3": "41 hours 15 minutes",
         "option4": "47 hours 30 minutes",
         "correctOption": 4,
-        "colourCode": "white"
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
     },
     {
         "question": " 14 Pipe A can fill a tank in 36 minutes and Pipe B can empty the tank in 45 minutes. If both the pipes are opened simultaneously, then find the time (in hours) to fill the tank to half its capacity.",
@@ -123,7 +149,9 @@
         "option3": "1.75",
         "option4": "2",
         "correctOption": 4,
-        "colourCode": "white"
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
     },
     {
         "question": " 15 Pipe D1 can fill an empty tank in 80 minutes and Pipe D2 can empty the same tank in 100 minutes. If pipes are opened simultaneously, then in how much time the tank gets completely filled?",
@@ -132,7 +160,9 @@
         "option3": "320 minutes",
         "option4": "240 minutes",
         "correctOption": 4,
-        "colourCode": "white"
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
     },
     {
         "question": " 16 Pipe A can fill a tank of capacity 350 liters in 3 1/3 minutes. Pipe B can fill a tank of capacity 780 liters in 8 1/3 minutes. How long (in min) will it take to fill a tank of capacity 1615 liters, if both pipes are opened together?",
@@ -141,7 +171,9 @@
         "option3": "9",
         "option4": "8",
         "correctOption": 4,
-        "colourCode": "white"
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
     },
     {
         "question": " 17 Pipes A and B can fill a tank in 18 minutes and 22 1/2 minutes, respectively while pipe C can empty the full tank in 12 minutes. A and B are opened together for 6 minutes and then closed. Now C is opened. C alone will empty the tank in ______.",
@@ -150,7 +182,9 @@
         "option3": "6 minutes",
         "option4": "5 minutes",
         "correctOption": 4,
-        "colourCode": "white"
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
     },
     {
         "question": " 18 Pipe A and B can empty a full tank in 18 hours and 24 hours, respectively. Pipe C alone can fill the tank in 36 hours. If the tank is 5/6 full and all the three pipes are opened together, then in how many hours will the tank be emptied?",
@@ -159,7 +193,9 @@
         "option3": "10",
         "option4": "12",
         "correctOption": 4,
-        "colourCode": "white"
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
     },
     {
         "question": " 19 Taps A and B can fill a tank in 15 minutes and 10 minutes, respectively while tap C and empty the full tank in x minutes. If all the three taps are opened together, the tank is filled completely in 8 minutes. Tap C alone will empty 3/8th part of the tank in:",
@@ -168,7 +204,9 @@
         "option3": "9 minutes",
         "option4": "8 1/2 minutes ",
         "correctOption": 4,
-        "colourCode": "white"
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
     },
     {
         "question": " 20 A tank is filled in 4 hours by three pipes A, B and C. The pipe C is twice as fast as B and pipe B is thrice as fast as A. How much time will pipe A alone take to fill the tank?",
@@ -177,7 +215,9 @@
         "option3": "30 hours",
         "option4": "32 hours",
         "correctOption": 4,
-        "colourCode": "white"
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
     },
     {
         "question": " 21 Two pipes A and B can fill a tank in 18 minutes and 24 minutes respectively. If both the pipes are opened simultaneously, then after how much time should pipe B be closed so that the tank is full in 12 minutes?",
@@ -186,7 +226,9 @@
         "option3": "8 minutes",
         "option4": "5 minutes",
         "correctOption": 4,
-        "colourCode": "white"
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
     },
     {
         "question": " 22 Pipes A and B are emptying pipes and can empty a tank in 6 hours and 16 hours, respectively. C is a filling pipe. All three pipes were opened together. They took 80 minutes to empty 5/18th of the tank. Pipe C alone can fill the tank in:",
@@ -195,7 +237,9 @@
         "option3": "48 hours",
         "option4": "40 hours",
         "correctOption": 4,
-        "colourCode": "white"
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
     },
     {
         "question": " 23 Pipes A and B can fill a tank in 36 hours and 48 hours, respectively. Both pipes are opened together for 9 hours and then A is closed. Pipe B alone will fill the remaining part of the tank now in :",
@@ -204,7 +248,9 @@
         "option3": "20 1/2 hours ",
         "option4": "24 hours",
         "correctOption": 4,
-        "colourCode": "white"
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
     },
     {
         "question": " 24 Pipes A and B together can empty a filled tank in 6 2/3 minutes. If A takes 3 minutes more than B to empty the tank, then the time (in minutes) in which A alone would empty one-third part of the tank is:",
@@ -213,7 +259,9 @@
         "option3": "5",
         "option4": "5.5",
         "correctOption": 4,
-        "colourCode": "white"
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
     },
     {
         "question": " 25 Three pipes, A, B and C, can fill a cistern in 12, 18 and 24 minutes, respectively, If all the pipes are opened together for 7 minutes, what will be the volume of the water that overflows as the percentage of the total volume of the cistern?",
@@ -222,7 +270,9 @@
         "option3": "23 1/3",
         "option4": "23 2/3",
         "correctOption": 4,
-        "colourCode": "white"
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
     },
     {
         "question": " 26 Pipes P and Q can fill a tank in 18 and 27 minutes, respectively, whereas pipe R can empty the full tank in 54 minutes. P and Q were opened together for 6 minutes and then closed and R was opened. The tank was emptied by R alone in:",
@@ -231,7 +281,9 @@
         "option3": "40 minutes",
         "option4": "45 minutes",
         "correctOption": 4,
-        "colourCode": "white"
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
     },
     {
         "question": " 27 Pipes A, B and C together can fill a cistern in 12 hours. All the three pipes are opened together for 4 hours and then C is close. A and B together take 10 hours to fill the remaining part of the cistern. C alone will fill two - thirds the cistern in:",
@@ -240,7 +292,9 @@
         "option3": "60 hours",
         "option4": "40 hours",
         "correctOption": 4,
-        "colourCode": "white"
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
     },
     {
         "question": " 28 Pipes A, B and C can fill a tank in 10, 15 and 30 hours, respectively. D is an emptying pipe which alone can empty the full tank in x hours. A, B and C are opened together for 3 hours and then closed. Now D is opened which alone empties the tank in 30 hours. What is the value of x?",
@@ -249,7 +303,9 @@
         "option3": "45",
         "option4": "60",
         "correctOption": 4,
-        "colourCode": "white"
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
     },
     {
         "question": " 29 Pipes A and B can fill an empty tank in 6 and 8 hours respectively, while pipe C can empty the full tank in 10 hours. If all three pipes are opened together, then the tank will get filled in:",
@@ -258,7 +314,9 @@
         "option3": "7 1/2hrs ",
         "option4": "6 1/5hrs ",
         "correctOption": 4,
-        "colourCode": "white"
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
     },
     {
         "question": " 30 Three pipes, A, B, C can fill an empty cistern in 2, 3 and 6 hours respectively. They are opened together. After what time should B be closed, so that the cistern gets filled in exactly 1 hr 15 min?",
@@ -267,7 +325,9 @@
         "option3": "15 min",
         "option4": "45 min",
         "correctOption": 4,
-        "colourCode": "white"
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
     },
     {
         "question": " 31 Pipes A and B are filling pipes while pipe C is an emptying pipe. A and B can fill a tank in 72 and 90 minutes respectively. When all the three pipes are opened together, the tank gets filled in 2 hours. A and B are opened together for 12 minutes, then closed and C is opened. The tank will be empty after:",
@@ -276,7 +336,9 @@
         "option3": "15 minutes",
         "option4": "12 minutes",
         "correctOption": 4,
-        "colourCode": "white"
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
     },
     {
         "question": " 32 Pipes A and B can fill a tank in 16 hours and 24 hours, respectively, and pipe C alone can empty the full tank in x hours. All the pipes were opened together at 10:30 AM, but C was closed at 2:30 PM. If the tank was full at 8:30 PM on the same day, then what is the value of x?",
@@ -285,7 +347,9 @@
         "option3": "64",
         "option4": "48",
         "correctOption": 4,
-        "colourCode": "white"
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
     },
     {
         "question": " 33 Pipes A and B can fill a tank in 8 hours and 12 hours, respectively whereas pipe C can empty the full tank in 6 hours. A and B are opened for 3 hours and then closed and C is opened instantly. C will empty the tank in:",
@@ -294,7 +358,9 @@
         "option3": "4(1/4) hours",
         "option4": "3(1/2) hours",
         "correctOption": 4,
-        "colourCode": "white"
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
     },
     {
         "question": " 34 An inlet pipe can fill a tank in 10 hours and an outlet pipe can empty the completely filled tank in 20 hours.Both the pipes are opened at 6.30 a.m. When will the tank get filled?",
@@ -303,7 +369,9 @@
         "option3": "2.30 a.m. next day",
         "option4": "1 a.m. next day",
         "correctOption": 4,
-        "colourCode": "white"
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
     },
     {
         "question": " 35 12 buckets of water fill a tank when the capacity of each bucket is 13.5 litres. How many buckets will be needed to fill the same tank, if the capacity of each bucket is 9 litres?",
@@ -312,7 +380,9 @@
         "option3": "18",
         "option4": "17",
         "correctOption": 4,
-        "colourCode": "white"
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
     },
     {
         "question": " 36 Pipe A can fill a tank in 16 minutes and pipe B empties it in 24 minutes. If both the pipes are opened together, after how many minutes should B be closed, so that the tank is filled in 30 minutes?",
@@ -321,7 +391,9 @@
         "option3": "18 minutes",
         "option4": "15 minutes",
         "correctOption": 4,
-        "colourCode": "white"
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
     },
     {
         "question": " 37 A pipe can fill a tank in 4 hours and a leak at the bottom can empty that full tank in 6 hours. If after the tank is 1/3 full, the leak is completely closed, how much time from beginning will it take for the tank to get filled completely?",
@@ -330,7 +402,9 @@
         "option3": "9 hours",
         "option4": "20 hours",
         "correctOption": 4,
-        "colourCode": "white"
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
     },
     {
         "question": " 38 Two pipes can fill a cistern in 72 and 90 minutes respectively. If both the pipes are left open how long will it take for the cistern to be half full?",
@@ -339,7 +413,9 @@
         "option3": "48 minutes",
         "option4": "20 minutes",
         "correctOption": 4,
-        "colourCode": "white"
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
     },
     {
         "question": " 39 Pipe A can fill a cistern in 4 hours and another pipe B is installed. Both the pipes together fill the cistern in 2 1/2 hours. How long will it take for B alone to fill the cistern? ",
@@ -348,7 +424,9 @@
         "option3": "5 1/6 hours",
         "option4": "6 3/8 hours",
         "correctOption": 4,
-        "colourCode": "white"
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
     },
     {
         "question": " 40 One tap can fill a tank in 3 hours and a leak can empty the tank in 5 hours. If the tap and the leak (which was half closed) were left open, how long will it take for the tank to fill?",
@@ -357,7 +435,9 @@
         "option3": "5 hours 13",
         "option4": "6 hours 23",
         "correctOption": 4,
-        "colourCode": "white"
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
     },
     {
         "question": " 41 Two pipes A and B can fill a tank in 20 minutes and 30 minutes respectively. If only pipe B was kept open in the beginning for 1/5th of the total time and then, both pipe A and B were kept open for the remaining time. How many minutes did it take the pipes to fill the tank?",
@@ -366,7 +446,9 @@
         "option3": "16 1/11",
         "option4": "13 7/11",
         "correctOption": 4,
-        "colourCode": "white"
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
     },
     {
         "question": " 42 A pipe can fill a tank in 30 minutes. Due to two leakages A and B, the fills tank would be drained off in 1 1/2hour and 1 1/4 hour respectively. How long will it take to fill the tank if the pipe, A and B are left open? ",
@@ -375,7 +457,9 @@
         "option3": "1 hour 4/5",
         "option4": "1 hour 5/6",
         "correctOption": 4,
-        "colourCode": "white"
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
     },
     {
         "question": " 43 Two pipes A and B can fill a tank in 45 minutes. If pipe A can fill an empty tank in 1 hour, how long will it take pipe B to fill the empty tank?",
@@ -384,7 +468,9 @@
         "option3": "1 hours",
         "option4": "4 hours",
         "correctOption": 4,
-        "colourCode": "white"
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
     },
     {
         "question": " 44 Three pipes X, Y and Z discharge three different chemicals A, B and C in a tank. The pipes can fill the tank in 20, 25 and 40 minutes respectively. What will be the proportion of chemical B in the tank, if all the pipes are open for 10 minutes?",
@@ -393,7 +479,9 @@
         "option3": "8/23",
         "option4": "11/15",
         "correctOption": 4,
-        "colourCode": "white"
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
     },
     {
         "question": " 45 Two pipes A and B can fill a tank in 16 hours and 20 hours respectively. They are opened alternatively for 1 hour each. Starting with pipe A first. In how many hours with the empty tank be filled?",
@@ -402,7 +490,9 @@
         "option3": "17 3/5",
         "option4": "17 1/14",
         "correctOption": 4,
-        "colourCode": "white"
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
     },
     {
         "question": " 46 Pipes A and B can fill a tank in 16 hours and 24 hours respectively whereas pipe C can empty the full tank in 40 hours. All three pipes are opened together, but pipe A is closed after 8 hours. After how many hours,the remaining part of tank will be filled?",
@@ -411,7 +501,9 @@
         "option3": "30",
         "option4": "28",
         "correctOption": 4,
-        "colourCode": "white"
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
     },
     {
         "question": " 47 Pipes A and B can fill a tank in 12 hours and 16 hours respectively and pipe C can empty the full tank in 24 hours. All three pipes are opened together, but after 4 hours pipe A is closed. In how many hours from the beginning the tank be filled?",
@@ -420,7 +512,9 @@
         "option3": "30",
         "option4": "32",
         "correctOption": 4,
-        "colourCode": "white"
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
     },
     {
         "question": " 48 A tank can be filled by pipe A in 5 hours and emptied by pipe B in 8 hours respectively. How much time will it take for the tank to be half full?",
@@ -429,7 +523,9 @@
         "option3": "12 h 1/3",
         "option4": "6 h 2/3",
         "correctOption": 4,
-        "colourCode": "white"
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
     },
     {
         "question": " 49 One fourth of a tank can be filled in 3 hours by pipe A and one-third of the same tank can be filled in 2hours by pipe B. How long will it take for the tank to be filled if both the pipes are kept open?",
@@ -438,7 +534,9 @@
         "option3": "4 h",
         "option4": "2 h 1/2",
         "correctOption": 4,
-        "colourCode": "white"
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
     },
     {
         "question": " 50 Pipes A and B can fill a tank in 6 hours and 8 hours respectively and pipe C can empty the full tank in 12hours. All three pipes are opened together, but pipe A is closed after 3 hours. In how many hours will the remaining part of the tank be filled?",
@@ -447,7 +545,9 @@
         "option3": "12",
         "option4": "9",
         "correctOption": 4,
-        "colourCode": "white"
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
     },
     {
         "question": " 51 Two pipes A and B can fill an empty tank in 8 hours and 12 hours respectively. They are opened alternately for 1 hour each, starting with pipe A first. In how many hours will the empty tank be filled?",
@@ -456,7 +556,9 @@
         "option3": "9 1/3",
         "option4": "9 1/2",
         "correctOption": 4,
-        "colourCode": "white"
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
     },
     {
         "question": " 52 Pipes A and B can fill a tank in 6 hours and 9 respectively and pipe C can empty the full tank in 12 hours.If all three pipes are opened together when a tank is empty, in how many hours will 35% tank be filled?",
@@ -465,7 +567,9 @@
         "option3": "1.6 h",
         "option4": "1.8 h",
         "correctOption": 4,
-        "colourCode": "white"
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
     },
     {
         "question": " 53 Two pipes A and B can fill a tank in 6 hours and 9 hours respectively. They are opened alternately for 1 hour each starting with pipe A first. In how many hours the tank will be filled?",
@@ -474,7 +578,9 @@
         "option3": "6",
         "option4": "7",
         "correctOption": 4,
-        "colourCode": "white"
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
     },
     {
         "question": " 54 Pipes A and B can fill a tank in one hour and two hours respectively while pipe C can empty the filled the tank in one hour and fifteen minutes. A and C are turned on together at 9 a.m. after 2 hours, only A is closed and B is turned on. When will the tank be emptied?",
@@ -483,7 +589,9 @@
         "option3": "12 : 20 p.m.",
         "option4": "11 : 30 a.m.",
         "correctOption": 4,
-        "colourCode": "white"
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
     },
     {
         "question": " 55 Two pipes, A and B can fill an empty cistern in 20 min and 40 min, respectively. Both the pipes are opened together, and after some time, pipe A is closed. If the cistern gets filled in 30 min, then for how long was pipe A kept open?",
@@ -492,7 +600,9 @@
         "option3": "10 min",
         "option4": "2 min",
         "correctOption": 4,
-        "colourCode": "white"
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
     },
     {
         "question": " 56 A pipe fills 2/6 of a cistern in 15 min. How long will it take to completely fill the cistern? ",
@@ -501,7 +611,9 @@
         "option3": "108 min",
         "option4": "100 min",
         "correctOption": 4,
-        "colourCode": "white"
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
     },
     {
         "question": " 57 A filling pipe fills 5/7th of the cistern in 35 minutes. How long will it take to fill the complete cistern?",
@@ -510,7 +622,9 @@
         "option3": "35 minutes",
         "option4": "40 minutes",
         "correctOption": 4,
-        "colourCode": "white"
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
     },
     {
         "question": " 58 Two inlet pipes A and E can fill an empty cistern in 12 minutes and 36 minutes respectively. Both the pipes A and E are opened together and after some time pipe, A is closed. Thus it takes 20 minutes to completely fill the tank, then for how many minutes pipe A was open?",
@@ -519,7 +633,9 @@
         "option3": "7 minutes",
         "option4": "3 minutes",
         "correctOption": 4,
-        "colourCode": "white"
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
     },
     {
         "question": " 59 Two pipes X and Y can fill an empty tank in 16 hours and 20 hours respectively. Pipe Z alone can empty the completely filled tank in 25 hours. Firstly both pipes X and Y are opened and after 6 hours pipe Z is also opened. What will be the total time (in hours) taken to completely fill the tank?",
@@ -528,7 +644,9 @@
         "option3": "28/3",
         "option4": "304/29",
         "correctOption": 4,
-        "colourCode": "white"
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
     },
     {
         "question": " 60 Two pipes A and B can fill a tank in 100 minutes and 120 minutes respectively. Pipe C can alone empty the same tank in 200 minutes. If all three pipes are opened together, then in how many minutes will the tank be filled?",
@@ -537,7 +655,9 @@
         "option3": "75",
         "option4": "120",
         "correctOption": 4,
-        "colourCode": "white"
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
     },
     {
         "question": " 61 Two taps U and V together can fill a tank in 24 hours, V and W in 30 hours and U and W in 40 hours. If all the three taps are opened, then in how much time (in hours) the tank will be completely filled?",
@@ -546,7 +666,9 @@
         "option3": "40",
         "option4": "54",
         "correctOption": 4,
-        "colourCode": "white"
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
     },
     {
         "question": " 62 Three taps A, B and C together can completely fill a tank in 30 minutes. B and C together can fill the same tank in 45 minutes. In how much time (in minutes) A alone can fill the tank?",
@@ -555,7 +677,9 @@
         "option3": "150",
         "option4": "80",
         "correctOption": 4,
-        "colourCode": "white"
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
     },
     {
         "question": " 63 A pipe can fill a tank in 12 hours. Due to the leak in its bottom, the tank is filled in 16 hours. If the tank is full, then that leak can empty the tank in how many hours?",
@@ -564,7 +688,9 @@
         "option3": "48",
         "option4": "65",
         "correctOption": 4,
-        "colourCode": "white"
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
     },
     {
         "question": " 64 Three taps A, B and C can fill a tank in 180, 20 and 90 minutes respectively. If all the taps are opened together, then in how many minutes will the tank be filled?",
@@ -573,7 +699,9 @@
         "option3": "30",
         "option4": "35",
         "correctOption": 4,
-        "colourCode": "white"
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
     },
     {
         "question": " 65 If 4/5th of a cistern is filled in 20 minutes, then what is the time (in minutes) needed to fill the remaining part?",
@@ -582,7 +710,9 @@
         "option3": "12",
         "option4": "15",
         "correctOption": 4,
-        "colourCode": "white"
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
     },
     {
         "question": " 66 Three taps R, S and T can fill a tank in 90, 100 and 180 minutes respectively. If all the taps are opened together, then in how many minutes will the tank be filled?",
@@ -591,7 +721,9 @@
         "option3": "45",
         "option4": "90",
         "correctOption": 4,
-        "colourCode": "white"
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
     },
     {
         "question": " 67 Pipes P and Q can fill a tank in 12 hours and 36 hours respectively. If both pipes are opened then, how much time (in hours) it will take to fill the tank?",
@@ -600,7 +732,9 @@
         "option3": "10",
         "option4": "7",
         "correctOption": 4,
-        "colourCode": "white"
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
     },
     {
         "question": " 68 Two pipes P and Q can fill the tank alone in 120 and 80 hours respectively. If they are opened together, then in how many hours will the tank be filled?",
@@ -609,7 +743,9 @@
         "option3": "100",
         "option4": "120",
         "correctOption": 4,
-        "colourCode": "white"
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
     },
     {
         "question": " 69 If 5/7 of a cistern is filled in 30 minutes, then what is the time (in minutes) needed to fill the remaining part?",
@@ -618,7 +754,9 @@
         "option3": "18",
         "option4": "8",
         "correctOption": 4,
-        "colourCode": "white"
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
     },
     {
         "question": " 70 If 2/5th of a cistern is filled in 6 minute, then what is the time needed to fill the remaining part?",
@@ -627,7 +765,9 @@
         "option3": "12",
         "option4": "10",
         "correctOption": 4,
-        "colourCode": "white"
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
     },
     {
         "question": " 71 A and B together can do a piece of work in 20 days and A alone can do it in 30 days. B alone can do the work in how many days?",
@@ -636,7 +776,9 @@
         "option3": "75",
         "option4": "90",
         "correctOption": 4,
-        "colourCode": "white"
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
     },
     {
         "question": " 72 Pipe A can fill a tank in 20 hours and pipe B can fill the same tank in 24 hours. Pipe C can empty the same tank in 12 hours. If all the pipes are opened together, then what portion of the tank will be filled after 12hours?",
@@ -645,7 +787,9 @@
         "option3": "1/15",
         "option4": "9/11",
         "correctOption": 4,
-        "colourCode": "white"
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
     },
     {
         "question": " 73 Two pipes P and Q can fill the tank alone in 60 and 90 hours respectively. If they are opened together, then in how many hours will the tank be filled?",
@@ -654,7 +798,9 @@
         "option3": "36",
         "option4": "30",
         "correctOption": 4,
-        "colourCode": "white"
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
     },
     {
         "question": " 74 A pipe can fill a tank in 120 hours. Due to the leak in its bottom, the tank is filled in 150 hours. If the tank is full, then that leak can empty the tank in howmany hours?",
@@ -663,7 +809,9 @@
         "option3": "600",
         "option4": "1200",
         "correctOption": 4,
-        "colourCode": "white"
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
     },
     {
         "question": " 75 Two pipes A and B can alone fill a tank in 40 minutes and 60 minutes respectively. Pipe C can alone empty the same tank in 120 minutes. If all three pipesare opened together, then in how many minutes will the tank be filled?",
@@ -672,7 +820,9 @@
         "option3": "75",
         "option4": "90",
         "correctOption": 4,
-        "colourCode": "white"
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
     },
     {
         "question": " 76 Tap A can fill a tank in 9 hours and tap B can fill the same tank in 6 hours. Tap C can empty the same full tank in 4 hours. If all the taps are opened together, then what portion of the tank will be filled after 6 hours?",
@@ -681,7 +831,9 @@
         "option3": "1/6",
         "option4": "1/18",
         "correctOption": 4,
-        "colourCode": "white"
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
     },
     {
         "question": " 77 Two taps J and K can fill the tank alone in 30 and 20 hours respectively. If they are opened together, in how many hours will the tank be filled?",
@@ -690,7 +842,9 @@
         "option3": "48",
         "option4": "16",
         "correctOption": 4,
-        "colourCode": "white"
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
     },
     {
         "question": " 78 Two taps X and Y together can fill a tank in 36 hours, Y and Z in 48 hours and X and Z in 72 hours. If all the three taps are opened, then in how much time (in hours) the tank will be completely filled?",
@@ -699,7 +853,9 @@
         "option3": "22",
         "option4": "36",
         "correctOption": 4,
-        "colourCode": "white"
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
     },
     {
         "question": " 79 Three taps P, Q and R together can completely fill a tank in 40 minutes. Q and R together can fill the same tank in 80 minutes. In how much time (in minutes) P alone can fill the tank?",
@@ -708,7 +864,9 @@
         "option3": "80",
         "option4": "120",
         "correctOption": 4,
-        "colourCode": "white"
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
     },
     {
         "question": " 80 Three taps A, B and C can fill a tank in 10, 12 and 15 hours respectively. How long (in hours) would the three taps take to fill the tank if all of them are opened together?",
@@ -717,7 +875,9 @@
         "option3": "6",
         "option4": "7",
         "correctOption": 4,
-        "colourCode": "white"
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
     },
     {
         "question": " 81 Two taps X and Y can fill a tank in 15 hours and 20 hours respectively. If the two taps are opened at 2 p.m., then at what time (in p.m.) should the tap X be closed to completely fill the tank at exactly 2 a.m.?",
@@ -726,7 +886,9 @@
         "option3": "9",
         "option4": "10",
         "correctOption": 4,
-        "colourCode": "white"
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
     },
     {
         "question": " 82 Pipes A and B can fill a tank in 5 hours and 20 hours respectively. If both pipes are opened then, how much time (in hours) it will take to fill the tank?",
@@ -735,7 +897,9 @@
         "option3": "3.5",
         "option4": "4",
         "correctOption": 4,
-        "colourCode": "white"
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
     },
     {
         "question": " 83 A pipe can fill a tank in 10 hours. Due to the leak in its bottom, the tank is filled in 12 hours. If the tank is full, then that leak can empty the tank in how many hours?",
@@ -744,7 +908,9 @@
         "option3": "45",
         "option4": "60",
         "correctOption": 4,
-        "colourCode": "white"
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
     },
     {
         "question": " 84 Two pipes L and J can alone fill a tank in 10 hours and 12 hours respectively. Pipe P can alone empty the same tank in 60 hours. If all three pipes are opened together, then in how many hours will the tank be filled?",
@@ -753,7 +919,9 @@
         "option3": "6",
         "option4": "12",
         "correctOption": 4,
-        "colourCode": "white"
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
     },
     {
         "question": " 85 X alone can do a work in 10 days. Y alone can do the same in 15 days. X, Y and Z together can do the same work in 3 days. In how many days can Z alone do the work?",
@@ -762,7 +930,9 @@
         "option3": "4",
         "option4": "10",
         "correctOption": 4,
-        "colourCode": "white"
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
     },
     {
         "question": " 86 Pipe A can fill a tank in 4 hours and pipe B can fill the same tank in 3 hours. Pipe C can empty the same full tank in 2 hours. If all the pipes are opened together, then what portion of the tank will be filled after 6 hours?",
@@ -771,7 +941,9 @@
         "option3": "1/3",
         "option4": "2/3",
         "correctOption": 4,
-        "colourCode": "white"
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
     },
     {
         "question": " 87 Three taps A, B and C can fill a tank in 20, 24 and 30 minutes respectively. How long (in minutes) would the three taps take to fill the tank if all of them are opened together?",
@@ -780,7 +952,9 @@
         "option3": "12",
         "option4": "7",
         "correctOption": 4,
-        "colourCode": "white"
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
     },
     {
         "question": " 88 Pipe A can fill a tank in 10 hours and pipe B can fill the same tank in 12 hours. Pipe C can empty the same full tank in 6 hours. If all the pipes are opened together, then what portion of the tank will be filled after 12 hours?",
@@ -789,7 +963,9 @@
         "option3": "1/4",
         "option4": "4/5",
         "correctOption": 4,
-        "colourCode": "white"
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
     },
     {
         "question": " 89 Two pipes can fill a cistern in 28 and 21 hours respectively and another pipe can empty 3 gallons of water per hour. All the three pipes working together can fill the empty cistern in 84 hours. What is the capacity (in gallons) of the cistern?",
@@ -798,7 +974,9 @@
         "option3": "42",
         "option4": "40",
         "correctOption": 4,
-        "colourCode": "white"
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
     },
     {
         "question": " 90 A pipe can fill a tank in 14 hours. Due to the leak in its bottom, the tank is filled in 16 hours. If the tank is full, then that leak can empty the tank in how many hours?",
@@ -807,7 +985,9 @@
         "option3": "108",
         "option4": "110",
         "correctOption": 4,
-        "colourCode": "white"
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
     },
     {
         "question": " 91 A pipe can fill a tank in 10 hours. Due to the leak in its bottom, the tank is filled in 12 hours. If the tank is full, then that leak can empty the tank in how many hours?",
@@ -816,7 +996,9 @@
         "option3": "60",
         "option4": "42",
         "correctOption": 4,
-        "colourCode": "white"
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
     },
     {
         "question": " 92 Two taps P and Q can fill a tank in 24 hours and 18 hours respectively. If the two taps are opened at 11a.m., then at what time (in p.m.) should the tap P be closed to completely fill the tank at exactly 2 a.m?",
@@ -825,7 +1007,9 @@
         "option3": "3",
         "option4": "4",
         "correctOption": 4,
-        "colourCode": "white"
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
     },
     {
         "question": " 93 Two pipes X and Y can fill a cistern in 6 hours and 10 hours respectively. Pipe Z can empty the tank in 4 hours. If all the three pipes are opened together then in how many hours the cistern will be full?",
@@ -834,7 +1018,9 @@
         "option3": "50",
         "option4": "60",
         "correctOption": 4,
-        "colourCode": "white"
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
     },
     {
         "question": " 94 Three taps A, B and C can fill a tank in 27, 36 and 54 minutes respectively. If all the three taps are opened,then how much time (in minutes) it will take to completely fill the tank?",
@@ -843,7 +1029,9 @@
         "option3": "10",
         "option4": "15",
         "correctOption": 4,
-        "colourCode": "white"
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
     },
     {
         "question": " 95 Three taps A, B and C can fill a tank in 20, 30 and 36 hours respectively. If all the taps are opened together, then in how many hours will the tank be filled?",
@@ -852,7 +1040,9 @@
         "option3": "12",
         "option4": "15",
         "correctOption": 4,
-        "colourCode": "white"
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
     },
     {
         "question": " 96 Three taps A, B and C can fill a tank in 120, 80 and 96 minutes respectively. If all the taps are opened together, then in how many minutes will the tank be filled?",
@@ -861,7 +1051,9 @@
         "option3": "43",
         "option4": "42",
         "correctOption": 4,
-        "colourCode": "white"
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
     },
     {
         "question": " 97 Pipe A can fill a tank in 30 minutes. Pipe B can fill the same tank in 50 minutes. In how much time (in minutes) both pipes together can fill the same tank?",
@@ -870,7 +1062,9 @@
         "option3": "18.75",
         "option4": "20",
         "correctOption": 4,
-        "colourCode": "white"
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
     },
     {
         "question": " 98 Three taps D, E and F can fill a tank in 100, 120 and 150 minutes respectively. If all the taps are opened together, then in how many minutes will the tank be filled?",
@@ -879,7 +1073,9 @@
         "option3": "40",
         "option4": "70",
         "correctOption": 4,
-        "colourCode": "white"
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
     },
     {
         "question": " 99 Two pipes S and T can fill a tank in 3 hours and 6 hours respectively. Pipe U can alone empty the same tank in 4 hours. If all three pipes are opened together, then in how many hours will the tank be filled?",
@@ -888,7 +1084,9 @@
         "option3": "5",
         "option4": "6",
         "correctOption": 4,
-        "colourCode": "white"
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
     },
     {
         "question": " 100 Three taps A, B and C can fill an tank in 50, 60 and 75 hours respectively. How long (in hours) would the three taps take to fill the tank if all of them are opened together?",
@@ -897,7 +1095,9 @@
         "option3": "20",
         "option4": "10",
         "correctOption": 4,
-        "colourCode": "white"
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
     },
     {
         "question": " 101 Two pipes A and B can alone fill a tank in 6 hours and 9 hours respectively. Pipe C can alone empty the same tank in 6 hours. If all three pipes are opened together, then in how many hours will the tank be filled?",
@@ -906,7 +1106,9 @@
         "option3": "8",
         "option4": "6",
         "correctOption": 4,
-        "colourCode": "white"
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
     },
     {
         "question": " 102 Pipe X can fill a tank in 20 hours and Pipe Y can fill the tank in 35 hours. Both the pipes are opened on alternate hours. Pipe Y is opened first, then in how much time (in hours) the tank will be full?",
@@ -915,7 +1117,9 @@
         "option3": "179/7",
         "option4": "172/7",
         "correctOption": 4,
-        "colourCode": "white"
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
     },
     {
         "question": " 103 Two pipes P and Q can fill an empty tank in 25 hours and 20 hours respectively. Pipe R alone can empty the completely filled tank in 50 hours. Firstly both the pipes P and Q are opened and after 8 hours pipe R is also opened. What will be the total time (in hours) taken to completely fill the tank?",
@@ -924,7 +1128,9 @@
         "option3": "14",
         "option4": "13",
         "correctOption": 4,
-        "colourCode": "white"
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
     },
     {
         "question": " 104 Pipe A can fill a tank in 12 hours and Pipe B can fill the tank in 18 hours. If both the pipes are opened on alternate hours and if pipe B is opened first, then in how much time (in hours) the tank will be full?",
@@ -933,7 +1139,9 @@
         "option3": "15.5",
         "option4": "15",
         "correctOption": 4,
-        "colourCode": "white"
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
     },
     {
         "question": " 105 Two inlet pipes can fill a cistern in 10 and 12 hours respectively and an outlet pipe can empty 80 gallons of water per hour. All the three pipes working together can fill the empty cistern in 20 hours. What is the capacity (in gallons) of the tank?",
@@ -942,7 +1150,9 @@
         "option3": "600",
         "option4": "900",
         "correctOption": 4,
-        "colourCode": "white"
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
     },
     {
         "question": " 106 Two inlet pipes can fill a cistern in 20 and 24 hours respectively and an outlet pipe can empty 160 gallons of water per hour. All the three pipes working together can fill the empty cistern in 40 hours. What is the capacity (in gallons) of the tank?",
@@ -951,7 +1161,9 @@
         "option3": "3600",
         "option4": "1800",
         "correctOption": 4,
-        "colourCode": "white"
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
     },
     {
         "question": " 107 Two inlet pipes can fill a cistern in 5 and 6 hours respectively and an outlet pipe can empty 24 gallons of water per hour. All the three pipes working together can fill the empty cistern in 10 hours. What is the capacity (in gallons) of the tank?",
@@ -960,7 +1172,9 @@
         "option3": "60",
         "option4": "120",
         "correctOption": 4,
-        "colourCode": "white"
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
     },
     {
         "question": " 108 3/4 part of a tank is filled with oil. After taking out 60 litres of oil the tank is 2/3 part full. What is the capacity (in litres) of the tank?",
@@ -969,7 +1183,9 @@
         "option3": "600",
         "option4": "720",
         "correctOption": 4,
-        "colourCode": "white"
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
     },
     {
         "question": " 109 If 2/5th of a cistern is filled in 6 minute, then what is the time needed to fill the remaining part?",
@@ -978,7 +1194,9 @@
         "option3": "12",
         "option4": "10",
         "correctOption": 4,
-        "colourCode": "white"
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
     },
     {
         "question": " 110 A and B together can do a piece of work in 20 days and A alone can do it in 30 days. B alone can do the work in how many days?",
@@ -987,7 +1205,9 @@
         "option3": "75",
         "option4": "90",
         "correctOption": 4,
-        "colourCode": "white"
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
     },
     {
         "question": " 111 Two pipes P and Q, when opened alone can fill the tank in 20 and 30 hours respectively. If both pipes are opened together, then in how many hours will the tank be filled?",
@@ -996,7 +1216,9 @@
         "option3": "8",
         "option4": "15",
         "correctOption": 4,
-        "colourCode": "white"
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
     },
     {
         "question": " 112 Three taps A, B and C can fill a tank in 10, 12 and 15 hours respectively. If all the taps are opened together, then in how many hours will the tank be filled?",
@@ -1005,7 +1227,9 @@
         "option3": "8",
         "option4": "2",
         "correctOption": 4,
-        "colourCode": "white"
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
     },
     {
         "question": " 113 Two pipes U and V can fill a cistern in 12 hours and 20 hours respectively. Pipe W can empty the tank in 8 hours. If all the three pipes are opened, then in how many hours the cistern will be full?",
@@ -1014,7 +1238,9 @@
         "option3": "150",
         "option4": "100",
         "correctOption": 4,
-        "colourCode": "white"
+        "colourCode": "white",
+        "timeTaken": 0,
+        "result": "unaswered"
     },
     {
         "question": " 114 Three taps P, Q and R can fill a tank in 20, 30 and 40 minutes respectively. If all the three taps are opened, then how much time (in minutes) it will take to completely fill the tank?",

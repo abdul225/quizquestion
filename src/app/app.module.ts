@@ -19,11 +19,13 @@ import { ParticleEffectButtonModule } from "angular-particle-effect-button";
 import { PdfQuizComponent } from './pdf-quiz/pdf-quiz.component';
 import { MatTableModule } from '@angular/material/table';
 import {CdkTableModule} from '@angular/cdk/table';
+import { HomeComponent } from './home/home.component';
 @NgModule({
   declarations: [
     AppComponent,
     QuizComponent,
-    PdfQuizComponent
+    PdfQuizComponent,
+    HomeComponent
   ],
   imports: [
     BrowserModule,

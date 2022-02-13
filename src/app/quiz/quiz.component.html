@@ -2,8 +2,8 @@
 
   <mat-card fxFlex="25">
     <div class="example-button-container" padding="10px">
-      <button *ngFor="let q of questionsList; index as i; trackBy: trackByFn" mat-mini-fab class="indexButtons"
-        (click)="index = i ; question=questionsList[i];timeLeft= 90;timeTaken=0;"
+      <button *ngFor="let q of questionsList; index as i; " mat-mini-fab class="indexButtons"
+        (click)="indexChange(i)"
         [ngStyle]="{'background-color': questionsList[i].colourCode}">
         {{i+1}}
       </button>
@@ -13,9 +13,9 @@
   <div fxFlex="70" fxLayout="column wrap" fxLayoutAlign="space-around center" class="question-container">
     <mat-card fxLayoutAlign="space-around stretch" (click)="complete()">{{ time | date: 'hh:mm:ss a' }}</mat-card>
     <br>
-    <div class="particles-button" [pSize]="6" libParticleEffectButton (pComplete)="hidden1= false;" pType="triangle"
+    <!-- <div class="particles-button" [pSize]="6" libParticleEffectButton (pComplete)="hidden1= false;" pType="triangle"
       pEasing="easeOutQuart" pParticlesAmountCoefficient="4" pOscillationCoefficient="1" pColor="#fff" pDuration="500"
-      [pHidden]="hidden1" (click)="hiding()">
+      [pHidden]="hidden1" (click)="hiding()"> -->
       <div fxLayout="column wrap">
 
         <mat-card fxLayoutAlign="space-around stretch">
@@ -28,27 +28,27 @@
         <div class="container" fxLayoutGap.xs="0" fxLayout="row wrap" padding="10px"
           fxLayoutAlign="space-around center">
           <button mat-button class="option-button"
-            [ngClass]="{'wrong-option':selectedOptionNumber == 1 && selectedOptionNumber!= question.correctOption,'correct-option':question.correctOption == 1 && selectedOptionNumber!= 0}"
+            [ngClass]="{'wrong-option':selectedOptionNumber == 1 && selectedOptionNumber!= correctAnswerOption,'correct-option':correctAnswerOption == 1 && selectedOptionNumber!= 0}"
             (click)="selectedOption(1)"><span>{{question.option1}}</span></button>
           <button mat-button class="option-button"
-            [ngClass]="{'wrong-option':selectedOptionNumber == 2 && selectedOptionNumber!= question.correctOption,'correct-option':question.correctOption == 2 && selectedOptionNumber!= 0}"
+            [ngClass]="{'wrong-option':selectedOptionNumber == 2 && selectedOptionNumber!= correctAnswerOption,'correct-option':correctAnswerOption == 2 && selectedOptionNumber!= 0}"
             (click)="selectedOption(2)"><span>{{question.option2}}</span></button>
         </div>
         <br>
         <div class="container" fxLayoutGap.xs="0" fxLayout="row wrap" padding="10px"
           fxLayoutAlign="space-around center">
           <button mat-button class="option-button"
-            [ngClass]="{'wrong-option':selectedOptionNumber == 3 && selectedOptionNumber!= question.correctOption,'correct-option':question.correctOption == 3 && selectedOptionNumber!= 0}"
+            [ngClass]="{'wrong-option':selectedOptionNumber == 3 && selectedOptionNumber!= correctAnswerOption,'correct-option':correctAnswerOption == 3 && selectedOptionNumber!= 0}"
             (click)="selectedOption(3)"><span>{{question.option3}}</span></button>
           <button mat-button class="option-button"
-            [ngClass]="{'wrong-option':selectedOptionNumber == 4 && selectedOptionNumber!= question.correctOption,'correct-option':question.correctOption == 4 && selectedOptionNumber!= 0}"
+            [ngClass]="{'wrong-option':selectedOptionNumber == 4 && selectedOptionNumber!= correctAnswerOption,'correct-option':correctAnswerOption == 4 && selectedOptionNumber!= 0}"
             (click)="selectedOption(4)"><span>{{question.option4}}</span></button>
         </div>
         <br>
 
       </div>
       <progress value={{progress}} max="100"></progress>
-    </div>
+    <!-- </div> -->
   </div>
 </div>
 <div  *ngIf="completed" >

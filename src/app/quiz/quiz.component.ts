@@ -1,7 +1,8 @@
 import { Component, OnInit } from '@angular/core';
 import { Question } from './question';
+import {Key} from './key';
 import percentagequiz1 from '../../assets/Json/percentages1.json';
-import ratioquiz from '../../assets/Json/ratioProportion.json';
+import ratioquiz from '../../assets/Json/ratioandproportion.json';
 import ratioquiz1 from '../../assets/Json/ratioProportion1.json';
 import profitLoss1 from '../../assets/Json/profitloss1.json';
 import profitLoss2 from '../../assets/Json/profitloss2.json';
@@ -9,10 +10,18 @@ import profitLoss3 from '../../assets/Json/profitloss3.json';
 import profitLoss4 from '../../assets/Json/profitloss4.json';
 import pipeAndCistern from '../../assets/Json/pipeandcistern.json';
 import generalAwareness from '../../assets/Json/generalawareness.json';
+import mixtureAllegation from '../../assets/Json/mixtureAlligation.json';
 import { PausableObservable, pausable } from 'rxjs-pausable';
 import { Subject, interval, from } from 'rxjs';
 import { createOfflineCompileUrlResolver } from '@angular/compiler';
 import { trigger, state, style, animate, transition } from '@angular/animations';
+import indianHistory1 from '../../assets/Json/indianhistory.json';
+import constitution from '../../assets/Json/constitution.json';
+import constitutionkey from '../../assets/Json/constitutionanswers.json';
+import speedtime from '../../assets/Json/speedtimeanddistance.json';
+import speedtimeKey from '../../assets/Json/speedtimeandistandkey.json';
+import indianEconomy from '../../assets/Json/indianeconomy.json';
+import indianEconomyKey from '../../assets/Json/indianeconomykey.json';
 @Component({
   selector: 'app-quiz',
   templateUrl: './quiz.component.html',
@@ -58,12 +67,13 @@ export class QuizComponent implements OnInit {
     this.interval;
   }
 
-  correctAnswerOption: number;
+  
   selectedOptionNumber: number = 0;
   index: number = 0;
   progress: number = 0;
   timeTaken: number = 0;
-  public questionsList: Question[] = generalAwareness;
+  public questionsList: Question[] = speedtime;
+  public keyList: Key[] = speedtimeKey;
   answeredRight: number = 0;
   answeredWrong: number = 0 ;
   timeLeft: number = 90;
@@ -76,6 +86,9 @@ export class QuizComponent implements OnInit {
   timeDifference;
   averageTime: number;
   public question: Question = this.questionsList[this.index];
+  public key: Key = this.keyList[this.index];
+ //correctAnswerOption = this.question.correctOption;
+  correctAnswerOption = this.key.answer;
   paused = true;
   time = new Date();
   initialTime = new Date();
@@ -97,6 +110,7 @@ export class QuizComponent implements OnInit {
       this.timeTaken = 0;
       this.index++;
       this.question = this.questionsList[this.index];
+      //this.key = this.keyList[this.index];
     }
     this.time = new Date();
   }, 1000)
@@ -108,7 +122,7 @@ export class QuizComponent implements OnInit {
   }
 
   async selectedOption(x: number) {
-    this.correctAnswerOption = this.question.correctOption;
+    
     this.selectedOptionNumber = x;
     if (x == this.correctAnswerOption) {
      // this.audioCorrect.load();
@@ -134,6 +148,9 @@ export class QuizComponent implements OnInit {
     this.selectedOptionNumber = 0;
 
     this.question = this.questionsList[this.index];
+    this.key = this.keyList[this.index];
+    //this.correctAnswerOption = this.question.correctOption;
+    this.correctAnswerOption = this.key.answer;
     await this.delay(1000);
     this.timeLeft = 90;
     this.timeTaken = 0;
@@ -145,6 +162,16 @@ export class QuizComponent implements OnInit {
     this.interval;
   }
 
+  indexChange(y :number){
+    this.index = y ;
+    this.question=this.questionsList[y];
+    this.key = this.keyList[y];
+    //this.correctAnswerOption = this.question.correctOption;
+    this.correctAnswerOption = this.key.answer;
+    this.timeLeft= 90;
+    this.timeTaken=0;
+
+  }
   complete(){
       this.completed = true;
       this.finalTime = new Date();

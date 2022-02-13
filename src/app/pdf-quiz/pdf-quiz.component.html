@@ -2,7 +2,7 @@
 
     <mat-card fxFlex="25">
       <div class="example-button-container" padding="10px">
-        <button *ngFor="let q of answersList; index as i; trackBy: trackByFn" mat-mini-fab class="indexButtons"
+        <button *ngFor="let q of answersList; index as i; " mat-mini-fab class="indexButtons"
           (click)="index = i ; answer=answersList[i];timeLeft= 60;timeTaken=0;"
           [ngStyle]="{'background-color': answersList[i].colourCode}">
           {{i+1}}
@@ -12,7 +12,7 @@
   
     <div fxFlex="70" fxLayout="column wrap" fxLayoutAlign="space-around center" class="answer-container">
     <mat-card fxLayoutAlign="space-around stretch">{{ time | date: 'hh:mm:ss a' }}</mat-card> <br>
-      <div class="particles-button"
+      <!-- <div class="particles-button"
       [pSize]="6"
       libParticleEffectButton
       (pComplete)="hidden1= false;"
@@ -23,7 +23,7 @@
       pColor="#fff"
       pDuration="500"
       [pHidden]="hidden1"
-      (click)="hiding()" >
+      (click)="hiding()" > -->
         <div fxLayout="column wrap" >
   
           <mat-card fxLayoutAlign="space-around stretch">
@@ -56,7 +56,7 @@
   
         </div>
         <progress value={{progress}} max="100"></progress>
-      </div>
+      <!-- </div> -->
     </div>
   </div>
   <table mat-table [dataSource]="answersList" class="mat-elevation-z8" *ngIf="completed">

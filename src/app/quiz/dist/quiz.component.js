@@ -44,7 +44,8 @@ var __generator = (this && this.__generator) || function (thisArg, body) {
 exports.__esModule = true;
 exports.QuizComponent = void 0;
 var core_1 = require("@angular/core");
-var generalawareness_json_1 = require("../../assets/Json/generalawareness.json");
+var speedtimeanddistance_json_1 = require("../../assets/Json/speedtimeanddistance.json");
+var speedtimeandistandkey_json_1 = require("../../assets/Json/speedtimeandistandkey.json");
 var QuizComponent = /** @class */ (function () {
     function QuizComponent() {
         var _this = this;
@@ -52,7 +53,8 @@ var QuizComponent = /** @class */ (function () {
         this.index = 0;
         this.progress = 0;
         this.timeTaken = 0;
-        this.questionsList = generalawareness_json_1["default"];
+        this.questionsList = speedtimeanddistance_json_1["default"];
+        this.keyList = speedtimeandistandkey_json_1["default"];
         this.answeredRight = 0;
         this.answeredWrong = 0;
         this.timeLeft = 90;
@@ -60,6 +62,9 @@ var QuizComponent = /** @class */ (function () {
         this.hidden1 = false;
         this.completed = false;
         this.question = this.questionsList[this.index];
+        this.key = this.keyList[this.index];
+        //correctAnswerOption = this.question.correctOption;
+        this.correctAnswerOption = this.key.answer;
         this.paused = true;
         this.time = new Date();
         this.initialTime = new Date();
@@ -74,6 +79,7 @@ var QuizComponent = /** @class */ (function () {
                 _this.timeTaken = 0;
                 _this.index++;
                 _this.question = _this.questionsList[_this.index];
+                //this.key = this.keyList[this.index];
             }
             _this.time = new Date();
         }, 1000);
@@ -110,7 +116,6 @@ var QuizComponent = /** @class */ (function () {
             return __generator(this, function (_a) {
                 switch (_a.label) {
                     case 0:
-                        this.correctAnswerOption = this.question.correctOption;
                         this.selectedOptionNumber = x;
                         if (!(x == this.correctAnswerOption)) return [3 /*break*/, 1];
                         // this.audioCorrect.load();
@@ -140,6 +145,9 @@ var QuizComponent = /** @class */ (function () {
                         this.index++;
                         this.selectedOptionNumber = 0;
                         this.question = this.questionsList[this.index];
+                        this.key = this.keyList[this.index];
+                        //this.correctAnswerOption = this.question.correctOption;
+                        this.correctAnswerOption = this.key.answer;
                         return [4 /*yield*/, this.delay(1000)];
                     case 5:
                         _a.sent();
@@ -155,6 +163,15 @@ var QuizComponent = /** @class */ (function () {
                 }
             });
         });
+    };
+    QuizComponent.prototype.indexChange = function (y) {
+        this.index = y;
+        this.question = this.questionsList[y];
+        this.key = this.keyList[y];
+        //this.correctAnswerOption = this.question.correctOption;
+        this.correctAnswerOption = this.key.answer;
+        this.timeLeft = 90;
+        this.timeTaken = 0;
     };
     QuizComponent.prototype.complete = function () {
         this.completed = true;

@@ -286,7 +286,8 @@
         "result": "unaswered"
     },
     {
-        "question": "  27 The marked price of an article is Rs. 480 and is sold at a discount of Rs. 72. What is the discount percentage?",
+        "question": "  27 The marked price of an article is Rs. 480 and is sold at a discount of Rs. 7",
+        "option2": "What is the discount percentage?",
         "option1": "5",
         "option2": "15",
         "option3": "10",
@@ -319,7 +320,10 @@
         "result": "unaswered"
     },
     {
-        "question": "  30 A shopkeeper offers the following 3 schemes. Which scheme has the maximum discount percentage? I. Two successive discount of 20% and 25% II. Buy 5 get 3 free III. Buy 5 get 6",
+        "question": "  30 A shopkeeper offers the following 3 schemes. Which scheme has the maximum discount percentage? ",
+        "option1": "Two successive discount of 20% and 25% I",
+        "option1": "Buy 5 get 3 free II",
+        "option1": "Buy 5 get 6",
         "option1": "Only II",
         "option2": "Onlyl",
         "option3": "Only I and II",
@@ -682,7 +686,8 @@
         "result": "unaswered"
     },
     {
-        "question": "  63 A wholesaler offers 10% discount on pens which have been marked 60% above the cost price. Sumit bought the pen for Rs 504. What was the cost price (in Rs) of the pens?",
+        "question": "  63 A wholesaler offers 10% discount on pens which have been marked 60% above the cost price. Sumit bought the pen for Rs 50",
+        "option4": "What was the cost price (in Rs) of the pens?",
         "option1": "220",
         "option2": "300",
         "option3": "350",
@@ -770,7 +775,8 @@
         "result": "unaswered"
     },
     {
-        "question": "  71 An article has marked price of Rs. 7600 and is available at a discount of 15%. The shopkeeper gives another discount to the buyer and sells the article for Rs. 5814. What is the second discount (in %) offered?",
+        "question": "  71 An article has marked price of Rs. 7600 and is available at a discount of 15%. The shopkeeper gives another discount to the buyer and sells the article for Rs. 581",
+        "option4": "What is the second discount (in %) offered?",
         "option1": "20",
         "option2": "10",
         "option3": "12.5",
@@ -792,7 +798,8 @@
         "result": "unaswered"
     },
     {
-        "question": "  73 Shopkeeper sold big, medium and small sized chairs for Rs. 650, Rs. 500 and Rs. 400 respectively. The total number of chairs sold were in the ratio 8 : 13 : 4. What is the average cost (in Rs.) of a chair?",
+        "question": "  73 Shopkeeper sold big, medium and small sized chairs for Rs. 650, Rs. 500 and Rs. 400 respectively. The total number of chairs sold were in the ratio 8 : 13 : ",
+        "option4": "What is the average cost (in Rs.) of a chair?",
         "option1": "506",
         "option2": "546",
         "option3": "478",
@@ -891,7 +898,10 @@
         "result": "unaswered"
     },
     {
-        "question": "  82 A shopkeeper offers the following 3 schemes. Which scheme has the maximum discount percentage? I. Two successive discounts of 30% and 20% II. Buy 4 get 7 III. Buy 4 get 3 free",
+        "question": "  82 A shopkeeper offers the following 3 schemes. Which scheme has the maximum discount percentage? ",
+        "option1": "Two successive discounts of 30% and 20% I",
+        "option1": "Buy 4 get 7 II",
+        "option1": "Buy 4 get 3 free",
         "option1": "Onlyl",
         "option2": "Only III",
         "option3": "Only II and III",
@@ -902,7 +912,8 @@
         "result": "unaswered"
     },
     {
-        "question": "  83 The ratio of the cost price and selling price of an article is 5 : 3. What is the loss percentage?",
+        "question": "  83 The ratio of the cost price and selling price of an article is 5 : ",
+        "option3": "What is the loss percentage?",
         "option1": "40",
         "option2": "20",
         "option3": "66.66",
@@ -935,7 +946,8 @@
         "result": "unaswered"
     },
     {
-        "question": "  86 The difference between cost price and selling price is Rs. 451. If loss percentage is 11 %, then what is the selling price (in Rs)?",
+        "question": "  86 The difference between cost price and selling price is Rs. 45",
+        "option1": "If loss percentage is 11 %, then what is the selling price (in Rs)?",
         "option1": "3254",
         "option2": "3649",
         "option3": "3857",
@@ -1045,7 +1057,8 @@
         "result": "unaswered"
     },
     {
-        "question": "  96 S, T and U started a business and their capitals are in the ratio of 3 : 4 : 6. At the end they receive the profit in the ratio of 1 : 2 : 3. What will be the respective ratio of time period for which they contributed their capitals?",
+        "question": "  96 S, T and U started a business and their capitals are in the ratio of 3 : 4 : 6. At the end they receive the profit in the ratio of 1 : 2 : ",
+        "option3": "What will be the respective ratio of time period for which they contributed their capitals?",
         "option1": "3: 2: 2",
         "option2": "2: 3: 3",
         "option3": "2: 2: 3",
@@ -1111,7 +1124,8 @@
         "result": "unaswered"
     },
     {
-        "question": "  102 A vendor buys 4 bananas at Rs. 3 and sells 3 bananas at Rs. 4. What will be the result?",
+        "question": "  102 A vendor buys 4 bananas at Rs. 3 and sells 3 bananas at Rs. ",
+        "option4": "What will be the result?",
         "option1": "43.75% profit",
         "option2": "77.7% loss",
         "option3": "77.7% profit",
@@ -1188,7 +1202,8 @@
         "result": "unaswered"
     },
     {
-        "question": "  109 Selling price of an article is Rs. 1144. If loss percentage is 12%, then what is the cost price (in Rs.) of article?",
+        "question": "  109 Selling price of an article is Rs. 114",
+        "option4": "If loss percentage is 12%, then what is the cost price (in Rs.) of article?",
         "option1": "1300",
         "option2": "1006",
         "option3": "1242",
@@ -1573,7 +1588,8 @@
         "result": "unaswered"
     },
     {
-        "question": "  144 An article has marked price of Rs. 7600 and is available at a discount of 15%. The shopkeeper gives another discount to the buyer and sells the article for Rs. 5814. What is the second discount (in %) offered?",
+        "question": "  144 An article has marked price of Rs. 7600 and is available at a discount of 15%. The shopkeeper gives another discount to the buyer and sells the article for Rs. 581",
+        "option4": "What is the second discount (in %) offered?",
         "option1": "20",
         "option2": "10",
         "option3": "12.5",
@@ -1672,7 +1688,8 @@
         "result": "unaswered"
     },
     {
-        "question": " 153 marked price of an article is Rs 3600 and selling price is Rs 3132. What is the discount percentage?",
+        "question": " 153 marked price of an article is Rs 3600 and selling price is Rs 313",
+        "option2": "What is the discount percentage?",
         "option1": "12%",
         "option2": "13%",
         "option3": "17.21%",
@@ -1683,7 +1700,8 @@
         "result": "unaswered"
     },
     {
-        "question": "  154 The difference between cost price and selling price is Rs. 221. If profit percentage is 17%, then what is the selling price (in Rs.)?",
+        "question": "  154 The difference between cost price and selling price is Rs. 22",
+        "option1": "If profit percentage is 17%, then what is the selling price (in Rs.)?",
         "option1": "1079",
         "option2": "1300",
         "option3": "1521",
@@ -1947,7 +1965,8 @@
         "result": "unaswered"
     },
     {
-        "question": " 178 Selling price of a fan is Rs. 4644. If profit percentage is 29%, then what is the cost price (in Rs.) of fan?",
+        "question": " 178 Selling price of a fan is Rs. 464",
+        "option4": "If profit percentage is 29%, then what is the cost price (in Rs.) of fan?",
         "option1": "5900",
         "option2": "3500",
         "option3": "3800",
@@ -2046,7 +2065,8 @@
         "result": "unaswered"
     },
     {
-        "question": " 187 Marked price of an article is Rs. 7600 and its selling price is Rs 5472. What is discount percentage?",
+        "question": " 187 Marked price of an article is Rs. 7600 and its selling price is Rs 547",
+        "option2": "What is discount percentage?",
         "option1": "34",
         "option2": "28",
         "option3": "31",
@@ -2640,7 +2660,8 @@
         "result": "unaswered"
     },
     {
-        "question": "  241 Aman, Kamal and Ratan start a business. The ratio of their investments is 12 : 4: 3. If at the end the ratio of their profits is 3 : 16 : 9, then what is the ratio of time period of their investment?",
+        "question": "  241 Aman, Kamal and Ratan start a business. The ratio of their investments is 12 : 4: ",
+        "option3": "If at the end the ratio of their profits is 3 : 16 : 9, then what is the ratio of time period of their investment?",
         "option1": "9:64:81",
         "option2": "4: 36: 9",
         "option3": "1:16:12",
@@ -2651,7 +2672,9 @@
         "result": "unaswered"
     },
     {
-        "question": "  242 A shopkeeper offers the following 3 schemes. Which scheme has the lowest discount percentage (all articles have same marked price)? I Two successive discounts of 10% and 10% II. Buy 7 get 8 III. Buy 9 get 1 free",
+        "question": "  242 A shopkeeper offers the following 3 schemes. Which scheme has the lowest discount percentage (all articles have same marked price)? I Two successive discounts of 10% and 10% I",
+        "option1": "Buy 7 get 8 II",
+        "option1": "Buy 9 get 1 free",
         "option1": "Only II",
         "option2": "Only III",
         "option3": "Only II and III",
@@ -2838,7 +2861,8 @@
         "result": "unaswered"
     },
     {
-        "question": "  259 The difference between cost price and selling price is Rs. 12.54. If loss percentage is 33%, then what is the cost price (in Rs.)?",
+        "question": "  259 The difference between cost price and selling price is Rs. 12.5",
+        "option4": "If loss percentage is 33%, then what is the cost price (in Rs.)?",
         "option1": "35.44",
         "option2": "50.54",
         "option3": "41",
@@ -2937,7 +2961,8 @@
         "result": "unaswered"
     },
     {
-        "question": "  268 Cost price of an article is Rs. 122. If profit percentage is 56%, then what is the selling price (in Rs) of the article?",
+        "question": "  268 Cost price of an article is Rs. 12",
+        "option2": "If profit percentage is 56%, then what is the selling price (in Rs) of the article?",
         "option1": "277.27",
         "option2": "217.85",
         "option3": "175.68",
@@ -3157,7 +3182,9 @@
         "result": "unaswered"
     },
     {
-        "question": "  288 Which of the following successive discount is the best for the customer? I 25%, 25% II. 10%, 40% III. 20%, 30%",
+        "question": "  288 Which of the following successive discount is the best for the customer? I 25%, 25% I",
+        "option1": "10%, 40% II",
+        "option1": "20%, 30%",
         "option1": "Onlyl",
         "option2": "Only II",
         "option3": "Only III",

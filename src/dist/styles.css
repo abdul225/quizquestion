@@ -1,0 +1,15 @@
+/* You can add global styles to this file, and also import other style files */
+@import '@angular/material/prebuilt-themes/deeppurple-amber.css';
+@import url("https://fonts.googleapis.com/css?family=Lobster");
+@import url("https://fonts.googleapis.com/css?family=Orbitron|Open+Sans");
+html {
+  /* max-height: 600px; */
+  /* width: 1200px */
+  overflow: hidden;
+  background-color: rgba(46, 87, 107, 0.4);
+  background-image: url("./assets/pictures/1933103.jpg");
+  background-repeat: repeat-x;
+  background-position: 0 20%, 0 100%, 0 50%, 0 100%, 0 0;
+  background-size: contain;
+  background-size: 2500px, 800px, 500px 200px, 1000px, 400px 260px;
+}
